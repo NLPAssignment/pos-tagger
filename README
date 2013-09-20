@@ -1,0 +1,17 @@
+Pos Tagging using Viterbi algorithm.
+
+Training corpus: ~10k words.
+
+Tagset: 
+
+N	noun
+V	verb
+A	adjective
+R	adverb
+O	other
+
+^	start of sentence
+.	end of sentence
+
+transition probabilities: probability from noun to verb etc
+output probabilities: probability of an output word given its parts of speech.
