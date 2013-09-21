@@ -13,13 +13,13 @@ public class train {
 		{
 			case 'N': return 1;
 			
-			case 'V':return 2;
+			case 'V': return 2;
 				
-			case 'A':return 3;
+			case 'A': return 3;
 				
-			case 'R':return 4;
+			case 'R': return 4;
 				
-			case 'O':return 5;
+			case 'O': return 5;
 			
 		}
 		return -1;
@@ -33,15 +33,15 @@ public class train {
 			
 			case 1: return 'N';
 			
-			case 2:return 'V';
+			case 2: return 'V';
 				
-			case 3:return 'A';
+			case 3: return 'A';
 				
-			case 4:return 'R';
+			case 4: return 'R';
 				
-			case 5:return 'O';
+			case 5: return 'O';
 			
-			case 6:return '.';
+			case 6: return '.';
 		}
 		return ' ';
 	}
@@ -120,9 +120,9 @@ public class train {
 	}
 	
 	
-	public void readCorpus() throws IOException
+	public void readCorpus(String filename) throws IOException
 	{
-		BufferedReader br  = new BufferedReader(new FileReader(new File("training.txt")));
+		BufferedReader br  = new BufferedReader(new FileReader(new File(filename)));
 		String line ;
 	
 		int previous, current;
@@ -156,7 +156,7 @@ public class train {
 	public static void main(String args[]) throws IOException
 	{
 		train t = new train();
-		t.readCorpus();
+		t.readCorpus("training.txt");
 		t.printtransitionCounts();
 	}
 }
