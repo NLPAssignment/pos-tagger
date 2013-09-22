@@ -4,27 +4,46 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.HashMap;
 
-public class train {
-	
+public class train
+{
+	/*
+	^-0
+	N-1
+	V-2
+	A-3
+	R-4
+	O-5
+	.-6
+	*/
+
+	// Class variables
+
+	int [][] transitionCounts;
+	int [] priorStateCounts;
+	HashMap<String, int[]> outputCounts;
+
+	/* Maps a pos tag to respective index */
 	public int getPosIndex(char tag)
 	{
 		switch(tag)
 		{
 			case 'N': return 1;
-			
+
 			case 'V': return 2;
-				
+
 			case 'A': return 3;
-				
+
 			case 'R': return 4;
-				
+
 			case 'O': return 5;
-			
+
 		}
 		return -1;
 	}
 	
+	/* Maps a matrix index to respective pos tag */
 	public char getIndexPos(int index)
 	{
 		switch(index)
@@ -45,37 +64,25 @@ public class train {
 		}
 		return ' ';
 	}
-	
-	/*
-	^-0
-	N-1
-	V-2
-	A-3
-	R-4
-	O-5
-	.-6
-	*/
-	int [][] transitionCounts;
-	int [] priorStateCounts;
-	
+
+	/* Class constructor */
 	public train()
 	{
+		// Create & initialize transition probabilities
 		transitionCounts = new int [7][7];
-		
 		for( int i  = 0 ; i < 7 ; i ++ )
-		{
 			for (int j = 0 ; j < 7 ; j ++ )
-			{
 				transitionCounts[i][j] = 0;
-			}
-		}
-		
+
+		// Create and initialize pos tag counts
 		priorStateCounts = new int [7];
-		
 		for(int i = 0 ; i < 7 ; i ++ )
 			priorStateCounts[i] = 0;
+
+		// Create empty HashMap for output counts
+		outputCounts = new HashMap<String, int[]>();
 	}
-	
+
 	public void printtransitionCounts()
 	{
 		System.out.println("---Transition Counts:---");
@@ -118,6 +125,24 @@ public class train {
 			System.out.println();
 		}
 	}
+
+	public void printOutputCounts()
+	{
+		System.out.println("---Output Counts:---");
+		for(int i = 0 ; i < 7 ; i ++)
+		{
+			System.out.print("\t" + getIndexPos(i));
+		}
+		System.out.println();
+
+		for(String word : outputCounts.keySet())
+		{
+			System.out.print(word + "\t");
+			for(int count : outputCounts.get(word))
+				System.out.print(count + "\t");
+			System.out.println();
+		}
+	}
 	
 	
 	public void readCorpus(String filename) throws IOException
@@ -130,11 +155,13 @@ public class train {
 		{
 			previous = 0;
 			String words[] = line.split(" ");
-			
+
+			// Process a single line, word-by-word
 			for (int i = 0 ; i < words.length ; i++ )
 			{
-				
-				String taggedword[]= words[i].split("_");
+				String taggedword[]= words[i].split("_");	// Separate word and tag
+
+				// Get the tag transition
 				current = getPosIndex(taggedword[1].charAt(0));
 				if(current==5 && taggedword[0].equals("."))
 				{
@@ -143,6 +170,15 @@ public class train {
 				transitionCounts[previous][current]++;
 				priorStateCounts[previous]++;
 				previous = current;
+
+				// Get the tag output
+
+				if(!outputCounts.containsKey(taggedword[0]))	// This is a new word. Create the corresponding array
+					outputCounts.put(taggedword[0], new int[7]);
+
+				int[] currentOutputCounts = outputCounts.get(taggedword[0]);	// Obtain the values for current word
+				currentOutputCounts[current]++;
+				outputCounts.put(taggedword[0], currentOutputCounts);
 			}
 		}
 	}
@@ -158,5 +194,6 @@ public class train {
 		train t = new train();
 		t.readCorpus("training.txt");
 		t.printtransitionCounts();
+		t.printOutputCounts();
 	}
 }
