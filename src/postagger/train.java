@@ -85,7 +85,11 @@ public class train
 		outputCounts = new HashMap<String, int[]>();
 	}
 
+<<<<<<< HEAD
 	public void printTransitionCounts()
+=======
+	public void printtransitionCounts()
+>>>>>>> ea72412b5721fca94cb34eba5389792e4f32ceb4
 	{
 		System.out.println("---Transition Counts:---");
 		for(int i = 0 ; i < 7 ; i ++)
@@ -166,6 +170,24 @@ public class train
 		}
 		
 		
+	}
+
+	public void printOutputCounts()
+	{
+		System.out.println("---Output Counts:---");
+		for(int i = 0 ; i < 7 ; i ++)
+		{
+			System.out.print("\t" + getIndexPos(i));
+		}
+		System.out.println();
+
+		for(String word : outputCounts.keySet())
+		{
+			System.out.print(word + "\t");
+			for(int count : outputCounts.get(word))
+				System.out.print(count + "\t");
+			System.out.println();
+		}
 	}
 	
 	
@@ -262,11 +284,16 @@ public class train
 	{
 		train t = new train();
 		t.readCorpus("training.txt");
+<<<<<<< HEAD
 		t.printTransitionCounts();
 		//t.printOutputCounts();
 		System.out.println("P(noun to verb) : "+t.getTransitionProbability(1, 2));
 		System.out.println("P(guarantee/noun) : "+t.getOutputProbability("guarantee", 1));
 		t.storeProbabilites("model.txt");
 		
+=======
+		t.printtransitionCounts();
+		t.printOutputCounts();
+>>>>>>> ea72412b5721fca94cb34eba5389792e4f32ceb4
 	}
 }
