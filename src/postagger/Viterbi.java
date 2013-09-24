@@ -57,7 +57,6 @@ public class Viterbi {
 		}
 		return ' ';
 	}
-
 	
 	public void loadProbabilites(String filename) throws IOException
 	{
@@ -68,7 +67,7 @@ public class Viterbi {
 		for( int i = 0 ; i < 7 ; i++ )
 		{
 			String line = br.readLine();
-			System.out.println(line);
+		//	System.out.println(line);
 			String [] parts = line.split("\t");
 			
 			for(int j = 0 ; j < 7 ; j++ )
@@ -81,17 +80,23 @@ public class Viterbi {
 		/*read output probabilties and store in hashmap*/
 		
 		String line;
-		double[] probabilities = new double[7];
+		
 		while((line=br.readLine())!=null)
 		{
 			String parts[] = line.split("\t");
-			
+			double[] probabilities = new double[7];
 			for(int i  = 0 ; i <7 ; i++ )
 			{
-				probabilities[i] = Double.parseDouble(parts[i]);
+				//System.out.print(parts[i+1]+"\t");
+				probabilities[i] = Double.parseDouble(parts[i+1]);
+					//System.out.print(probabilities[i]+"\t");
 			}
+			//System.out.println();
+			//System.out.println("--"+parts[0]+"--");
 			outputProbabilities.put(parts[0], probabilities);
+			
 		}
+		//System.out.println(Double.parseDouble("0.043478260869565216"));
 	}
 	
 	public void printProbabilities()
@@ -122,19 +127,123 @@ public class Viterbi {
 		}
 		System.out.println();
 
-		for(String word : outputProbabilities.keySet())
+		for (String words : outputProbabilities.keySet())
 		{
-			System.out.print(word + "\t");
-			for(double count : outputProbabilities.get(word))
-				System.out.print(count + "\t");
+			System.out.print(words+"\t");
+			
+			for (int i = 0 ; i< outputProbabilities.get(words).length ; i ++)
+			{
+				System.out.print(outputProbabilities.get(words)[i]+"\t");
+			}
 			System.out.println();
 		}
+	}
+	
+	public void viterbi(String sentence)
+	{
+		
+		String words []= sentence.split(" "); //split the sentence into words - last word is ? ! .or 
+		double [][]probabilityTrellis = new double[5][words.length-1]; //trellis without start and end state
+		int [][] tracebackTrellis = new int[5][words.length-1];
+		
+		//start to initial state on epsilon output
+		for (int i = 0 ; i < 5 ; i++ )
+		{
+			probabilityTrellis[i][0] = transitionProbabilites[0][i+1]; //P(N/^), P(V/^) etc from trained counts
+		}
+		
+		//fill the trellis in column major form
+		for(int column = 1 ; column < (words.length - 1) ; column++ )
+		{
+			for( int row = 0 ; row < 5 ; row++ )
+			{
+				double max = 0.0;
+				int maxPosTag = 1;
+				for (int previousColumnRow = 0 ; previousColumnRow < 5 ; previousColumnRow++ )
+				{
+					double value = probabilityTrellis[previousColumnRow][column-1];
+					
+					value *= transitionProbabilites[previousColumnRow+1][row+1]; //pos tags are indexed 1 to 5, array indices are 0 to 4
+					
+					value *= outputProbabilities.get(words[column-1])[previousColumnRow+1];
+				
+					if(value > max)
+					{
+						max = value;
+						maxPosTag = previousColumnRow+1; //stores pos tag index from 1 to 5 
+					}
+				}
+				probabilityTrellis[row][column] = max;
+				tracebackTrellis[row][column] = maxPosTag;
+			}
+		}
+		
+		double max = 0.0;
+		int lastColumn = words.length-2;
+		int maxPosTag = 1;
+		for(int row = 0; row < 5 ; row ++)
+		{
+			double value = probabilityTrellis[row][lastColumn];
+			value *= transitionProbabilites[row+1][6]; //transition of last pos tag to end state
+			value *= outputProbabilities.get(words[lastColumn])[row+1];
+			if(value > max)
+			{
+				max = value;
+				maxPosTag = row+1;
+			}
+		}
+		
+		/*print trellis*/
+		System.out.println("---Probabiltity trellis---");
+		for(int i = 0 ; i < 5 ; i++)
+		{
+			for  (int j = 0; j < (words.length-1) ; j++)
+			{
+				System.out.print(probabilityTrellis[i][j]+"\t");
+			}
+			System.out.println();
+		}
+		System.out.println("---Traceback trellis---");
+		for(int i = 0 ; i < 5 ; i++)
+		{
+			for  (int j = 0; j < (words.length-1) ; j++)
+			{
+				System.out.print(tracebackTrellis[i][j]+"\t");
+			}
+			System.out.println();
+		}
+		
+		System.out.println("max probability:"+max);
+		System.out.println("traceback:"+maxPosTag);
+		
+		
+		
+		
+		//pos tag
+		
+		words[words.length-1] = words[words.length-1]+"_O";
+		int currentTag = maxPosTag;
+		for(int i = words.length-2 ; i >= 0 ; i--)
+		{
+			words[i] = words[i]+"_"+getIndexPos(currentTag);
+			currentTag = tracebackTrellis[maxPosTag-1][i];
+		}
+	
+		
+		
+		for(int i = 0 ; i < words.length ; i++)
+		{
+			System.out.print(words[i]+" ");
+		}
+		System.out.println();
 	}
 	
 	public static void main(String args[]) throws IOException
 	{
 		Viterbi v = new Viterbi();
 		v.loadProbabilites("model.txt");
-		v.printProbabilities();
+		v.viterbi("they must show .");
+		//v.printProbabilities();
+		//System.out.println(v.outputProbabilities.get("other")[1]);
 	}
 }
