@@ -139,7 +139,7 @@ public class Viterbi {
 		}
 	}
 	
-	public void viterbi(String sentence)
+	public String viterbi(String sentence, boolean interactive)
 	{
 		
 		String words []= sentence.split(" "); //split the sentence into words - last word is ? ! .or 
@@ -192,35 +192,34 @@ public class Viterbi {
 				maxPosTag = row+1;
 			}
 		}
-		
-		/*print trellis*/
-		System.out.println("---Probabiltity trellis---");
-		for(int i = 0 ; i < 5 ; i++)
+
+		if(interactive)
 		{
-			for  (int j = 0; j < (words.length-1) ; j++)
+			/*print trellis*/
+			System.out.println("---Probabiltity trellis---");
+			for(int i = 0 ; i < 5 ; i++)
 			{
-				System.out.print(probabilityTrellis[i][j]+"\t");
+				for  (int j = 0; j < (words.length-1) ; j++)
+				{
+					System.out.print(probabilityTrellis[i][j]+"\t");
+				}
+				System.out.println();
 			}
-			System.out.println();
-		}
-		System.out.println("---Traceback trellis---");
-		for(int i = 0 ; i < 5 ; i++)
-		{
-			for  (int j = 0; j < (words.length-1) ; j++)
+			System.out.println("---Traceback trellis---");
+			for(int i = 0 ; i < 5 ; i++)
 			{
-				System.out.print(tracebackTrellis[i][j]+"\t");
+				for  (int j = 0; j < (words.length-1) ; j++)
+				{
+					System.out.print(tracebackTrellis[i][j]+"\t");
+				}
+				System.out.println();
 			}
-			System.out.println();
+		
+			System.out.println("max probability:"+max);
+			System.out.println("traceback:"+maxPosTag);
 		}
-		
-		System.out.println("max probability:"+max);
-		System.out.println("traceback:"+maxPosTag);
-		
-		
-		
-		
-		//pos tag
-		
+
+		// pos tag
 		words[words.length-1] = words[words.length-1]+"_O";
 		int currentTag = maxPosTag;
 		for(int i = words.length-2 ; i >= 0 ; i--)
@@ -228,21 +227,23 @@ public class Viterbi {
 			words[i] = words[i]+"_"+getIndexPos(currentTag);
 			currentTag = tracebackTrellis[maxPosTag-1][i];
 		}
-	
-		
-		
+
+		// Create final string to return and/or print
+		String outputSentence = "";
 		for(int i = 0 ; i < words.length ; i++)
-		{
-			System.out.print(words[i]+" ");
-		}
-		System.out.println();
+			outputSentence += words[i]+" ";
+
+		if(interactive)
+			System.out.println(outputSentence + "\n");
+
+		return outputSentence;
 	}
 	
 	public static void main(String args[]) throws IOException
 	{
 		Viterbi v = new Viterbi();
 		v.loadProbabilites("model.txt");
-		v.viterbi("they must show .");
+		v.viterbi("I need to help .", true);
 		//v.printProbabilities();
 		//System.out.println(v.outputProbabilities.get("other")[1]);
 	}
