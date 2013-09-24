@@ -225,7 +225,7 @@ public class train
 		return (double)transitionCounts[previous][next] / priorStateCounts[previous];
 	}
 	
-	public void storeProbabilites(String filename)throws IOException
+	public void storeProbabilities(String filename)throws IOException
 	{
 		FileWriter writer = new FileWriter(new File(filename));
 		
@@ -241,8 +241,6 @@ public class train
 		}
 		
 		//write output probabilities to file
-		
-
 		for(String word : outputCounts.keySet())
 		{
 			writer.write(word + "\t");
@@ -268,7 +266,7 @@ public class train
 		t.printOutputCounts();
 		System.out.println("P(noun to verb) : "+t.getTransitionProbability(1, 2));
 		System.out.println("P(guarantee/noun) : "+t.getOutputProbability("guarantee", 1));
-		t.storeProbabilites("model.txt");
+		t.storeProbabilities("model.txt");
 		
 	}
 }
