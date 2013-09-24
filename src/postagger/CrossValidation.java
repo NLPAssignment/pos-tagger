@@ -74,17 +74,39 @@ public class CrossValidation
 
 	/* crossValidate(): Accepts a fold no and reports accuracy for that fold */
 	public static double crossValidate(int foldno)
+	throws IOException
 	{
-		return -1.0;
+		int incorrect = 0, total = 0;
+		String testLine="", inputLine="", taggedLine="";
+		Viterbi v = new Viterbi();
+		v.loadProbabilities("model" + foldno + ".txt");
+
+		BufferedReader testFile = new BufferedReader(new FileReader("Test-Fold" + foldno + ".txt"));
+
+		while( (testLine = testFile.readLine()) != null )
+		{
+			inputLine = stripTags(testLine);
+			System.out.println(inputLine);
+			taggedLine = v.viterbi(inputLine, false);
+			total += countTags(testLine);
+			incorrect += countErrors(testLine, taggedLine);
+		}
+
+		return (total-incorrect) / (double) total;
 	}
 
 	/* findAccuracy(): Reports the overall accuracy upon 5-fold cross-validation */
 	public static double findAccuracy()
+	throws IOException
 	{
 		double accuracySum = 0.0;
 
 		for(int i=0; i<5; i++)
-			accuracySum += CrossValidation.crossValidate(i);
+		{
+			double currentAccuracy = CrossValidation.crossValidate(i);
+			System.out.println("Accuracy for fold " + i + " is: " + currentAccuracy);
+			accuracySum += currentAccuracy;
+		}
 
 		return accuracySum / 5;
 	}
@@ -98,6 +120,29 @@ public class CrossValidation
 		return true;
 	}
 
+	/* Accepts a line in tagged format and removes all tags from it */
+	static String stripTags(String line)
+	{	return line.replaceAll("_[NVARO]", "");	}
+
+	/* Accepts a line and finds no of tags in it */
+	static int countTags(String line)
+	{
+		int tags = 0;
+		for(char c : line.toCharArray())
+			if(c == '_')
+				tags++;
+		return tags;
+	}
+
+	static int countErrors(String cline, String wline)
+	{
+		int errors = 0;
+		for(int i=0; i<cline.length(); i++)
+			if(cline.charAt(i) != wline.charAt(i))
+				errors++;
+		return errors;
+	}
+
 	public static void main(String ar[])
 	throws IOException
 	{
@@ -108,8 +153,9 @@ public class CrossValidation
 			createModelFiles();
 		}
 
-		if(!(checkFiles("Train-Fold") && checkFiles("Test-Fold")))
-			createCorpusFiles();
+		System.out.println("The overall accuracy is: " + findAccuracy());
+
+		// System.out.println(countErrors("AIDS_N Immune_A Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_N ._O", "AIDS_N Immune_O Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_V ._O"));
 
 		System.out.println("In progress...");
 	}

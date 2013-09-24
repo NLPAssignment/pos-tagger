@@ -58,7 +58,7 @@ public class Viterbi {
 		return ' ';
 	}
 	
-	public void loadProbabilites(String filename) throws IOException
+	public void loadProbabilities(String filename) throws IOException
 	{
 		BufferedReader br = new BufferedReader(new FileReader(new File(filename)));
 		
@@ -242,8 +242,8 @@ public class Viterbi {
 	public static void main(String args[]) throws IOException
 	{
 		Viterbi v = new Viterbi();
-		v.loadProbabilites("model.txt");
-		v.viterbi("I need to help .", true);
+		v.loadProbabilities("model.txt");
+		v.viterbi("This is seriously amazing .", true);	// Throws NPE as "seriously" and "amazing" are not part of training.txt
 		//v.printProbabilities();
 		//System.out.println(v.outputProbabilities.get("other")[1]);
 	}
