@@ -143,8 +143,7 @@ public class CrossValidation
 		return errors;
 	}
 
-	public static void main(String ar[])
-	throws IOException
+	public static void main(String ar[])throws IOException
 	{
 		if(! checkFiles("model"))
 		{

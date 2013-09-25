@@ -235,7 +235,7 @@ public class train
 		{
 			for (int j = 0 ; j < 7 ; j++ )
 			{
-				writer.write(((double)transitionCounts[i][j]/priorStateCounts[i])+"\t");
+				writer.write( ( (double) transitionCounts[i][j]  / priorStateCounts[i] ) + "\t" );
 			}
 			writer.write("\n");
 		}
@@ -250,7 +250,7 @@ public class train
 				sum += count;
 			}
 			for(int count : outputCounts.get(word))
-				writer.write(( (double) count / sum )+"\t");
+				writer.write(( (double) (count) / ( sum ) )+"\t");
 			writer.write("\n");
 		}
 		

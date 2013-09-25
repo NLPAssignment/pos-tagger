@@ -7,9 +7,18 @@ import java.io.IOException;
 import java.util.HashMap;
 
 public class Viterbi {
+	
+	/*
+	 * class variables 
+	 * transition probabilties for each pair of states
+	 * output probabilities for word given a state
+	 * 
+	 * */
+	
 	double [][] transitionProbabilites;
 	HashMap<String, double[]> outputProbabilities;
 	
+	//constructor- initializes data structures to empty
 	public Viterbi()
 	{
 		transitionProbabilites = new double[7][7];
@@ -58,6 +67,7 @@ public class Viterbi {
 		return ' ';
 	}
 	
+	//reads corpus file and builds data structures
 	public void loadProbabilities(String filename) throws IOException
 	{
 		BufferedReader br = new BufferedReader(new FileReader(new File(filename)));
@@ -99,6 +109,7 @@ public class Viterbi {
 		//System.out.println(Double.parseDouble("0.043478260869565216"));
 	}
 	
+	//prints data structures for testing and debugging
 	public void printProbabilities()
 	{
 		System.out.println("---Transition Probabilties:---");
@@ -139,6 +150,22 @@ public class Viterbi {
 		}
 	}
 	
+	//returns P(word|state)
+	public double getOutputProbability(String word, int posTag)
+	{
+		if(outputProbabilities.containsKey(word))
+		{
+			return outputProbabilities.get(word)[posTag-1];
+		}
+		else
+		{
+			return 0.0;
+			 //return ( (double) 1 / outputProbabilities.size() );
+		}
+	}
+	
+	
+	
 	public String viterbi(String sentence, boolean interactive)
 	{
 		
@@ -165,7 +192,7 @@ public class Viterbi {
 					
 					value *= transitionProbabilites[previousColumnRow+1][row+1]; //pos tags are indexed 1 to 5, array indices are 0 to 4
 					
-					value *= outputProbabilities.get(words[column-1])[previousColumnRow+1];
+					value *= getOutputProbability(words[column-1], previousColumnRow+1);//outputProbabilities.get(words[column-1])[previousColumnRow+1];
 				
 					if(value > max)
 					{
@@ -185,7 +212,7 @@ public class Viterbi {
 		{
 			double value = probabilityTrellis[row][lastColumn];
 			value *= transitionProbabilites[row+1][6]; //transition of last pos tag to end state
-			value *= outputProbabilities.get(words[lastColumn])[row+1];
+			value *= getOutputProbability(words[lastColumn], row+1);//outputProbabilities.get(words[lastColumn])[row+1];
 			if(value > max)
 			{
 				max = value;
