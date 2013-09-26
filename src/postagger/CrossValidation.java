@@ -12,6 +12,12 @@ public class CrossValidation
 {
 	// Class variables
 	static int countLines;		// Total no of lines in original training file
+	static int[][] confMatrix;	// Confusion matrix depicting which tag (1st index) is confused with which tag (2nd index)
+
+	static
+	{
+		confMatrix = new int[5][5];
+	}
 
 	/* createCorpusFiles(): Splits training.txt into 5 pairs of files, 1 for each fold */
 	public static void createCorpusFiles()
@@ -85,9 +91,11 @@ public class CrossValidation
 
 		while( (testLine = testFile.readLine()) != null )
 		{
+			testLine = Utilities.uncapitalize(testLine);
 			inputLine = stripTags(testLine);
-			System.out.println(inputLine);
+			// System.out.println(inputLine);
 			taggedLine = v.viterbi(inputLine, false);
+			//System.out.println(taggedLine);
 			total += countTags(testLine);
 			incorrect += countErrors(testLine, taggedLine);
 		}
@@ -139,8 +147,30 @@ public class CrossValidation
 		int errors = 0;
 		for(int i=0; i<cline.length(); i++)
 			if(cline.charAt(i) != wline.charAt(i))
+			{
+				int correctIndex = Utilities.getPosIndex(cline.charAt(i))-1;
+				int wrongIndex = Utilities.getPosIndex(wline.charAt(i))-1;	// Bloody indexes
+				confMatrix[correctIndex][wrongIndex]++;
 				errors++;
+			}
 		return errors;
+	}
+
+	static void printConfMatrix()
+	{
+		System.out.println("--- Confusion Matrix ---");
+		System.out.print("\t");
+		for(int i=0; i<5; i++)
+			System.out.print(Utilities.getIndexPos(i+1) + "\t");
+		System.out.println();
+
+		for(int i=0; i<5; i++)
+		{
+			System.out.print(Utilities.getIndexPos(i+1) + "\t");
+			for(int j=0; j<5; j++)
+				System.out.print(confMatrix[i][j] + "\t");
+			System.out.println();
+		}
 	}
 
 	public static void main(String ar[])throws IOException
@@ -153,6 +183,7 @@ public class CrossValidation
 		}
 
 		System.out.println("The overall accuracy is: " + findAccuracy());
+		printConfMatrix();
 
 		// System.out.println(countErrors("AIDS_N Immune_A Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_N ._O", "AIDS_N Immune_O Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_V ._O"));
 

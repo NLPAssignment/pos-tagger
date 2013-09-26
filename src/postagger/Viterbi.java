@@ -168,6 +168,8 @@ public class Viterbi {
 	
 	public String viterbi(String sentence, boolean interactive)
 	{
+		// Make it case-insensitive
+		sentence = Utilities.uncapitalize(sentence);
 		
 		String words []= sentence.split(" "); //split the sentence into words - last word is ? ! .or 
 		double [][]probabilityTrellis = new double[5][words.length-1]; //trellis without start and end state
@@ -198,6 +200,7 @@ public class Viterbi {
 					{
 						max = value;
 						maxPosTag = previousColumnRow+1; //stores pos tag index from 1 to 5 
+						// was changed from previousColumnRow+1
 					}
 				}
 				probabilityTrellis[row][column] = max;
@@ -270,7 +273,7 @@ public class Viterbi {
 	{
 		Viterbi v = new Viterbi();
 		v.loadProbabilities("model.txt");
-		v.viterbi("This is seriously amazing .", true);	// Throws NPE as "seriously" and "amazing" are not part of training.txt
+		v.viterbi("there is no vaccine currently available .", true);
 		//v.printProbabilities();
 		//System.out.println(v.outputProbabilities.get("other")[1]);
 	}

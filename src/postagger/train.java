@@ -178,6 +178,9 @@ public class train
 		
 		while(( line = br.readLine() ) != null ) //read line by line
 		{
+			// Make it case-insensitive
+			line = Utilities.uncapitalize(line);
+
 			previous = 0;
 			String words[] = line.split(" "); //chunk into words
 
