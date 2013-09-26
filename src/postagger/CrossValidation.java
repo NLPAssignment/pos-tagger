@@ -13,10 +13,22 @@ public class CrossValidation
 	// Class variables
 	static int countLines;		// Total no of lines in original training file
 	static int[][] confMatrix;	// Confusion matrix depicting which tag (1st index) is confused with which tag (2nd index)
+	static int[] correctTags;	// No of instances of a particular POS tag assigned correctly
+	static int[] assignedTags;	// No of times we predict a particular tag
+	static int[] corpusTags;	// No of instances of a particular tag in corpus
+	static double[] precision;	// precision[i] = correctTags[i] / assignedTags[i]
+	static double[] recall;		// recall[i] = correctTags[i] / corpusTags[i]
+	static double[] f;		// F-Measure: f = 2*p*r / (p+r)
 
 	static
 	{
 		confMatrix = new int[5][5];
+		correctTags = new int[5];
+		assignedTags = new int[5];
+		corpusTags = new int[5];
+		precision = new double[5];
+		recall = new double[5];
+		f = new double[5];
 	}
 
 	/* createCorpusFiles(): Splits training.txt into 5 pairs of files, 1 for each fold */
@@ -97,10 +109,10 @@ public class CrossValidation
 			taggedLine = v.viterbi(inputLine, false);
 			//System.out.println(taggedLine);
 			total += countTags(testLine);
-			incorrect += countErrors(testLine, taggedLine);
+			incorrect += keepCounts(testLine, taggedLine);
 		}
 
-		return (total-incorrect) / (double) total;
+		return (total-incorrect) * 100 / (double) total;
 	}
 
 	/* findAccuracy(): Reports the overall accuracy upon 5-fold cross-validation */
@@ -115,6 +127,8 @@ public class CrossValidation
 			System.out.println("Accuracy for fold " + i + " is: " + currentAccuracy);
 			accuracySum += currentAccuracy;
 		}
+
+		computePRF();
 
 		return accuracySum / 5;
 	}
@@ -142,16 +156,28 @@ public class CrossValidation
 		return tags;
 	}
 
-	static int countErrors(String cline, String wline)
+	/* 
+	keepCounts(): Accepts the Viterbi-tagged line and Corpus line, and:
+	1: Update confusion matrix
+	2: Update counts of correctTags, assignedTags, corpusTags
+	3: Calculate and return no of errors in tagging
+	*/
+	static int keepCounts(String cline, String wline)
 	{
 		int errors = 0;
 		for(int i=0; i<cline.length(); i++)
 		{
 			if(cline.charAt(i) == '_')
 			{
-				int correctIndex = Utilities.getPosIndex(cline.charAt(i+1))-1;
-				int wrongIndex = Utilities.getPosIndex(wline.charAt(i+1))-1;	// Bloody indexes
-				confMatrix[correctIndex][wrongIndex]++;
+				int corpusIndex = Utilities.getPosIndex(cline.charAt(i+1))-1;
+				int taggedIndex = Utilities.getPosIndex(wline.charAt(i+1))-1;	// Bloody indexes
+				confMatrix[corpusIndex][taggedIndex]++;
+
+				// correctTags is simply made of diagonal entries in conf matrix
+				correctTags[taggedIndex] = confMatrix[taggedIndex][taggedIndex];
+
+				assignedTags[taggedIndex]++;
+				corpusTags[corpusIndex]++; 
 			}
 
 			if(cline.charAt(i) != wline.charAt(i))
@@ -160,7 +186,17 @@ public class CrossValidation
 		return errors;
 	}
 
-	static void printConfMatrix()
+	public static void computePRF()
+	{
+		for(int i=0; i<5; i++)
+		{
+			precision[i] = correctTags[i] / (double) assignedTags[i];
+			recall[i] = correctTags[i] / (double) corpusTags[i];
+			f[i] = (2 * precision[i] * recall[i]) / (precision[i] + recall[i]);
+		}
+	}
+
+	static void printResults()
 	{
 		System.out.println("--- Confusion Matrix ---");
 		System.out.print("\t");
@@ -175,6 +211,19 @@ public class CrossValidation
 				System.out.print(confMatrix[i][j] + "\t");
 			System.out.println();
 		}
+
+		System.out.println("\n--- Precision ---");
+		for(int i=0; i<5; i++)
+			System.out.print(precision[i] + "\t");
+
+		System.out.println("\n--- Recall ---");
+		for(int i=0; i<5; i++)
+			System.out.print(recall[i] + "\t");
+
+		System.out.println("\n--- F-Measure ---");
+		for(int i=0; i<5; i++)
+			System.out.print(f[i] + "\t");
+		System.out.println();
 	}
 
 	public static void main(String ar[])throws IOException
@@ -187,7 +236,7 @@ public class CrossValidation
 		}
 
 		System.out.println("The overall accuracy is: " + findAccuracy());
-		printConfMatrix();
+		printResults();
 
 		// System.out.println(countErrors("AIDS_N Immune_A Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_N ._O", "AIDS_N Immune_O Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_V ._O"));
 
