@@ -155,16 +155,14 @@ public class Viterbi {
 	{
 		if(outputProbabilities.containsKey(word))
 		{
-			return outputProbabilities.get(word)[posTag-1];
+			return outputProbabilities.get(word)[posTag];
 		}
 		else
 		{
-			return 0.0;
-			 //return ( (double) 1 / outputProbabilities.size() );
+			//return 0.0;
+			 return ( (double) 1 / outputProbabilities.size() );
 		}
 	}
-	
-	
 	
 	public String viterbi(String sentence, boolean interactive)
 	{
@@ -184,6 +182,7 @@ public class Viterbi {
 		//fill the trellis in column major form
 		for(int column = 1 ; column < (words.length - 1) ; column++ )
 		{
+			//System.out.println("---col---"+column);
 			for( int row = 0 ; row < 5 ; row++ )
 			{
 				double max = 0.0;
@@ -192,7 +191,17 @@ public class Viterbi {
 				{
 					double value = probabilityTrellis[previousColumnRow][column-1];
 					
+					/*
+				 	System.out.println("State: "+(row+1));
+					System.out.println("Word: "+words[column-1]);
+					System.out.println("prev state: "+(previousColumnRow+1));
+					System.out.println("Stored val: "+value);
+					System.out.println("transition probabiltiy: "+transitionProbabilites[previousColumnRow+1][row+1]);
+					System.out.println("output probability: "+getOutputProbability(words[column-1], previousColumnRow+1));
+					
+					*/
 					value *= transitionProbabilites[previousColumnRow+1][row+1]; //pos tags are indexed 1 to 5, array indices are 0 to 4
+					
 					
 					value *= getOutputProbability(words[column-1], previousColumnRow+1);//outputProbabilities.get(words[column-1])[previousColumnRow+1];
 				
@@ -273,8 +282,8 @@ public class Viterbi {
 	{
 		Viterbi v = new Viterbi();
 		v.loadProbabilities("model.txt");
-		v.viterbi("there is no vaccine currently available .", true);
+		v.viterbi("Specialist care The picture then has changed and we now need to plan for increasing numbers of those with chronic illnesses needing specialist community care not just volunteers although volunteers continue to have a vitally important role to play .", true);
 		//v.printProbabilities();
-		//System.out.println(v.outputProbabilities.get("other")[1]);
+		//System.out.println(v.outputProbabilities.get("my")[1]);
 	}
 }
