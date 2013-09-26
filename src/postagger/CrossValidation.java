@@ -146,13 +146,17 @@ public class CrossValidation
 	{
 		int errors = 0;
 		for(int i=0; i<cline.length(); i++)
-			if(cline.charAt(i) != wline.charAt(i))
+		{
+			if(cline.charAt(i) == '_')
 			{
-				int correctIndex = Utilities.getPosIndex(cline.charAt(i))-1;
-				int wrongIndex = Utilities.getPosIndex(wline.charAt(i))-1;	// Bloody indexes
+				int correctIndex = Utilities.getPosIndex(cline.charAt(i+1))-1;
+				int wrongIndex = Utilities.getPosIndex(wline.charAt(i+1))-1;	// Bloody indexes
 				confMatrix[correctIndex][wrongIndex]++;
-				errors++;
 			}
+
+			if(cline.charAt(i) != wline.charAt(i))
+				errors++;
+		}
 		return errors;
 	}
 
