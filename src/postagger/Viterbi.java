@@ -282,7 +282,9 @@ public class Viterbi {
 	{
 		Viterbi v = new Viterbi();
 		v.loadProbabilities("model.txt");
-		v.viterbi("Specialist care The picture then has changed and we now need to plan for increasing numbers of those with chronic illnesses needing specialist community care not just volunteers although volunteers continue to have a vitally important role to play .", true);
+		System.out.println("Enter a sentence: ");
+		String line = System.console().readLine();
+		v.viterbi(line, true);
 		//v.printProbabilities();
 		//System.out.println(v.outputProbabilities.get("my")[1]);
 	}
