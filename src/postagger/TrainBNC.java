@@ -114,13 +114,25 @@ public class TrainBNC
 					{
 						String taggedword[]= words[i].split("_");	// Separate word and tag
 
-						// Get the tag transition
+						// Get the current tag
 						current = taggedword[0];
 
 						transitionSeen(previous, current);
-						int count = ( priorStateCounts.get(current) == null ) ? 1 : priorStateCounts.get(current)+1 ;
-						priorStateCounts.put(current, count);
-						previous = current;
+						
+						int count = ( priorStateCounts.get(previous) == null ) ? 1 : priorStateCounts.get(previous)+1 ;
+						priorStateCounts.put(previous, count);
+						
+						if(taggedword[1].equals(".") ||taggedword[1].equals("!")||taggedword[1].equals("?"))
+						{
+							transitionSeen(current, ".");
+							int count2 = ( priorStateCounts.get(current) == null ) ? 1 : priorStateCounts.get(current)+1 ;
+							priorStateCounts.put(current, count2);
+							previous = "^";
+						}
+						else
+						{
+							previous = current;
+						}
 
 						// Get the tag output
 						taggedword[1] = taggedword[1].toLowerCase();
@@ -132,21 +144,6 @@ public class TrainBNC
 
 
 
-	public double getOutputProbability(String word, int state)
-	{
-		int[] counts = outputCounts.get(word);
-		int sum  = 0;
-		for(int i = 0 ; i < counts.length ; i ++)
-		{
-			sum += counts[i];
-		}
-		return (double)counts[state] / sum ;
-	}
-
-	public double getTransitionProbability(int previous, int next)
-	{
-		return (double)transitionCounts[previous][next] / priorStateCounts[previous];
-	}
 
 	public void storeProbabilities(String filename)throws IOException
 	{
@@ -159,15 +156,7 @@ public class TrainBNC
 		oos.close();
 
 		
-		ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File("modelBNC.txt")));
-		try{
-		HashMap<String, Integer>h1 = (HashMap<String, Integer>)ois.readObject();
-		HashMap<String, HashMap<String,Integer>> h2 =(HashMap<String, HashMap<String,Integer>>) ois.readObject();
-		HashMap<String, HashMap<String,Integer>> h3 = (HashMap<String, HashMap<String,Integer>>)ois.readObject();
 		
-		System.out.println(h3.get("aids").get("NN1"));
-		}
-		catch(ClassNotFoundException e){}
 	}
 
 
@@ -177,7 +166,8 @@ public class TrainBNC
 
 		TrainBNC t = new TrainBNC();
 		t.readCorpus("BNC_Cleaned");
-		t.storeProbabilities("modelBNC.txt");
-
+		t.storeProbabilities("model_BNC.txt");
+		t.printPriorStateCounts();
+		t.printTransitionCounts();
 	}
 }
