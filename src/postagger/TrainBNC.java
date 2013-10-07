@@ -96,11 +96,11 @@ public class TrainBNC
 
 	public void readCorpus(String filename) throws IOException
 	{
-		File directory = new File(filename);
+	/*	File directory = new File(filename);
 		if(directory.isDirectory())
 			for(File file:directory.listFiles())
-			{
-				BufferedReader br  = new BufferedReader(new FileReader(file));	
+			{*/
+				BufferedReader br  = new BufferedReader(new FileReader(filename));	
 
 				String line ;
 				String previous, current;
@@ -112,6 +112,8 @@ public class TrainBNC
 					// Process a single line, word-by-word
 					for (int i = 0 ; i < words.length ; i++ )
 					{
+						if(!words[i].contains("_")) 
+							break;
 						String taggedword[]= words[i].split("_");	// Separate word and tag
 
 						// Get the current tag
@@ -139,7 +141,7 @@ public class TrainBNC
 						outputSeen(taggedword[0], taggedword[1]);
 					}
 				}
-			}
+			//}
 	}
 
 
@@ -165,8 +167,8 @@ public class TrainBNC
 	{
 
 		TrainBNC t = new TrainBNC();
-		t.readCorpus("BNC_Cleaned");
-		t.storeProbabilities("model_BNC.txt");
+		t.readCorpus("BNC_Cleaned/FullCorpus-Cleaned.txt");
+		t.storeProbabilities("model_BNC_full.txt");
 		t.printPriorStateCounts();
 		t.printTransitionCounts();
 	}
