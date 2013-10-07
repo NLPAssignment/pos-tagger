@@ -98,7 +98,7 @@ public class ViterbiBNC {
 		}
 	}
 	
-	public String viterbi(String sentence)
+	public String viterbi(String sentence, boolean interactive)
 	{
 		String taggedSentence="";
 		//trellis
@@ -117,8 +117,8 @@ public class ViterbiBNC {
 		}
 		trellis.add(firstColumn);
 
-		
-		System.out.println(trellis.toString());
+		if(interactive)
+			System.out.println(trellis.toString());
 		
 		//further rows of trellis
 		for(int wordIndex = 0 ; wordIndex < (words.length - 1) ; wordIndex++)
@@ -127,7 +127,8 @@ public class ViterbiBNC {
 			HashMap<String, Node> thisColumn = new HashMap<String, Node>();
 			String thisWord = words[wordIndex];
 			String lowercaseWord = thisWord.toLowerCase();
-			System.out.println(lowercaseWord);
+			if(interactive)
+				System.out.println(lowercaseWord);
 			
 			double maxProbability = 0.0;
 			String maxPosTag = "";
@@ -150,8 +151,8 @@ public class ViterbiBNC {
 			trellis.add(thisColumn);
 		} //entire trellis done
 		
-		
-		System.out.println(trellis.toString());
+		if(interactive)
+			System.out.println(trellis.toString());
 		
 		
 		
@@ -178,9 +179,11 @@ public class ViterbiBNC {
 		for(int wordIndex = (words.length -1 ); wordIndex >= 0 ; wordIndex --)
 		{
 			words[wordIndex] = posTag+"_"+words[wordIndex];
-			System.out.println("wordIndex = "+wordIndex);
+			if(interactive)
+				System.out.println("wordIndex = "+wordIndex);
 			posTag = trellis.get(wordIndex).get(posTag).getBackpointer();
-			System.out.println(trellis.size());
+			if(interactive)
+				System.out.println(trellis.size());
 			
 		}
 		for(int i = 0 ; i < words.length ; i++)
@@ -194,6 +197,6 @@ public class ViterbiBNC {
 	{
 		ViterbiBNC v = new ViterbiBNC();
 		v.loadCounts("model_BNC_full.txt");
-		System.out.println(v.viterbi("People see new things ."));
+		System.out.println(v.viterbi("People see new things .", true));
 	}
 }

@@ -7,28 +7,54 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.FileWriter;
 import java.io.File;
+import java.util.HashMap;
 
 public class CrossValidation
 {
 	// Class variables
-	static int countLines;		// Total no of lines in original training file
+	/* static int countLines;		// Total no of lines in original training file
 	static int[][] confMatrix;	// Confusion matrix depicting which tag (1st index) is confused with which tag (2nd index)
 	static int[] correctTags;	// No of instances of a particular POS tag assigned correctly
 	static int[] assignedTags;	// No of times we predict a particular tag
 	static int[] corpusTags;	// No of instances of a particular tag in corpus
 	static double[] precision;	// precision[i] = correctTags[i] / assignedTags[i]
 	static double[] recall;		// recall[i] = correctTags[i] / corpusTags[i]
-	static double[] f;		// F-Measure: f = 2*p*r / (p+r)
+	static double[] f;		// F-Measure: f = 2*p*r / (p+r) */
+
+	static final int NUMBER_OF_FOLDS = 5;
+
+	static int countLines;		// Total no of lines in original training file
+
+	// Confusion matrix depicting which tag (1st String) is confused with which tag (2nd String)
+	static HashMap <String, HashMap <String, Integer>> confMatrix;
+
+	// No of instances of a particular POS tag assigned correctly
+	static HashMap <String, Integer> correctTags;
+
+	// No of times we predict a particular tag
+	static HashMap <String, Integer> assignedTags;
+
+	// No of instances of a particular tag in corpus
+	static HashMap <String, Integer> corpusTags;
+
+	// precision[i] = correctTags[i] / assignedTags[i]
+	static HashMap <String, Double> precision;
+
+	// recall[i] = correctTags[i] / corpusTags[i]
+	static HashMap <String, Double> recall;
+
+	// F-Measure: f = 2*p*r / (p+r)
+	static HashMap <String, Double> f;
 
 	static
 	{
-		confMatrix = new int[5][5];
-		correctTags = new int[5];
-		assignedTags = new int[5];
-		corpusTags = new int[5];
-		precision = new double[5];
-		recall = new double[5];
-		f = new double[5];
+		confMatrix = new HashMap <String, HashMap <String, Integer>>();
+		correctTags = new HashMap <String, Integer>();
+		assignedTags = new HashMap <String, Integer>();
+		corpusTags = new HashMap <String, Integer>();
+		precision = new HashMap <String, Double>();
+		recall = new HashMap <String, Double>();
+		f = new HashMap <String, Double>();
 	}
 
 	/* createCorpusFiles(): Splits training.txt into 5 pairs of files, 1 for each fold */
@@ -36,37 +62,37 @@ public class CrossValidation
 	throws IOException
 	{
 		// Get length of training file (Source: http://stackoverflow.com/questions/453018/number-of-lines-in-a-file-in-java)
-		LineNumberReader lnr = new LineNumberReader(new BufferedReader (new FileReader("training.txt")));
+		LineNumberReader lnr = new LineNumberReader(new BufferedReader (new FileReader("SmallCorpus.txt")));
 		lnr.skip(Long.MAX_VALUE);
 		countLines = lnr.getLineNumber();
 		lnr.close();
 
-		for(int foldno = 0; foldno < 5; foldno++)
+		for(int foldno = 0; foldno < NUMBER_OF_FOLDS; foldno++)
 		{
 			int lineno = 0;
 			// Open train and test files for current fold here
-			BufferedReader trainReader = new BufferedReader(new FileReader("training.txt"));
+			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpus.txt"));
 			PrintWriter trainWriter = new PrintWriter(new FileWriter("Train-Fold" + foldno + ".txt"), true);
 			PrintWriter testWriter = new PrintWriter(new FileWriter("Test-Fold" + foldno + ".txt"), true);
 
 			// Write first portion of fold into train file
-			for(; lineno < foldno*countLines/5; lineno++)
+			for(; lineno < foldno*countLines/NUMBER_OF_FOLDS; lineno++)
 			{
-				// Read a line from training.java and write it to training file for current fold
+				// Read a line from corpus and write it to training file for current fold
 				String l = trainReader.readLine();
 				trainWriter.println(l);
 			}
 
-			for(; lineno < (foldno+1)*countLines/5; lineno++)
+			for(; lineno < (foldno+1)*countLines/NUMBER_OF_FOLDS; lineno++)
 			{
-				// Read a line from training.java and write it to test file for current fold
+				// Read a line from corpus and write it to test file for current fold
 				String l = trainReader.readLine();
 				testWriter.println(l);
 			}
 
 			for(; lineno < countLines; lineno++)
 			{
-				// Read a line from training.java and write it to training file for current fold
+				// Read a line from corpus and write it to training file for current fold
 				String l = trainReader.readLine();
 				trainWriter.println(l);
 			}
@@ -82,9 +108,9 @@ public class CrossValidation
 	public static void createModelFiles()
 	throws IOException
 	{
-		for(int i=0; i<5; i++)
+		for(int i=0; i<NUMBER_OF_FOLDS; i++)
 		{
-			train t = new train();
+			TrainBNC t = new TrainBNC();
 			t.readCorpus("Train-Fold" + i + ".txt");
 			t.storeProbabilities("model" + i + ".txt");
 		}
@@ -96,14 +122,14 @@ public class CrossValidation
 	{
 		int incorrect = 0, total = 0;
 		String testLine="", inputLine="", taggedLine="";
-		Viterbi v = new Viterbi();
-		v.loadProbabilities("model" + foldno + ".txt");
+		ViterbiBNC v = new ViterbiBNC();
+		v.loadCounts("model" + foldno + ".txt");
 
 		BufferedReader testFile = new BufferedReader(new FileReader("Test-Fold" + foldno + ".txt"));
 
 		while( (testLine = testFile.readLine()) != null )
 		{
-			testLine = Utilities.uncapitalize(testLine);
+			// testLine = Utilities.uncapitalize(testLine);
 			inputLine = stripTags(testLine);
 			// System.out.println(inputLine);
 			taggedLine = v.viterbi(inputLine, false);
@@ -121,7 +147,7 @@ public class CrossValidation
 	{
 		double accuracySum = 0.0;
 
-		for(int i=0; i<5; i++)
+		for(int i=0; i<NUMBER_OF_FOLDS; i++)
 		{
 			double currentAccuracy = CrossValidation.crossValidate(i);
 			System.out.println("Accuracy for fold " + i + " is: " + currentAccuracy);
@@ -136,7 +162,7 @@ public class CrossValidation
 	/* Checks if 5 files with specified prefix exist */
 	static boolean checkFiles(String prefix)
 	{
-		for(int i=0; i<5; i++)
+		for(int i=0; i<NUMBER_OF_FOLDS; i++)
 			if(!new File(prefix + i + ".txt").exists())
 				return false;
 		return true;
@@ -144,7 +170,7 @@ public class CrossValidation
 
 	/* Accepts a line in tagged format and removes all tags from it */
 	static String stripTags(String line)
-	{	return line.replaceAll("_[NVARO]", "");	}
+	{	return line.replaceAll("[A-Z0-9\\-]+_", "");	}
 
 	/* Accepts a line and finds no of tags in it */
 	static int countTags(String line)
@@ -165,40 +191,74 @@ public class CrossValidation
 	static int keepCounts(String cline, String wline)
 	{
 		int errors = 0;
-		for(int i=0; i<cline.length(); i++)
+		String[] carray = cline.split(" ");
+		String[] warray = wline.split(" ");
+
+		for(int i=0; i<carray.length; i++)
 		{
-			if(cline.charAt(i) == '_')
+			// carray[i] and warray[i] each contain a tagged word in the form TAG_word
+			String ctag = carray[i].split("_")[0];
+			String wtag = warray[i].split("_")[0];
+
+			HashMap <String, Integer> ctagMap; // Intermediate hashmap
+
+			if(confMatrix.containsKey(ctag))	// Corpus tag is already seen
 			{
-				int corpusIndex = Utilities.getPosIndex(cline.charAt(i+1))-1;
-				int taggedIndex = Utilities.getPosIndex(wline.charAt(i+1))-1;	// Bloody indexes
-				confMatrix[corpusIndex][taggedIndex]++;
-
-				// correctTags is simply made of diagonal entries in conf matrix
-				correctTags[taggedIndex] = confMatrix[taggedIndex][taggedIndex];
-
-				assignedTags[taggedIndex]++;
-				corpusTags[corpusIndex]++; 
+				ctagMap = confMatrix.get(ctag);	// Get old values
+				if(ctagMap.containsKey(wtag))	// Same confusion has occured before
+				{
+					int confCount = ctagMap.get(wtag);
+					ctagMap.put(wtag, confCount+1);
+				}
+				else	// New confusion, add new entry with count of 1
+					ctagMap.put(wtag, 1);
 			}
 
-			if(cline.charAt(i) != wline.charAt(i))
+			else	// New corpus tag
+			{
+				ctagMap = new HashMap <String, Integer>();	// Create brand-new inner HashMap
+				ctagMap.put(wtag, 1);
+			}
+
+			confMatrix.put(ctag, ctagMap);
+
+			if(!ctag.equals(wtag))
 				errors++;
 		}
+
+		/* if(cline.charAt(i) == '_')
+		{
+			// int corpusIndex = Utilities.getPosIndex(cline.charAt(i+1))-1;
+			// int taggedIndex = Utilities.getPosIndex(wline.charAt(i+1))-1;	// Bloody indexes
+			// confMatrix[corpusIndex][taggedIndex]++;
+
+			if(confMatrix.contains(
+
+			// correctTags is simply made of diagonal entries in conf matrix
+			correctTags[taggedIndex] = confMatrix[taggedIndex][taggedIndex];
+
+			assignedTags[taggedIndex]++;
+			corpusTags[corpusIndex]++; 
+		}
+
+		if(cline.charAt(i) != wline.charAt(i))
+			errors++; */
 		return errors;
 	}
 
 	public static void computePRF()
 	{
-		for(int i=0; i<5; i++)
+		/* for(int i=0; i<5; i++)
 		{
 			precision[i] = correctTags[i] / (double) assignedTags[i];
 			recall[i] = correctTags[i] / (double) corpusTags[i];
 			f[i] = (2 * precision[i] * recall[i]) / (precision[i] + recall[i]);
-		}
+		} */
 	}
 
 	static void printResults()
 	{
-		System.out.println("--- Confusion Matrix ---");
+		/* System.out.println("--- Confusion Matrix ---");
 		System.out.print("\t");
 		for(int i=0; i<5; i++)
 			System.out.print(Utilities.getIndexPos(i+1) + "\t");
@@ -223,7 +283,9 @@ public class CrossValidation
 		System.out.println("\n--- F-Measure ---");
 		for(int i=0; i<5; i++)
 			System.out.print(f[i] + "\t");
-		System.out.println();
+		System.out.println(); */
+
+		System.out.println(confMatrix.toString());
 	}
 
 	public static void main(String ar[])throws IOException
@@ -238,7 +300,7 @@ public class CrossValidation
 		System.out.println("The overall accuracy is: " + findAccuracy());
 		printResults();
 
-		// System.out.println(countErrors("AIDS_N Immune_A Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_N ._O", "AIDS_N Immune_O Deficiency_N Syndrome_N is_V a_O condition_N caused_V by_O a_O virus_N called_V HIV_N Immuno_N Deficiency_N Virus_V ._O"));
+		// System.out.println(countTags("NP0_ACET NN1_Director NP0_Dr NP0_Patrick NP0_Dixon AV0_recently VVD-VVN_told AT0_the AJ0_National NN1_Symposium PRP_on AJ0_Teenage NN1_Sexuality PRP_at NP0_Swanwick PUN_."));
 
 		System.out.println("In progress...");
 	}
