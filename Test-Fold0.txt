@@ -1,0 +1,200 @@
+NN1_FACTSHEET DTQ_WHAT VBZ_IS NN1_AIDS PUN_? 
+NN1_AIDS AJ0_Immune NN1_Deficiency NN1_Syndrome VBZ_is AT0_a NN1_condition VVN_caused PRP_by AT0_a NN1_virus VVN_called NP0_HIV NN1_Immuno NN1_Deficiency NN1_Virus PUN_. 
+DT0_This NN1_virus VVZ_affects AT0_the NN1_body NN1_'s NN1_defence NN1_system CJS_so PNP_it VM0_can VM0_not VVI_fight NN1_infection PUN_. 
+AVQ_How VBZ_is NN1_infection VVN-VVD_transmitted PUN_? 
+PRP_through AJ0_unprotected AJ0_sexual NN1_intercourse PRP_with AT0_an AJ0_infected NN1_partner PUN_. 
+PRP_through AJ0_infected NN1_blood CJC_or NN1_blood NN2_products PUN_. 
+PRP_from AT0_an AJ0_infected NN1_mother PRP_to DPS_her NN1_baby PUN_. 
+PNP_It VBZ_is XX0_not VVN_transmitted PRP_from VVG_giving AJ0_normal NN1_contact AVQ_How VDZ_does PNP_it VVI_affect PNP_you PUN_? 
+AT0_The AJ0_medical NN2_aspects VM0_can VBI_be NN1_cancer NN1_pneumonia AJ0_sudden NN1_blindness NN1_dementia AJ0_dramatic NN1_weight NN1_loss CJC_or DT0_any NN1_combination PRF_of DT0_these PUN_. 
+AV0_Often AJ0-VVN_infected NN0_people VBB_are VVN_rejected PRP_by NN1_family CJC_and NN2_friends VVG_leaving PNP_them TO0_to VVI_face DT0_this AJ0_chronic NN1_condition AV0-AJ0_alone PUN_. 
+VDD_Did PNP_you VVI_know PUN_? 
+EX0_there VBZ_is AT0_no NN1_vaccine CJC_or VVB-NN1_cure AV0_currently AJ0_available PUN_. 
+CRD_10 CRD_million NN0_people AV0_worldwide VBB_are VVN_infected PRP_with NP0_HIV PUN_. 
+PNP_you VM0_can VBI_be VVN_infected PRP_for PRP_between NN2_years PRP_without VVG_realising PNP_it PUN_. 
+CRD_7 PRP_out CRD_10 NN0_people VVN-AJ0_infected VBB_are AJ0_heterosexual PUN_. 
+NN2_women VBB_are AV0_twice CJS_as PRP_at NN1_risk PRP_from NN1_infection CJS_as NN2_men PUN_. 
+PRP_In AT0_the NP0_UK AJ0-VVD_reported NN2_infections VBZ_is AJ0_probable CJT_that EX0_there VBB_are PRP_between NN0_people AV0_actually VVN-AJ0_infected PUN_. 
+EX0_there VBB_are AV0_nearly AJ0-VVD_reported NN2_cases PRF_of NN1_AIDS PRF_of DTQ_which AV0_nearly VHB_have AV0_already VVN_died PUN_. 
+CRD_1 PRP_in CRD_500 NN2_Londoners VBB_are VVN_believed TO0_to VBI_be VVN_infected PUN_. 
+AT0_The NN1_Future AT0_The NN1_World NN1_Health NN1_Organisation NN2-VVZ_projects CRD_40 CRD_million NN2_infections PRP_by AT0_the NN1_year CRD_2000 PUN_. 
+VBB_are AV0_just PRP_at AT0_the NN1_beginning PRF_of AT0_the AJ0_worldwide NN1_epidemic CJC_and AT0_the NN1_situation VBZ_is AV0_still AV0_very AJ0_unstable PUN_. 
+AT0_The AJ0_major NN1_impact VBZ_is AV0_yet TO0_to VVI_come PUN_. 
+NP0_Professor NP0_Jonathan NP0_Mann DT0_former NN1_director PRF_of AT0_the NP0_WHO AJ0_Global NN1_AIDS NN1_Programme CJC_and NP0_ACET NP0_'s AJ0_International NN1_Adviser PUN_. 
+AJ0_Useful NN2_Contacts NP0_ACET AJ0_Practical NN1_home NN1-VVB_care NN2_schools NN1_education CJC_and NN1_training CRD_081 CRD_840 CRD_7879 NP0_Mildmay NN1_Hospital NP0_Hackney NP0_Road NP0_London UNC_E2 UNC_7NA NN1_Hospice NN1-VVB_care CRD_071 CRD_739 CRD_2331 AJ0_Catholic NN1_AIDS NN1-VVB_Link AJ0_Spiritual AJ0_practical CJC_and AJ0_financial NN1_support ZZ0_P ZZ0_O NN1_Box CRD_646 NP0_London UNC_E9 UNC_6QP AJ0_National NN1_AIDS NN1_Helpline NN1_Counselling CJC_and AJ0_confidential NN1_advice CRD_0800 CRD_567 CRD_123 NN1_Bureau PRF_of NN1_Hygiene CJC_and AJ0_Tropical NN1_Medicine AJ0_Overseas NN1_development CRD_071 CRD_636 CRD_8638 NN1-NP0_Haemophilia NN1_Society VVG_Serving AT0_the NN2_interests PRF_of NN2_Haemophiliacs CRD_071 CRD_928 CRD_2020 NP0-NN1_SCODA NP0_HIV CJC_and NN2_drugs CRD_071 CRD_430 CRD_2341 NN1_Immunity NP0_HIV CJC_and AJ0_legal NN2_issues CRD_081 CRD_968 CRD_8909 NN1_FACTSHEET VVD_PUT AT0_THE AJ0-NN1_FUN NN1_BACK PRP_IN NN1_FUNDRAISING PUN_! 
+VVG-NN1_Raising NN1_money PRP_for DPS_your AJ0-NN1_favourite NN1_charity VM0_can VBI_be AJ0_fun PUN_. 
+PNP_You VM0_can VDI_do PNP_it PRP-AVP_on DPS_your DT0_own CJC_or PNP_you VM0_can VVI_get AV0_together PRP_with NN1_family CJC_and NN2_friends PUN_. 
+EX0_There VBZ_is AT0_no NN1_limit PRP_to AT0_the NN1_number PRF_of NN2_ways TO0_to VVI_raise NN1_money PUN_. 
+CJS_Whether AT0_the AJ0_final NN1_total VBZ_is CJC_or PNP_it VBZ_is DT0_all AV0_very AV0_much VVN-VVD_needed PUN_. 
+AV0_Below PNP_I PNP_'ve VVN_listed DT0_some NN2_ideas DTQ_which DT0_many NN0_people VHB_have AV0_already VVN_carried AVP_out PUN_. 
+PNI_None PRF_of PNP_them VBZ_is AJ0_new CJC_and PNP_they VBB_are DT0_all AJ0_straightforward PUN_. 
+CRD_1 PUN_. 
+NN1_CAR NN1-VVB_BOOT NN1_SALE AVQ_Why XX0_not VHI_have AT0_a AJ0-AV0_clear AVP_out PUN_? 
+PNP_I VDD_did CJC_and PNP_I VBD_was AV0_absolutely AJ0_amazed PRP_at AVQ_how DT0_much NN1_stuff PNP_I VVD_sold CJC_and AT0_the NN1_kind PRF_of NN2_things NN0_people VVD-VVN_bought PUN_. 
+PNP_It VM0_can VBI_be AJ0_fun AV0_as PUN_. 
+CRD_2 PUN_. 
+VVB-NN1_JUMBLE NN1_SALE AV0_A PRP_like AT0_a NN1_car NN1-VVB_boot NN1_sale CJC_but PRP_for NN2_clothes CJC_and PNP_it VVZ_happens AV0_indoors PUN_. 
+PNP_You VVB_need TO0_to VVI_involve DPS_your NN2_friends VVG_collecting NN1_jumble PUN_. 
+VDB_Do VDB_n't VVI_plan PRP-AVP_on VVG_selling AV0_too DT0_much PRP_at AV0_more NN0_10p AT0_an NN1_item PUN_. 
+CRD_3 PUN_. 
+AJ0_SPONSORED NN1_RUN PRP_For AT0_the AJ0_keen AJ0-NN1_fun NN1_runner AVQ_why XX0_not VVI_get DPS_your ORD_next AJ0_full CJC_or DT0_half NN1_marathon VVD-VVN_sponsored PUN_. 
+CRD_4 PUN_. 
+VHB_HAVE AT0_A NN1_DISCO PRP_At DPS_your AJ0_local NN1_club CJC_or NN1_church AVQ_why XX0_not VVN_put PRP_on AT0_an NN1_evening PRP_for AJ0_young NN0_people PUN_? 
+PNP_It PNP_'s AJ0_hard NN1_work CJC_but AV0_very AJ0_rewarding PUN_. 
+CRD_5 PUN_. 
+AT0_A NN1_PARACHUTE NN1_JUMP XX0_Not PRP_for AT0_the PUN_. 
+CJC_But AVQ_why XX0_not VVI_pluck AVP_up AT0_the NN1_courage TO0_to VDI_do DTQ_what PNP_you PNP_'ve AV0_always VVN_wanted PUN_? 
+PNP_It PNP_'s DT0_all PRP_in AT0_a AJ0_good NN1_cause PUN_. 
+CRD_6 PUN_. 
+AJ0_SPONSORED AJ0_SLIM CRD_7 PUN_. 
+VVB_HOLD AT0_A NN1_COFFEE NN1_MORNING CJC_or VVB_BAKE NN2_CAKES TO0_to VVI_sell TO0_to VVI_work NN2_colleagues PUN_. 
+CRD_8 PUN_. 
+NP0_KIDDIES NP0_' AJ0_SPONSORED NN1_SWIM CRD_9 PUN_. 
+VVB_Organise AT0_a AJ0_SPONSORED NN1_WALK CJC_OR NN1-VVB_RAMBLE PRP_for DPS_your NN1_church CJC_or NN1_youth NN1_club PUN_. 
+CRD_10 PUN_. 
+AJ0_SPONSORED NN1_DISCO NN1-NP0_MARATHON CJC_or NN1_FOOTBALL PUN_. 
+CJS_If PNP_I VM0_can VVI_help AV0_further AV0_please VDI_do XX0_not VVI_hesitate TO0_to VVI_contact PNP_me PRP_on CRD_081 CRD_840 CRD_7879 NP0_Peter NP0_Fabian NN1_Director PRF_of NN1_Fundraising NN1_FACTSHEET VVG_BECOMING AT0_AN NP0_ACET NN1_HOME NN1-VVB_CARE NN1-VVB_VOLUNTEER PRP_About NP0_ACET NP0_'s NN1_Home NN1-VVB_Care DT0_Many NN0_people PRP_with NN2_AIDS VHB_have TO0_to VVI_spend AJ0_long NN2_periods PRF_of NN1_time PRP_in NN1_hospital CJS_unless EX0_there VBZ_is PNI_someone PRP_at NN1_home PNQ_who VM0_can VVI_help CJC_and VVI_look PRP_after PNP_them PUN_. 
+NP0_ACET NN2_volunteers VVB_work PRP_as NN1_part PRF_of AT0_a NN1_team CJC_and VVB_provide NN1-VVB_help PRP_in DT0_many AJ0_different NN2_ways TO0_to VVI_ensure CJT_that NN0_people VDB_do VDB_n't VVI_spend NN1_time PRP_in NN1_hospital AV0_unnecessarily PUN_. 
+DTQ_What VDB_do NP0_ACET NN2_volunteers VDB_do PUN_? 
+NN1-VVB_Transport NN2_clients PRP_to CJC_and PRP_from NN1_hospital NN1_Housework VVG-NN1_Shopping PRP_including NN1_collection PRF_of NN2_prescriptions VVG_Daysitting CJC_and VVG-NN1_nightsitting AVQ_How DT0_much NN1_time PRP_to PNP_I VVB-NN1_need TO0_to VVI_give PUN_? 
+AT0_The AJ0_simple NN1_answer VBZ_is AV0_as DT0_much CJC_or CJS_as DT0_little CJS_as PNP_you VVB_feel AJ0_able TO0_to VVI_give PUN_. 
+DT0_Many PRF_of DPS_our AJ0_existing NN2_volunteers VHB_have NN2_families CJC_and NN2_jobs CJC_and VBB_are AV0_often AV0_very AJ0_busy PUN_. 
+PNP_You VDB_do VDB_n't VHI_have TO0_to VVI_make AT0_a AJ0_firm NN1_commitment CJC_but AV0_obviously PNP_we VVB_like PNP_you TO0_to VVI_give PNP_us DT0_some NN1_idea PRF_of DPS_your NN1_availability PUN_. 
+DT0_This VBZ_is AV0_so PNP_we VM0_can VVI_respond AV0_effectively PRP_to AT0_the NN2_needs PRF_of DPS_our NN2_clients PUN_. 
+VDB_Do PNP_I VVI_need DT0_any NN1_training PUN_? 
+ITJ_Yes CJC_but PNP_you VBB_are XX0_not VVN-AJ0_expected TO0_to VBI_be AT0_a NN1_nurse PNP_You VM0_will VBI_be VVN_asked TO0_to VVI_complete AT0_an NN1_application NN1-VVB_form CJC_and AV0_subsequently TO0_to VVI_attend AT0_an NP0_ACET NN1_training NN1_course CRD_one NN1_evening AT0_a NN1_week PRP_for CRD_six NN2_weeks PUN_. 
+AT0_The NN2_subjects VVN_covered VM0_will VVI_include NN1_Death CJC_and VVG-AJ0_Dying NN1_Grief CJC_and NN1_Loss NN1_Sex CJC_and NN1_Sexuality AJ0_Medical NN2_Aspects PRF_of NN1-VVB_Race CJC_and NN1_Racism AJ0_Practical NN2_Issues DTQ_What CJS_if PNP_I VVB_find AJ0_certain NN2_issues CJC_or NN2_situations AJ0_difficult PUN_? 
+DPS_Your NN1_course NN1_leader VM0_will VBI_be AJ0_available TO0_to VVI_help PNP_you PUN_. 
+PNP_You VBB_are AV0_also VVN_asked TO0_to VVI_keep DPS_your NN1_church NN2_leaders VVN-VVD_informed PRF_of DPS_your NN1_involvement CJS_so PNP_they VM0_can VVI_ensure PNP_you VBB_are AV0_adequately VVN_supported PUN_. 
+CJS-PRP_After AT0_every NN1_client VVB-NN1_visit PNP_you VBB_are VVN_asked TO0_to VVI_call AT0_the NN1_office CJS_so PNP_you VM0_can VVI_report AVQ_how AT0_the NN1_visit VVD_went PUN_. 
+PNP_We AV0_also VVB_hold AJ0_regular NN2_meetings PRF_of NN2_volunteers TO0_to VVI_discuss NN2_issues PRF_of NN1_concern CJC_and VVB_encourage PNX_one PUN_. 
+NN2_Volunteers VVG_visiting AT0_an NP0_ACET NN1_client VHB_have AJ0_immediate NN1_access PRP_to AJ0_professional AJ0-NN1_nursing NN1-VVB_support PRP_through DPS_our CRD_24 NN1_hour PRP_on NN1_call NN1_facility PUN_. 
+PNP_I VM0_would VVI_like TO0_to VBI_be AT0_an NP0_ACET VVB-NN1_volunteer AV0_so DTQ_what VDB_do PNP_I VDI_do AV0_now PUN_? 
+VVB-NN1_Telephone CJC_or VVB_write PRP_to NP0_Christine NP0_Catlin CJC_or NP0_Janet NP0_Sutton CJC_and VVB_ask PRP_for AT0_an NN1_application NN1-VVB_form PUN_. 
+NP0_ACET ZZ0_P ZZ0_O NN1_Box CRD_1323 NP0_London UNC_W5 UNC_5TF NN1_Tel CRD_081 CRD_840 CRD_7879 NN1_Newsletter NN1_AIDS NN1-VVB_CARE NN1_EDUCATION CJC_AND NN1_TRAINING NN1-VVB_Issue CRD_7 NP0-NN1_Cliff VBZ_is AJ0_New NN1_Patron NP0_CLIFF NP0_RICHARD CJC_and NN1_Head PRF_of NN1_Salvation NN1_Army NP0_General NP0_Eva NP0_Burrows VBB_are AT0_the ORD_first NN2_patrons PRF_of NP0_ACET PUN_. 
+PRP_In AT0_the NN1_charity NN1_'s NP0_Ealing NN2_offices NP0-NN1_Cliff PRP_with NP0_BBC NN1_newsroom NN1_South NN1_East NN1_television NN2_cameras PRP_in NN1_attendance VVB_cut AT0_a NN1_cake TO0_to VVI_help VVI_celebrate NP0_ACET NP0_'s ORD_third NN1_birthday PRP_during NP0_June PUN_. 
+PRP_After AT0_a AJ0_short NN1_interview PRP_with AT0_the NP0_BBC NP0_Cliff VVD_went TO0_to VVI_meet NP0_ACET NN1_client NP0_Tony NP0_Chapman PRP_at DPS_his NN1_home AV0_together PRP_with NP0_HIV NN1_Community NN1_Nurse NP0_Sue NN1_Lore PUN_. 
+AT0_A NN1_trip PRP_to AT0_an NP0_ACET NN1_AIDS NN1_education NN1_class PRP_at NP0_Abbeylands NN1_School NP0_Addlestone PRP_in NP0_Surrey VVD_completed NP0_Cliff NP0_'s NN1_visit PUN_. 
+NP0_Cliff VVD_said VBB_am AJ0_pleased TO0_to VVI_support NP0_ACET PRP_in AT0_the NN1_world PNP_they VBB_are VDG_doing PUN_. 
+AT0_The NN1_care PRF_of NN0_people PRP_in AT0_the NN1_community PRP_with VBB_are AJ0_ill PRP_with NP0_HIV NN1_infection CJC_and NN1_AIDS AV0_together PRP_with AT0_the NN1_education PRF_of NN2_schoolchildren TO0_to VVI_help VVI_prevent AT0_the NN1_spread PRF_of DT0_this AJ0_terrible NN1_disease VBZ_is VVG_becoming AV0_more CJC_and AV0_more AJ0_urgent PUN_. 
+VVB_believe PNP_it VBZ_is AV0_especially AJ0_important CJT_that NP0_ACET VVZ_represents AT0_the NN1_Church VVG_working PRP_in AT0_the AJ0-NN1_front NN1_line TO0_to VVI_provide AJ0_real CJC_and AJ0_practical NN1_support PUN_. 
+AV0_So AV0_often NN2_Christians VBB_are VVN_criticised PRP_for XX0_not VVG_getting VVN_involved PUN_. 
+NP0-NN1_Cliff PRP_with NP0_Dr NP0_Patrick NP0_Dixon NN1_Director PRF_of NP0_ACET NP0_Glasgow NN1_Home NN1-VVB_Care NP0_ACET VVD_opened DPS_its NP0_Glasgow NN1_Home NN1-VVB_Care NN1_service PRP_in AJ0_late NP0_June PRP_after VVG_receiving NN1_confirmation PRF_of AT0_a NN1_grant PRP_from AT0_the NP0_Greater NP0_Glasgow NN1_Health NN1-VVB_Board TO0_to VVI_fund AT0_the NN1_work PUN_. 
+AT0_The NP0-NN1_Ruchill NN1_Hospital AJ0_Social NN1_work NN1_team CJC_and AT0_the NN1_AIDS NN1-VVB_Resource NN1_Unit VBD_were AV0_particularly AJ0_helpful PRP_in VVG_identifying AT0_the NN1_need PRP_for DT0_this NN1_service PUN_. 
+NN1_Home NN1-VVB_care NN1_Coordinator NP0_Margaret NP0_Gillies AV0_currently VHZ_has AT0_a NN1_team PRF_of CRD_20 NN2_volunteers PRP_from AT0_a NN1_variety PRF_of NN2_churches VVG_providing AJ0_practical NN1_help PRP_to AT0_a NN1_number PRF_of NN2_clients AV0_already VVN_referred PUN_. 
+NP0_Strathclyde AJ0_Regional NN1_Council VM0_may VVI_provide AJC_further NN1_funding CJC_and NN1_consideration VBZ_is VBG_being VVN_given PRP_to AT0_the AJ0_possible NN1_employment PRF_of AT0_a NN1_nurse PUN_. 
+NP0_Margaret NP0_Gillies VVZ_says VBB_are VVG_discovering AT0_the NN1_extent PRF_of AT0_the NN1_need PRP_for AT0_the NN1_kind PRF_of NN1-VVB_help CJT_that NP0_ACET VVZ_offers PRP_from AJ0_other NN1_support NN2_agencies PRP_including AJ0_Scottish NN1_AIDS NN1-VVB_Monitor CJC_and NN1_Body AJ0_Positive PRP_as NN1_hospital NN2_contacts CJC_and AJ0_local NN1_counselling NN2_services PUN_. 
+NP0_Chris NP0_Southwick NN1_director PRF_of NP0_ACET VVD_said AT0_the NN1_opening PRF_of DT0_this NN1_office PRP_in NP0_Glasgow NP0_ACET NP0_'s NN1_volunteer NN1_home NN1-VVB_care VBZ_is AV0_now AJ0_available PRP_to PRF_of DT0_those VVN-AJ0_infected PRP_with AT0_the NP0_HIV NN1_virus PRP_in NP0_Scotland PUN_. 
+DT0_Most NN2_Churches AJ0_Unprepared PRP_for NN2_Aids NN2_churches VBB_are AV0_completely AJ0_unprepared PRP_for AT0_the NN1_shock PRF_of VVG_finding AT0_an AJ0_established NN1_member PRF_of AT0_the NN1_congregation VBZ_is VVN_infected PRP_with NP0_HIV CJC_or VVG-AJ0_dying PRP_with NN1_AIDS CJS_even DT0_this VBZ_is AV0_increasingly AJ0_common PUN_. 
+NP0_ACET NN1_Director NP0_Dr NP0_Patrick NP0_Dixon AV0_recently VVD-VVN_told AT0_the AJ0_National NN1_Symposium PRP_on AJ0_Teenage NN1_Sexuality PRP_at NP0_Swanwick PUN_. 
+AT0_The NN1_conference VBD_was VVN_attended PRP_by CRD_300 NN1_church NN1_youth NN2_leaders CJC_and NN1_school NN2_workers PRP_from PRP_across AT0_the NP0_UK PUN_. 
+NP0_Dr NP0_Dixon VVD_said AV0_up CRD_20 NN2_years PRP_from NN1_infection PRP_to NN1_illness PNP_we AV0_just VHB_have TO0_to VVI_ask AVQ_how DT0_many PRF_of DPS_our NN1_congregation VHB_have VBN_been VVN_added PRP_during DT0_that NN1_time PUN_? 
+PRF_of AT0_the NN1_AIDS NN1_problem VBZ_is PRP_in NP0_London CJC_and DT0_much PRF_of AT0_the NN1_rest PRP_in AJ0_Scottish NN2_cities PUN_. 
+NN2_Churches PRP_in DT0_these NN2_areas AV0_particularly VVB_need TO0_to VBI_be VVN_informed AJ0_involved PRP_in NN1_community NN1_care CJC_and AJ0-VVG_supporting AJ0_Christian NN2_workers VVG_seeking TO0_to VVI_prevent AJ0_new NP0_HIV NN1_infection PRP_in NN2_schools PUN_. 
+AT0_The NN1_Symposium VVD-VVN_considered AVQ_how AT0_the NN1_Church VM0_can VVI_communicate AV0_more AV0_effectively PRP_to AJ0_young NN0_people AV0_today PRP_for AT0_the NN1_benefit PRF_of DPS_their NN1_safety CJC_and AJ0_emotional NN1_health PUN_. 
+NN2_churches VBB_are VVG_responding PUN_. 
+DT0_Those AJ0_involved PRP_with NP0_ACET VBB_are AV0_now VVG_helping VVI_provide AV0_home VVB-NN1_care PRP_for PNI-CRD_one PRP_in CRD_four PRF_of DT0_all DT0_those VVG-AJ0_dying PRP_with NN1_AIDS PRP_in AT0_the NP0_UK CJC_and AV0_up NN1_school NN2_pupils AT0_a NN1_month VBB_are AV0_now VVG-AJ0_receiving NN1_education PRP_on AT0_the NN1_subject PUN_. 
+DT0_Both NN2_programmes VBB_are AT0_the AJS_largest PRF_of DPS_their NN1_kind PRP_in AT0_the NN1_country PUN_. 
+NP0_ACET VBZ_is AV0_currently VVG_offering NN2_speakers TO0_to VVI_inform VVB_motivate NN1-VVB_train CJC_and NN1-VVB_support PUN_. 
+NN2_Churches VVG_wanting AT0_a NN1_speaker VM0_should VVI_contact AT0_the NN1_West NP0_London NN2_offices PRP_on CRD_081 CRD_840 CRD_7879 PUN_. 
+ORD_Third AJ0_Annual NN1_Report VVN-VVD_Published AT0_The ORD_third AJ0_annual NN1_report PRP_for VVD_subtitled PNP_it AV0_Home VBD_was VVN_published PRP_on CRD_21 NP0_June DT0_this NN1_year PUN_. 
+AJ0_Official NN2_figures VVB_suggest CJT_that NP0_ACET VVD_provided NN1-VVB_care PRP_at NN1_home PRP_for AV0_up CRD_one PRP_in CRD_four PRF_of DT0_all DT0_those PNQ_who VVD_died PRF_of NN1_AIDS PRP_in AT0_the NP0_UK ORD_last NN1_year PUN_. 
+NN2_pupils VBD_were AV0_also VVN_seen PRP_by NP0_ACET NN2_educators PUN_. 
+NN1_Bulletin NN1_Board NP0_ACET VM0_will AV0_shortly VBI_be VVG_opening AT0_a AJ0_new NN1_office PRP_in AT0_the NN1_east NN1_end PRF_of NP0_London TO0_to VVI_serve NN2_clients PRP_in NN1_North CJC_and NN1_East NP0_London PUN_. 
+VVB-NN1_Nurse NP0_Kay NP0_Hopps VM0_will VHI_have NN1_responsibility PRP_for AT0_the NN1_running PRF_of AT0_the NN1_office PUN_. 
+AT0_The NN2_numbers PRF_of NN2_men NN2_women CJC_and NN2_children VVN_covered PRP_by NN1_home NN1-VVB_care PRP_with CRD_24 NN1_hour PRP_on NN1_call VHZ_has VVN_doubled PRP_in AT0_a NN1_year PUN_. 
+NP0_ACET NN1_South PRP_in NP0_Portsmouth VM0_will VVI_move PRP_into DPS_its AJ0_new NN1_accommodation PRP_during NP0_July PUN_. 
+VVN_Purchased PRP_by AT0_the NP0_Portsmouth CJC_and NN1_South NN1_East NP0_Hampshire NN1_Area NN1_Health NN1_Authority AT0_the NN1_building VM0_will VBI_be NN1_home PRP_to CRD_two AJ0_other NN1_AIDS NN2_charities PUN_. 
+AT0_The NN1_team VBZ_is VVG-AJ0_caring PRP_for AJ0-VVG_growing NN2_numbers AJ0_ill PRP_on AT0_the NN1_South NN1_Coast PRP_including NP0_Brighton PUN_. 
+AT0_The AJ0_full NN1_colour NN2_schools NN1_booklet PNP_It PNP_'s DPS_Your NN1_Choice VBZ_is AV0_now AJ0_available PRP_to NN2_members PRF_of AT0_the NN1_public PRP_at AT0_a NN1_price PRF_of NN0_50p DT0_each PUN_. 
+ORD_Last NN1_year NP0_ACET NN2_educators VVD_saw NN2_pupils PRP_in NN1_face PRP_to NN1_face NN2_presentations PUN_. 
+AT0_The NP0_ACET NN1_Conference PRP_in NP0_May PRP_at AT0_the NP0_Ealing NP0_YMCA VBD_was AV0_well VVN_attended PRP_by AV0_both NN0_staff CJC_and NN2_volunteers PRP_from NP0_London AT0_the NN1_South NN1_East NP0_Northern NP0_Ireland NP0_Scotland NP0_Romania CJC_and NP0_Uganda PUN_. 
+NP0_UK NN1_Director CJC_and NN1_organiser PRF_of AT0_the NN1_Conference NP0_Peter NP0_Johnson VVD_said DT0_many AT0_the NN1_day CJS_provided AT0_a NN1_reaffirmation PRF_of AT0_the NN1_vision PRP_for NP0_ACET CJC_and AT0_a AJ0_marvellous NN1_sense PRF_of NN1_unity PUN_. 
+PNP_It VBD_was AT0_the ORD_first NN1_time DPS_our AJ0_national CJC_and AJ0_international NN1_network VHD_had VVN_gathered AV0_together PRP_in CRD_one NN1_place CJC_and VVD_made PNP_us DT0_all VVB_realise AV0_just AVQ_how DT0_much AT0_the NN1_work VHZ_has VVN_grown PUN_. 
+CRD_Three NN2_visitors PRP_from NP0_Frankfurt NP0_Germany AV0_recently VVD_visited NP0_ACET NP0_'s NN2_offices PRP_before VVG_returning AV0_home TO0_to VVI_begin AT0_a AJ0_similar NN1_service AJ0_Christian NN1_AIDS NN1-VVB_Help PUN_. 
+NN1_Interest VBD_was VVN_expressed PRP_in DT0_all PRF_of AT0_the AJ0_organisational NN2_aspects PRF_of NN1_home NN1-VVB_care PRP_including NN1-VVG_nursing NN1_equipment NN2_loans CJC_and AT0_the NN1_volunteer NN1_programme PUN_. 
+PRP_Like NP0_ACET NP0-NN1_CAH VM0_will VVI_give AV0_both AJ0_medical CJC_and AJ0_practical NN1_help PRP_to NN1_AIDS NN2_patients PRP_in AT0_the NN1_home PUN_. 
+NN2_Letters PRP_to AT0_the NN1_Editor NN2_Letters VM0_would VBI_be AJ0_welcome PUN_. 
+DT0_Any NN2_contributions VM0_may VBI_be VVN_edited PUN_. 
+AV0_Please VVB_write PRP_to AT0_THE NN1_EDITOR NP0_ACET NN1_NEWSLETTER NN1_BOX CRD_1323 NP0_LONDON UNC_W5 UNC_5TF PUN_. 
+VBB_Be AT0_an PRP_for DPS_your NN1_Church AJ0_Dear NP0-NN1_Friend PRP-CJS_As AT0_the NN1_number PRF_of NN0_people AJ0_ill PRP_with NN1_AIDS VVZ_increases AV0_so VDZ_does AT0_the NN1_need PRP_for NN2_volunteers TO0_to VVI_care PRP_for PNP_them PUN_. 
+PRP_Over AT0_the ORD_last CRD_three NN2_years DPS_our NN2_volunteers VHB_have VVN_provided DT0_much NN1-VVB_love CJC_and VVB-NN1_care PRP_to DT0_many AJ0_hurt CJC_and AJ0_lonely NN0_people PUN_. 
+AT0_The NN1-VVB_support DPS_our NN2_volunteers VVB_provide VM0_can VM0_not VBI_be VVN_measured PRP-AVP_in AV0_purely AJ0_practical NN2_terms CJC_and DPS_their AJ0_continuing NN1_contribution VBZ_is AJ0_vital CJS_if PNP_we VBB_are TO0_to VVI_provide AT0_an AJ0_ongoing NN1_service PUN_. 
+PRP_In NN1_recognition PRF_of DPS_their NN1_importance CJC_and AT0_the NN1_need TO0_to VVI_train DT0_more NN2_volunteers PNP_we VVB_want TO0_to VVI_develop NN2_links PRP_with AJ0_individual NN2_churches PUN_. 
+TO0_To VDI_do DT0_this PNP_we VM0_would VVI_like TO0_to VVI_recruit NN0_people PNQ_who VBB_are AJ0_willing TO0_to VBI_be AT0_an PRP_in DPS_their NN1_church PUN_. 
+AT0_An NN1_person AV0_possibly AT0_an AJ0_existing NN1_volunteer VM0_would VVI_keep DPS_their NN1_church VVN-VVD_informed PRP-AVP_about DPS_our NN1_work CJC_and VVB_encourage NN0_people TO0_to VVI_consider VVG-AJ0_becoming NN2_volunteers VVB-NN1_help PRP_with NN1_fundraising NN2_ideas CJC_and VVB_circulate NN2_newsletters PUN_. 
+AT0_An VM0_will VVI_play AT0_a AJ0_vital NN1_role CJS_as DPS_our NN1_work VBZ_is VVG_growing AV0_so AV0_rapidly PUN_. 
+CJS_If PNP_you VM0_would VVI_like TO0_to VVI_know AV0_more PRP_about VBG_being AT0_an AV0_please VVB_contact NP0_Chris NP0_Glover PRP_on CRD_081 CRD_840 CRD_7879 CJC_or VVB_write PRP_to NP0_ACET NN1_PO NN1_Box CRD_1323 NP0_LONDON UNC_W5 UNC_5TF PUN_. 
+NP0_Peter NP0_Johnson NP0_UK NN1_Director NN1-VVB_Tear NN1_Fund VVB-NN1_Support AJ0-NN1_Ugandan NN1_Work NP0_Anthony NP0_Kasozi NP0_'s NN1_work CJS_as NP0_ACET NP0_'s NN1_Director PRP_in NN1_uganda VHZ_has AV0_recently VVN_received AJ0_financial NN1_support NN1-VVB_form NN1_Tear NN1_Fund DTQ_which VHZ_has VVN_enabled PNP_him AV0_together PRP_with NP0_ACET AJ0-NN1_General NN1_Manager NP0_Maurice NP0_Adams TO0_to VVI_identify AT0_a NN1_number PRF_of NN2_projects PRP_for AT0_the AJ0_coming NN1_year PUN_. 
+DT0_These VVB_include VVB-NN1_pedal NN2_cycles PRP_for AT0_a NN1_clinic VVG_allowing NN2_nurses TO0_to VVI_get AVP_out PRP_to AJ0_outlying NN2_villages PUN_; NN1_health NN1-VVB_care NN2_kits TO0_to VVI_help PRP_with AT0_the NN1_care PRF_of NN2_patients PRP_in DPS_their DT0_own NN2_homes PUN_; NN1-VVG_training PRP_for AJ0_different NN2_agencies PUN_; CJC_and AT0_a NN1_variety PRF_of NN1_education NN2_initiatives PUN_. 
+VVG_Returning PRP_from AT0_a NN1_visit PRP_to NP0_Uganda AVQ_where PNP_he VVD_met PRP_with NN2_patients PRP_in AT0_the NN2_villages CJC_and PRP_with AJ0_other NN2_agencies NP0_Maurice NP0_Adams VVD_said VBZ_is AT0_a AJ0_beautiful NN1_country DTQ_which VBZ_is VBG_being VVN_devastated PRP_by AT0_a NN1_disease DTQ_which VM0_can VBI_be VVN_stopped PUN_. 
+NN1_population AV0_in VBZ_is AV0_very AV0_well VVN_educated PRP_about NN1_AIDS VVZ_says NP0_Anthony NP0_Kasozi PRP_to AT0_the NN1_commitment PRF_of AT0_the AJ0-NN1_Ugandan NN1_Government PNQ_who VHB_have VDN_done AV0_well PRP_in VVG-NN1_raising NN1_awareness PUN_. 
+AT0_The NN1_need AV0_here VBZ_is TO0_to VVI_convince NN0_people CJT_that PNP_they VM0_must VVI_change DPS_their NN1_behaviour PUN_. 
+PNP_We VBB_are VVG_seeking TO0_to VVI_find AVP_out DTQ_what AJ0_local NN0_people VVB_want CJS_because PNP_they VM0_must VVI_own AT0_the NN1-VVB_work PNX_themselves PUN_. 
+PRP_In DT0_this NN1_way PRP_with AT0_a DT0_little NN1_money CJC_but DT0_much NN1_commitment AV0_a VM0_can VBI_be VDN_done PUN_. 
+NP0_HIV NN1_Community NN1_Nurse NP0_Sue NN1_Lore VVZ_takes AT0_an NN1_education NN1_class PRP_with AT0_the NN1_help PRF_of NN1_patron NP0-NN1_Cliff NN1_Patron PUN_. 
+VVG-NN1_Living PRP_with NN1_AIDS PRP_by NP0_John NP0_Creedy PNP_You VM0_can VBI_be AV0_perfectly AJ0_well PRP_with NP0_HIV CJC_and PRP_at AJ0_other NN2_times AJ0_chronic NN1_debility VVZ_makes PNP_it AV0-AJ0_hard TO0_to VDI_do AV0_even AT0_the AJ0_basic NN2_things PUN_. 
+PRP_In AT0_the AJ0_early NN2_days AT0_the NN1_stigma PRF_of VBG_being NP0_HIV AJ0-NN1_positive VHD_had VVN_driven AV0_away PRP_about PRF_of DPS_my NN1_circle PRF_of NN2_friends PUN_. 
+PRP_Despite AT0_the NN1_publicity VVG_giving AT0_the NN2_facts VVG_surrounding AT0_the NN1_transmission PRF_of AT0_the NN1_disease NN1_ignorance VBD_was DT0_such CJT_that PNP_they VVD_became AJ0_afraid PRF_of AJ0_normal AJ0_social NN1_contact PUN_. 
+PNP_It AV0_soon VVD_became AJ0_clear CJT_that PNP_I VM0_could AV0_no VVI_rely PRP-AVP_on NN2_friends PRP_for NN1_help PRP_with AJ0_everyday NN2_chores PRP_like NN1-VVG_shopping CJC_and NN1_housework CJS-AVQ_when PNP_I VVD_needed PNP_it PUN_. 
+CJS_While VVG_deciding TO0_to VVI_stay AV0_as AJ0_independent CJS_as AJ0_possible PNP_I VVD_contacted NP0_ACET PNQ_who PNP_I VVD_knew CJS_provided AJ0_practical NN1_care PRP_at NN1_home PUN_. 
+PNP_I VHD_had AV0_previously VVN_spent AV0_about CRD_two NN2_years VVG_asking AJ0_local AJ0_social NN2_services CJC_and NN2_friends PRP_for NN1_help CJC_and XX0_not VHG_having PNP_it VVB_happen CJS_so DPS_my NN1_flat VHD_had VVN_become AV0_pretty VVN_run AVP_down PUN_. 
+EX0_There VBD_was AV0_also AT0_the NN1_question PRF_of DPS_my DT0_own NN1_exhaustion PUN_. 
+AV0_Even AT0_a AJ0_weekly NN1_visit PRP_by AT0_a AJ0_local NN1_authority NN1_home NN1_help CJS_when PNP_it VBD_was AV0_finally VVN_arranged VBD_was XX0_not AV0_enough PUN_. 
+NN1-VVB_Help VVN_provided PRP_by NP0_ACET NN2_volunteers AV0_eventually VVB_go AT0_the AJ0_flat AV0_again CJC_and NN1_life VVD_became AV0_easier PUN_. 
+NN2_Illnesses PRP_including AJ0_chronic NN1_muscle NN1_debility NN2_herpes NN2_tremors CJC_and NN1_eye NN2_infections VHB_have VVN_come CJC_and VVN_gone PUN_. 
+AV0_Recently PNP_I VHB_have VVN_experienced AJ0_serious CJC_and AV0_potentially AJ0_fatal NN2_fevers PUN_. 
+AV0_Basically AT0_every NN1_day VBZ_is AT0_an NN1_effort DT0_that DT0_'s AT0_the NN1_reality CJC_and EX0_there EX0_'s AT0_a AJ0_great NN1_tendency TO0_to VVI_want NN1_life TO0_to VBI_be CJS_as PNP_it VBD_was PUN_. 
+PNP_I VHB_have AV0_far DT0_fewer NN2_friends CJC_and PNP_I VBB_am AV0_partially VVN_sighted DTQ_which VVZ_makes PNP_me AV0_a AV0_more AJ0_vulnerable PUN_; CJC_but DTQ_whatever VVZ_happens AV0_physically PNP_I VHB_have AV0_always VVN_said CJT_that PNP_it VBD_was DTQ_what VVD_happened AV0_mentally CJT-DT0_that VVD_mattered PUN_. 
+VBG_Being AJ0_aware PRF_of AT0_the NN1_stress CJC_and NN1-VVB_pressure CJT_that DT0_many NN0_people CJC_and DPS_their NN2_families VVB-NN1_experience CJS_when NN1_AIDS CJC_or NP0_HIV VBZ_is ORD_first VVN_diagnosed PNP_I VVD_became AJ0_involved PRP_in NN1_counselling PUN_. 
+PNP_I VHB_have AV0_also VVN_campaigned PRP_for AT0_the NN1_Government TO0_to VVI_give NN1_AIDS AJC_greater NN1_recognition XX0_not PRP_as AT0_a NN1_disease VVG_affecting AJ0_specific NN2_sectors PRF_of AT0_the NN1_community CJC_but PRP-CJS_as AT0_a AJ0_social NN1_problem PRP_for DTQ_which EX0_there VM0_must VBI_be AJ0_adequate NN1_welfare NN1_provision PUN_. 
+NN2_Organisations PRP_like NP0_ACET VVB-NN1_need DT0_this VVI_support TO0_to VVI_enable NN0_people PRP_like PNX_myself TO0_to VVI_retain AJ0_maximum NN1_control CJC_and VVB_continue TO0_to VVI_live PRP_at NN1_home AV0_as AV0_independently CJS_as PNP_we VM0_can PUN_. 
+PNP_I VHB_have PRP_in AJ0_recent NN2_years VVD_edited AT0_a NN1_journal PRP_for NN0_people PRP_with NN1_AIDS VVN_written PRP_for AT0_the AJ0_national NN1_press CJC_and VVD_researched AT0_a NN1_variety PRF_of AJ0_medical NN1_material PRP_for NN1_television PUN_. 
+PRP_Without AT0_the NN1_help PRF_of NP0_ACET CJC_and AJ0_other AJ0_direct NN1_service NN2_organisations CJC_and NN2_charities PNP_I VM0_would XX0_not VHI_have VBN_been AJ0_able TO0_to VVI_continue CJC_and VVI_maintain DPS_my NN1_independence PUN_. 
+PRP_By VVG_working PRP_with AT0_the NN0_people PRP_around PNP_me PNP_I VVB_hope TO0_to VVI_continue PRP_for DT0_some NN1_time AV0_yet PUN_. 
+PRP_On NN1_Air NN1_Director NP0_Dr NP0_Patrick NP0_Dixon VBD_was AJ0_involved PRP_in AJ0_numerous NN1_radio NN2-VVZ_broadcasts PRP_during NP0_June PRP_in DPS_his NN1_appearance PRP_on NP0_BBC NN1_Newsroom NN1_South NN1_East NN1_'s NN1_magazine NN1_programme PRP_as NN1_part PRF_of DPS_our ORD_third NN1_birthday NN2_celebrations PUN_. 
+NN2_broadcasts VBD_were VVN_made PRP_by NP0_BBC NN1_Radio NN1_News PRP_for NN1_Radio CRD_4 CRD_'s PRP_at CRD_One CJC_and PRP_by AJ0_Independent NN1_Radio NN1_News PRP_for NN1_broadcast PRP_during AT0_the NN1_week PRF_of AT0_the ORD_7th AJ0_International NN1_Conference PRP_on NN1_AIDS PRP_in NP0_Florence PUN_. 
+AV0_Just PRP_before VVG_leaving TO0_to VVI_attend AT0_the NN1_Conference PNX_itself NP0_Patrick VVD-VVN_fitted PRP-AVP_in AT0_a AJ0_live NN1_broadcast PRP_on NN1_Radio CRD_4 CRD_'s NN1_Programme PUN_. 
+PRP_During AT0_the NN1_week AT0_the NP0_BBC VVD_took AT0_the NN1_opportunity TO0_to VVI_broadcast NN1_part PRF_of DT0_another NN1_interview PRP_on NN1_Radio CRD_4 CRD_'s PRP_on CRD_4 CJS_while AJ0-NN1_Capital NN1_Radio VVN_broadcast AT0_a NN1_feature PRP_on NN1_AIDS AV0_again PRP_including AT0_a NN1_interview PRP_with NP0_Patrick PUN_. 
+CRD_Two NP0_BBC NN1_World NN1_Service NN2-VVZ_broadcasts PRP_at AT0_the NN1_end PRF_of AT0_the NN1_week PRP_with NP0_Patrick VVG_giving DPS_his NN1_assessment PRF_of AT0_the NN1_Conference PUN_. 
+NP0_Patrick NP0_'s NN1_attendance PRP_at AT0_the NP0_Florence NN1_Conference VBD_was VVN_sponsored PRP_by AT0_the AJ0_pharmaceutical NN1_firm NP0_NAPP PUN_. 
+NN2_Changes NN2_Congratulations PRP_to NP0_Brian NP0_Harris DT0_former NN1_Manager PRF_of AT0_the NN1_Education NN1_Department PRP_on DPS_his AJ0_new NN1_appointment PRP_as NN1_Manager PRF_of AT0_a NN1_housing NN1_project PRP_for AT0_the NP0_Shaftesbury NN1_Society PRP_in NP0_Kilburn PUN_. 
+NP0_Brian VBD_was CRD_one PRF_of AT0_the AV0_very ORD_first NN2_members PRF_of AT0_the NP0_ACET NN1_team CJC_and VM0_will VBI_be AV0_greatly VVN_missed PUN_. 
+NP0_Denise NP0_Jones AJ0_responsible PRP_for NN2_grants CJC_and NN1_equipment NN2_loans VVN-VVD_left PRP_at AT0_the NN1_end NP0_June TO0_to VVI_develop DPS_her DT0_own NN1_business AT0_the NN1-NP0_Belgrave NN1_Beauty NN1_Clinic PRP_in NP0_Chiswick NN1_West NP0_London PUN_. 
+NP0_Maurice NP0_Adams AV0_formerly NN1_Deputy NN1_Director PRP_with NN1_responsibility PRP_for AJ0_new NN2_developments PRP_in AT0_the NP0_UK CJC_and AV0_overseas VBZ_is AV0_now AJ0_General NN1_Manager PRF_of NP0_Acet PRP_with NN1_responsibility PRP_for DT0_all NP0_ACET NN2_operations PUN_. 
+NP0_Rev NP0_J NP0_Powrie CRD_22 NN2_years NN1_Minister PRF_of NP0_Chalmers NP0-NN1_Ardler NN1_Parish NN1_Church NN1_Church PRF_of NP0_Scotland VHZ_has AV0_recently VBN_been VVN_appointed PRP_as NN1_member PRF_of NP0_ACET NP0_'s AJ0_Advisory NN1_Council PUN_. 
+NN1-VVB_Volunteer VVN-VVD_Needed AT0_The NN1_need PRP_for NN2_volunteers PRP_from NN2_churches AV0_particularly PRP_in NP0_London CJC_and NP0_Scotland PRP_in AT0_the VBZ_is AT0_an AV0_ever AJ0_constant PNI_one PUN_. 
+VVB-NN1_Volunteer NN1_Manager NP0_Chris NP0_Catlin VVZ_says VHB_have AV0_traditionally VVN_recruited NN2_volunteers PRP_from PRP_across AT0_the NN2_denominations PRP_including NN1-AJ0_Anglican NN1-AJ0_Methodist NN1-AJ0_Baptist AJ0-NN1_Catholic CJC_and NN1-VVB_House NN2_Churches PUN_. 
+PRP_After VVG_spending DT0_some NN1_time AV0_often NN2_years PRP_with PNP_us NN0_people VVB-NN1_move AVP_on PRP_to AJ0_other NN2_things CJC_and PNP_we VVB_need TO0_to VVI_fill AT0_the NN2_gaps PUN_. 
+DT0_All NN2_volunteers VBB_are VVN_trained PRP_in AT0_a NN1_programme VVN_designed PRP_to VVB_give AT0_a AJ0_broad NN1_knowledge PRF_of NP0_HIV CJC_and NN1_AIDS VVB_equip AT0_an NN1-AJ0_individual PRP_on AT0_an AJ0_emotional CJC_and AJ0_practical NN1-AJ0_level TO0_to VVI_enable PNP_them TO0_to VVI_give AJ0_compassionate CJC_and AJ0_unconditional NN1_care VVB_equip PNP_them TO0_to VVI_give AJ0_practical NN1_support AT0_The NN1_training NN1_programme PNX_itself VVZ_covers AJ0_key NN2_subjects PRP_including NN1_death CJC_and AJ0-VVG_dying NN1_sex CJC_and NN1_sexuality NN2_responses CJC_and NN2_reactions AJ0_medical NN2_facts NN1_grief CJC_and NN1_loss PRP_In NP0_London VVB-NN1_volunteer NN1_training NN2_programmes VM0_will AV0_now VVI_take NN1_place AT0_every NP0_September CJC_and NP0_February CJC_and VM0_will VVI_require AT0_an NN1_individual NN1_'s NN1_time PRP_for CRD_one NN1_evening AT0_a NN1_week PRP-AVP_over AT0_a NN1_programme PUN_. 
+NN2_Programmes PRP_for AT0_the CRD_four NP0_London NN2_areas VM0_will VVI_take NN1_place CJS_as VVZ_follows PUN_; NN1_South NN1_West NP0_Thames ORD_9th NP0_September NN1_North NN1_West NP0_Thames ORD_25th NP0_September NN1_North NN1_East NP0_Thames ORD_2nd NP0_October NN1_South NN1_East NP0_Thames NN1-VVB_Date TO0_to VBI_be VVN_fixed PRP_during NP0_October AV0_All NN2_enquiries VM0_should VBI_be VVN_directed PRP_to NP0_Chris NP0_Catlin PRP_on CRD_081 CRD_840 CRD_7879 PUN_. 
+NP0_Romania NP0_Maurice NP0_Adams NP0_ACET AJ0-NN1_General NN1_Manager CJC_and AJ0_Overseas NN1_Development NN1_Worker NP0_Kate NP0_Bristow VHB_have AV0_recently VVN_returned PRP_from NP0_Romania PUN_. 
+NP0_Kate VHZ_has VBN_been VVG_overseeing AT0_an NN1_AIDS NN1_education NN1_course PRP_in NP0_Constanta AV0_together PRP_with AT0_a AJ0_local NN1_representative NP0_Ana NP0-NN1_Ureche PUN_. 
+AT0_A AJ0_similar NN1_course VVN-VVD_held PRP_at AT0_the NN1_beginning PRF_of AT0_the NN1_year PRP_in NP0_Brasov VVN_attended PRP_by CRD_sixty NN0_people PRP_including NN2_teachers NN2_nurses CJC_and NN2_doctors VBD_was AV0_particularly VVG-AJ0_encouraging AV0_as DT0_much PRF_of AT0_the NN1_material VBD_was PRP_in NN1_turn VVD-VVN_passed AVP_on PRP_to AJ0_other NN2_colleagues PRP_for DPS_their NN1_use PUN_. 
+AT0_The NN1_success PRF_of AT0_the AJ0-NN1_initial NN1_pilot NN1_programme VHZ_has VBN_been VVN_recognised PRP_by AT0_the NN1_Ministry PRF_of NN1_Health CJC_and AT0_the NN1_Institute PRF_of NN1_Health NN1_Education CJC_and VVD_led PRP_to NP0_Maurice NP0_Kate CJC_and NP0-NN1_Ana NN1-VVG_meeting PRP_with NN1_Government NN2_officials CJC_and NN2_representatives PRP_from NP0_UNICEF TO0_to VVI_establish AT0_a NN1_training NN1_programme PRP_in CRD_five AJ0_Romanian NN2_regions VVG_starting PRP_in NP0_November PRF_of DT0_this NN1_year PUN_. 
+AT0_The NN1_attitude PRF_of DT0_many AJ0_Romanian NN1_health NN2_professionals VBD_was VVN_summed AVP_up AV0_recently PRP_in AT0_the NN2_words PRF_of CRD_one NN1_doctor PRP_in NP0_Constanta PNQ_who VVD_said NN1_Education VBZ_is AT0_the AJ0_only PNP_we VHB_have TO0_to VVI_fight PRP_against NP0_HIV PUN_. 
+NP0_Kate NP0_Bristow VVD_commented VBZ_is AT0_a AJ0_real NN1_privilege PRP_for NP0_ACET TO0_to VBI_be VVN_asked TO0_to VVI_work PRP_with DT0_such NN0_people CJS_as PNP_they VVB_look PRP_for NN2_ways TO0_to VVI_develop AT0_an AJ0_effective NN1_strategy PUN_. 
+AJ0_International NN1_Adviser NP0_Professor NP0_Jonathan NP0_Mann DT0_former NN1_director PRF_of AT0_the NP0_WHO AJ0_Global NN1_AIDS NN1_Programme VHZ_has VVN_given DPS_his NN1_backing PRP_to NP0_ACET PRP_by VVG_joining NP0_Dr NP0_Everett VVB_Koop AT0_the DT0_former NP0_US NN1_Surgeon NN1_General PRP_as AT0_an AJ0_International NN1_Adviser PUN_. 
+VVG_Speaking AV0_recently PRP_at AT0_the ORD_7th AJ0_International NN1_AIDS NN1_Conference PRP_in NP0_Florence PNP_he VVD_said VBB_am AJ0_delighted TO0_to VVI_support NP0_ACET NP0_'s AJ0_developing AJ0_international NN1_AIDS NN1_programme PUN_. 
+CRD_Ten NN2_years PRP-CJS_after AT0_the NN1_discovery PRF_of NN1_AIDS PNP_we VBB_are VVG_entering PRP_into AT0_a AJ0_new NN1_era PRP_in AT0_the AJ0_global AJ0_pandemic PRP_with AJ0_growing NN1_concern PRP_about DPS_our NN1_ability TO0_to VVI_confront PNP_it AV0_successfully PUN_. 
+AJ0_New NN2_approaches VBB_are VVN_needed PRP_with AJ0_close NN2_partnerships PRP_between AJ0_local NN2_communities NN2_agencies NN2_governments CJC_and AJ0_international NN2_organisations PUN_. 
+PNP_I VVB_believe NP0_ACET VHZ_has AT0_an AJ0_important NN1_part TO0_to VVI_play PRP-AVP_in DT0_this NN1_process PUN_. 
+PNP_He VVD_added VBB_are AV0_just PRP_at AT0_the NN1_beginning PRF_of AT0_the AJ0_worldwide NN1_epidemic CJC_and AT0_the NN1_situation VBZ_is AV0_still AV0_very AJ0_unstable PUN_. 
+AT0_The AJ0_major NN1_impact VBZ_is AV0_yet TO0_to VVI_come PUN_. 
+PRP_Over AT0_the ORD_next NN1_decade AT0_a AJ0_global NN1_approach VBZ_is VVG_going TO0_to VBI_be AJ0_essential PUN_. 
+NP0_Superintendent NP0_Trobridge PRF_of NP0_Ealing NN2_Police NN1_Station NN2-VVZ_hands AT0_a NN1_cheque PRP_for PRP_to NP0_Karen NP0_Russell NP0_ACET NN1-VVB_Trust NN1_Manager PUN_. 
+AT0_The NN1_money VBD_was NN1_part PRF_of AT0_the NN2_proceeds PRP_from AT0_the NN1_sale PRF_of AJ0_unclaimed NN1_property VVN_sold PRP_under AT0_the NN2_Police NN1_Property NN1_Act PUN_. 
+NP0_ACET NN1_NEWS NN1_AIDS NN1-VVB_CARE NN1_EDUCATION NN1_TRAINING NP0_ACET PRP_IN AT0_THE NN1_COMMUNITY VVB-NN1_Issue CRD_1 NN1_AIDS PRP_In NP0_London AJ0-VVG_Changing NN1-AJ0_Fast AJ0_MAJOR NN2-VVZ_CHANGES PRP_in AT0_the NN1_pattern PRF_of NP0_HIV NN1_disease VVG_occurring PRP_in AT0_the NN1_capital DTQ_which VBB_are XX0_not AJ0_obvious PRP_from AJ0_published NN0_statistics PUN_. 
+AT0_The AJS_biggest NN2_changes VBB_are PRP_in AT0_the NN1_length PRF_of NN1_time NN0_people AJ0_ill PRP_with AT0_the NN1_disease VBB_are AV0_now VVG-AJ0_surviving CJC_and PRP_in AT0_the NN1_nature PRF_of AT0_the NN2_illnesses PNX_themselves PUN_. 
+PRP_Between CRD_1984 CJC_and CRD_1986 DT0_those PRP_with NN1_AIDS VVD_died PRP-AVP_on NN1_average DT0_some CRD_ten NN2_months PRP_after NN1_diagnosis PUN_. 
+PRP_Between CRD_1987 CJC_and CRD_1989 AV0_however AT0_the NN1_survival NN1_period VHZ_has AV0_already VVN_doubled PRP_to CRD_twenty NN2_moths PUN_. 
+NN2_Patients VVD-VVN_diagnosed AV0_more AV0_recently VBB_are AV0_probably VVG_surviving AT0_an NN1_average PRF_of AJC_longer CJS_than CRD_two NN2_years PUN_. 
+NN1-VVB_Cause PRF_of NN1_death AT0_The PRF_of NN1_death NN2_figures VBB_are AV0_also VVG-AJ0_changing PRP_beyond DT0_all NN1_recognition PUN_. 
+AT0_The AJ0_classical NN1_pneumocystis NN1_pneumonia VM0_used TO0_to VBI_be AT0_the AJ0_final NN1_event PRP_in AT0_the NN1_disease NN1-VVB_process PRP-AVP_in AV0_almost AV0_half PRF_of DT0_those PRP_with NN1_AIDS PRP_in CRD_1986 PUN_. 
+CJS_While NN1_pneumonia VBZ_is AV0_still AT0_a AJ0_common NN1_occurrence AJ0_current AJ0_preventative NN2_measures CJC_and AJ0_improved NN1_treatment VHB_have VVN_reduced AT0_the NN2_numbers VVG_dying PRP_as AT0_a NN1_result PRP_to AV0_only PRP_by CRD_1989 PUN_. 
+DT0_This NN1_change VHZ_has AJ0_big NN2_implications PRP_for NN1_health NN2_planners CJC_and PRP_for DT0_those VVG-AJ0_caring PRP_for NN0_people PRP_with NN1_AIDS PUN_. 
+PRP_With AT0_the NN2_pneumonias AT0_the NN1_interval PRP_between AJ0_early NN1_chest NN1_infection CJC_and NN1_death VM0_could VBI_be AV0_as DT0_little CJS_as CRD_12 NN2_hours PRP_in PNI_someone AV0_outwardly AJ0_fit CJC_and AV0_well PUN_. 
+NN1_Planning VBD_was AV0_often AJ0_difficult CJC_or AJ0_impossible CJC_and AT0_the NN1_need PRP_for NN1_home NN1_care VBD_was AV0_less PUN_. 
+AT0_The AJS_commonest NN1_cause PRF_of NN1_death VBZ_is AV0_now VVN_advanced NP0-NN1_Sarcoma NN1_kind PRF_of NN1_cancer PUN_. 
+AV0_Slowly VVG-AJ0_growing AJ0_internal NN2_lesions VM0_can VVI_produce AJ0_great NN2_difficulties PRP_in AT0_the NN1_lung CJC_and AT0_the NN1_gut VVG_causing NN1_shortness PRF_of NN1_breath CJC_and AJ0_other NN2_problems PUN_. 
+AJ0_Internal NP0-NN1_Sarcoma VM0_can VBI_be AV0_very AJ0_painful PUN_. 

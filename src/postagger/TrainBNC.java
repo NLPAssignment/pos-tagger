@@ -103,11 +103,11 @@ public class TrainBNC
 				BufferedReader br  = new BufferedReader(new FileReader(filename));	
 
 				String line ;
-				String previous, current;
+				String previousTags[];
 				while(( line = br.readLine() ) != null ) //read line by line
 				{
-					
-					previous = "^";
+					previousTags = new String[1]; //at the start of every line previous state is "^"
+					previousTags[0] = "^";
 					String words[] = line.split(" "); //chunk into words
 					// Process a single line, word-by-word
 					for (int i = 0 ; i < words.length ; i++ )
@@ -117,28 +117,44 @@ public class TrainBNC
 						String taggedword[]= words[i].split("_");	// Separate word and tag
 
 						// Get the current tag
-						current = taggedword[0];
-
-						transitionSeen(previous, current);
+						String []currentTags = taggedword[0].split("-");
+						for(String previous:previousTags)
+						{
+							int count = ( priorStateCounts.get(previous) == null ) ? 1 : priorStateCounts.get(previous)+1 ;
+							priorStateCounts.put(previous, count);
+						}
+						for(String current :currentTags)
+						{
+							for(String previous:previousTags)
+							{
+								transitionSeen(previous, current);
+							}
 						
-						int count = ( priorStateCounts.get(previous) == null ) ? 1 : priorStateCounts.get(previous)+1 ;
-						priorStateCounts.put(previous, count);
-						
+							// update output probabilites
+							taggedword[1] = taggedword[1].toLowerCase();
+							outputSeen(current, taggedword[1]);
+							
 						if(taggedword[1].equals(".") ||taggedword[1].equals("!")||taggedword[1].equals("?"))
 						{
 							transitionSeen(current, ".");
 							int count2 = ( priorStateCounts.get(current) == null ) ? 1 : priorStateCounts.get(current)+1 ;
 							priorStateCounts.put(current, count2);
-							previous = "^";
+							
 						}
-						else
-						{
-							previous = current;
-						}
+						
 
-						// Get the tag output
-						taggedword[1] = taggedword[1].toLowerCase();
-						outputSeen(taggedword[0], taggedword[1]);
+						}
+						
+						if(taggedword[1].equals(".") ||taggedword[1].equals("!")||taggedword[1].equals("?"))
+						{
+							previousTags = new String[1];
+							previousTags[0] = "^";
+						}
+						
+							else
+							{
+								previousTags = currentTags;
+							}
 					}
 				}
 			//}
@@ -165,8 +181,11 @@ public class TrainBNC
 	
 	public static void main(String args[]) throws IOException
 	{
+		
 
 		TrainBNC t = new TrainBNC();
+		//t.readCorpus("minicorpus/dummy.txt");
+		//t.storeProbabilities("model_dummy.txt");
 		t.readCorpus("BNC_Cleaned/FullCorpus-Cleaned.txt");
 		t.storeProbabilities("model_BNC_full.txt");
 		t.printPriorStateCounts();
