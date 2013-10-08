@@ -72,7 +72,7 @@ public class CrossValidation
 		{
 			int lineno = 0;
 			// Open train and test files for current fold here
-			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpus.txt"));
+			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpusPRP.txt"));
 			PrintWriter trainWriter = new PrintWriter(new FileWriter("Train-Fold" + foldno + ".txt"), true);
 			PrintWriter testWriter = new PrintWriter(new FileWriter("Test-Fold" + foldno + ".txt"), true);
 
@@ -333,23 +333,20 @@ public class CrossValidation
 		for(String tag : confMatrix.keySet())
 			System.out.println(tag + "\t" + confMatrix.get(tag));
 
-		System.out.println("\n--- Assigned Tags ---");
-		System.out.println(assignedTags.toString());
-
-		System.out.println("\n--- Corpus Tags ---");
-		System.out.println(corpusTags.toString());
-
-		System.out.println("\n--- Correct Tags ---");
-		System.out.println(correctTags.toString());
-
-		System.out.println("\n--- Precision ---");
+		/* System.out.println("\n--- Precision ---");
 		System.out.println(precision.toString());
 
 		System.out.println("\n--- Recall ---");
 		System.out.println(recall.toString());
 
 		System.out.println("\n--- F-Measure ---");
-		System.out.println(f.toString());
+		System.out.println(f.toString()); */
+
+		System.out.println("\nTag\tP\tR\tF\n");
+
+		for(String tag : corpusTags.keySet())
+			// System.out.println(tag + "\t" + precision.get(tag) + "\t" + recall.get(tag) + "\t" + f.get(tag));
+			System.out.printf("%s\t%.5f\t%.5f\t%.5f\n", tag, precision.get(tag), recall.get(tag), f.get(tag));
 	}
 
 	public static void main(String ar[])throws IOException
