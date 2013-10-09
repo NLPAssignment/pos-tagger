@@ -195,8 +195,10 @@ public class CrossValidation
 		String[] carray = cline.split(" ");
 		String[] warray = wline.split(" ");
 
+
 		for(int i=0; i<carray.length; i++)
 		{
+			boolean errorOccured = true;		// Keeps track of whether error has occured; used in confusion matrix
 			// carray[i] and warray[i] each contain a tagged word in the form TAG_word
 			String ctaglist = carray[i].split("_")[0];
 			String[] ctags = ctaglist.split("-");	// Handling of ambiguous corpus tags
@@ -211,6 +213,44 @@ public class CrossValidation
 			else
 				assignedTags.put(wtag, 1);
 
+			if(!Arrays.asList(ctags).contains(wtag))	// Wrong tag!
+				errors++;
+			else						// Correct tag!
+			{
+				errorOccured = false;
+				// wtag is correct, increment its count in correctTags
+				if(correctTags.containsKey(wtag))
+				{
+					int correctCount = correctTags.get(wtag);
+					correctTags.put(wtag, correctCount+1);
+				}
+				else
+					correctTags.put(wtag, 1);
+
+				// Update confusion matrix with single tag
+
+				HashMap <String, Integer> ctagMap; // Intermediate hashmap
+				if(confMatrix.containsKey(wtag))	// Tag is already seen
+				{
+					ctagMap = confMatrix.get(wtag);	// Get old values
+					if(ctagMap.containsKey(wtag))	// "Diagonal entry" exists
+					{
+						int confCount = ctagMap.get(wtag);
+						ctagMap.put(wtag, confCount+1);
+					}
+					else	// Diagonal entry doesn't exist, add new entry with count of 1
+						ctagMap.put(wtag, 1);
+				}
+
+				else	// New tag
+				{
+					ctagMap = new HashMap <String, Integer>();	// Create brand-new inner HashMap
+					ctagMap.put(wtag, 1);
+				}
+
+				confMatrix.put(wtag, ctagMap);
+			}
+
 			for(String ctag : ctags)
 			{
 				// Tag is seen in corpus, increment its count in corpusTags
@@ -224,39 +264,28 @@ public class CrossValidation
 
 				HashMap <String, Integer> ctagMap; // Intermediate hashmap
 
-				if(confMatrix.containsKey(ctag))	// Corpus tag is already seen
+				if(errorOccured)
 				{
-					ctagMap = confMatrix.get(ctag);	// Get old values
-					if(ctagMap.containsKey(wtag))	// Same confusion has occured before
+					if(confMatrix.containsKey(ctag))	// Corpus tag is already see
 					{
-						int confCount = ctagMap.get(wtag);
-						ctagMap.put(wtag, confCount+1);
+						ctagMap = confMatrix.get(ctag);	// Get old values
+						if(ctagMap.containsKey(wtag))	// Same confusion has occured before
+						{
+							int confCount = ctagMap.get(wtag);
+							ctagMap.put(wtag, confCount+1);
+						}
+						else	// New confusion, add new entry with count of 1
+							ctagMap.put(wtag, 1);
 					}
-					else	// New confusion, add new entry with count of 1
+
+					else	// New corpus tag
+					{
+						ctagMap = new HashMap <String, Integer>();	// Create brand-new inner HashMap
 						ctagMap.put(wtag, 1);
-				}
+					}
 
-				else	// New corpus tag
-				{
-					ctagMap = new HashMap <String, Integer>();	// Create brand-new inner HashMap
-					ctagMap.put(wtag, 1);
+					confMatrix.put(ctag, ctagMap);
 				}
-
-				confMatrix.put(ctag, ctagMap);
-			}
-
-			if(!Arrays.asList(ctags).contains(wtag))	// Wrong tag!
-				errors++;
-			else						// Correct tag!
-			{
-				// wtag is correct, increment its count in correctTags
-				if(correctTags.containsKey(wtag))
-				{
-					int correctCount = correctTags.get(wtag);
-					correctTags.put(wtag, correctCount+1);
-				}
-				else
-					correctTags.put(wtag, 1);
 			}
 		}
 
@@ -302,50 +331,25 @@ public class CrossValidation
 
 	static void printResults()
 	{
-		/* System.out.println("--- Confusion Matrix ---");
-		System.out.print("\t");
-		for(int i=0; i<5; i++)
-			System.out.print(Utilities.getIndexPos(i+1) + "\t");
-		System.out.println();
-
-		for(int i=0; i<5; i++)
-		{
-			System.out.print(Utilities.getIndexPos(i+1) + "\t");
-			for(int j=0; j<5; j++)
-				System.out.print(confMatrix[i][j] + "\t");
-			System.out.println();
-		}
-
-		System.out.println("\n--- Precision ---");
-		for(int i=0; i<5; i++)
-			System.out.print(precision[i] + "\t");
-
-		System.out.println("\n--- Recall ---");
-		for(int i=0; i<5; i++)
-			System.out.print(recall[i] + "\t");
-
-		System.out.println("\n--- F-Measure ---");
-		for(int i=0; i<5; i++)
-			System.out.print(f[i] + "\t");
-		System.out.println(); */
-
 		System.out.println("\n--- Confusion Matrix ---");
 		for(String tag : confMatrix.keySet())
 			System.out.println(tag + "\t" + confMatrix.get(tag));
 
-		/* System.out.println("\n--- Precision ---");
-		System.out.println(precision.toString());
+		System.out.println("\n--- Corpus Tag Counts ---");
+		for(String tag : corpusTags.keySet())
+			System.out.println(tag + "\t" + corpusTags.get(tag));
 
-		System.out.println("\n--- Recall ---");
-		System.out.println(recall.toString());
+		System.out.println("\n--- Assigned Tag Counts ---");
+		for(String tag : assignedTags.keySet())
+			System.out.println(tag + "\t" + assignedTags.get(tag));
 
-		System.out.println("\n--- F-Measure ---");
-		System.out.println(f.toString()); */
+		System.out.println("\n--- Correct Tag Counts ---");
+		for(String tag : correctTags.keySet())
+			System.out.println(tag + "\t" + correctTags.get(tag));
 
 		System.out.println("\nTag\tP\tR\tF\n");
 
 		for(String tag : corpusTags.keySet())
-			// System.out.println(tag + "\t" + precision.get(tag) + "\t" + recall.get(tag) + "\t" + f.get(tag));
 			System.out.printf("%s\t%.5f\t%.5f\t%.5f\n", tag, precision.get(tag), recall.get(tag), f.get(tag));
 	}
 

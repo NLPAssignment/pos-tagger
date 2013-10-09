@@ -32,7 +32,8 @@ public class TrainBNC
 
 	public void printTransitionCounts()
 	{
-		System.out.println(transitionCounts.toString());
+		for(String tag : transitionCounts.keySet())
+			System.out.println(tag + "\t" + transitionCounts.get(tag));
 	}
 
 	public void printOutputCounts()
