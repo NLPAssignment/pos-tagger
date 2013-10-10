@@ -196,7 +196,8 @@ public class ViterbiBNC {
 	public static void main(String args[]) throws IOException
 	{
 		ViterbiBNC v = new ViterbiBNC();
+		java.io.Console con = System.console();
 		v.loadCounts("model_BNC_full.txt");
-		System.out.println(v.viterbi("People see new things .", true));
+		System.out.println(v.viterbi(con.readLine(), true));
 	}
 }
