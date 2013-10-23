@@ -94,7 +94,98 @@ public class ViterbiBNC {
 			 */
 			//return 0.0;
 			//for now return a standard very small number
-			return ( (double) 1 / outputCounts.size() );
+			return smooth(word, posTag);
+		}
+	}
+
+	public double getPriorProbability(String tag)
+	{
+		int sum=0;
+		for(String key : priorStateCounts.keySet())
+			sum += priorStateCounts.get(key);
+
+		return ((double) priorStateCounts.get(tag) / sum);
+	}
+
+	// Implement suffix-based smoothing for the given word and return P(tag | word)
+	public double smooth(String word, String tag)
+	{
+		int LONGEST_SUFFIX_LENGTH = 4;
+		double result = -1;
+
+		// 1: Basic "small value" smoothing
+		// result = (double) 1 / outputCounts.size();
+
+		// 2: Most common tag approach
+		/* if(tag.equals("NN1"))
+			result = 1.0;
+		else
+			result = 0.0; */
+
+		// 3: Recursive suffix-based smoothing
+
+		// Assume biggest suffix length of 4
+		int suffixLength = word.length() > LONGEST_SUFFIX_LENGTH ? LONGEST_SUFFIX_LENGTH : word.length();
+		String initialSuffix = word.substring(word.length() - suffixLength);
+
+		result = smoothRecursion(initialSuffix, tag);
+
+		// This is P(tag | suffix). TODO: Apply bayesian inversion here.
+
+		System.out.println("P(" + word + " | " + tag + ") = " + result);
+
+		return result;
+		//return ( (double) 1 / outputCounts.size() );
+	}
+
+	public double smoothRecursion(String suffix, String tag)
+	{
+		double theta = 0.2;	// Assume a value for now
+
+		// Recursive case: MLE of suffix + theta * recursion over smaller suffix
+		if(!suffix.equals(""))
+		{
+			// A: Initial MLE of P(tag | suffix)
+
+			// double MLE = getPriorProbability(tag);	// Placeholder value
+			double MLE = 0.0;
+			int numerator = 0;
+			int denominator = 0;
+
+			// 1: For each key in outputCounts, see if it ends with required suffix
+			for(String corpusWord : outputCounts.keySet())
+			{
+				// 2: If yes, add all its counts to denominator
+				if(corpusWord.endsWith(suffix))
+				{
+					// Add counts to denominator here
+					for(String tagKey : outputCounts.get(corpusWord).keySet())
+						denominator += outputCounts.get(corpusWord).get(tagKey);
+
+					// 3: Now add count of MATCHING TAG ONLY to numerator
+					if(outputCounts.get(corpusWord).containsKey(tag))
+						numerator += outputCounts.get(corpusWord).get(tag);
+				}
+			}
+			// 5: Compute MLE = numerator/denominator
+			if(denominator != 0)
+				MLE = numerator / (double) denominator;
+			else
+				MLE = 0;
+
+			// B: Make the recursive call
+			double recursiveResult = smoothRecursion(suffix.substring(1), tag);
+
+			return (MLE + theta * recursiveResult) / (1 + theta);
+		}
+
+		// Base case: Only MLE
+		else
+		{
+			// C: MLE for P(tag) without suffix
+
+			double MLE = getPriorProbability(tag);
+			return MLE;
 		}
 	}
 	
@@ -198,6 +289,7 @@ public class ViterbiBNC {
 		ViterbiBNC v = new ViterbiBNC();
 		java.io.Console con = System.console();
 		v.loadCounts("model_BNC_full.txt");
+		System.out.println("Enter a sentence to be tagged:");
 		System.out.println(v.viterbi(con.readLine(), true));
 	}
 }
