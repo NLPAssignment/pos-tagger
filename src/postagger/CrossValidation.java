@@ -214,7 +214,17 @@ public class CrossValidation
 				assignedTags.put(wtag, 1);
 
 			if(!Arrays.asList(ctags).contains(wtag))	// Wrong tag!
+			{
 				errors++;
+				
+				/*LEKHA - The following 4 lines print outputs to help in error analysis
+				 * Change tags to probe different combos*/
+				if(Arrays.asList(ctags).contains("AJ0") && Arrays.asList(wtag).contains("AV0")){
+					System.out.print(carray[i]+"\t");
+					System.out.print(warray[i]+"\t");
+					System.out.println(cline);}
+				/*LEKHA - error analysis probe ends*/
+			}
 			else						// Correct tag!
 			{
 				errorOccured = false;
@@ -332,8 +342,24 @@ public class CrossValidation
 	static void printResults()
 	{
 		System.out.println("\n--- Confusion Matrix ---");
+		for(String tag2:confMatrix.keySet())
+		{
+			System.out.print("\t"+tag2);
+		}
+		System.out.println();
 		for(String tag : confMatrix.keySet())
-			System.out.println(tag + "\t" + confMatrix.get(tag));
+		{
+			System.out.print(tag+"\t");
+				for(String tag2 : confMatrix.keySet())
+				{
+					HashMap <String,Integer> confCounts = confMatrix.get(tag);
+					if(confCounts.containsKey(tag2))
+						System.out.print(confCounts.get(tag2)+"\t");
+					else
+						System.out.print("0"+"\t");
+				}
+		System.out.println();
+		}
 
 		System.out.println("\n--- Corpus Tag Counts ---");
 		for(String tag : corpusTags.keySet())
