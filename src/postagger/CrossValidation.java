@@ -72,7 +72,7 @@ public class CrossValidation
 		{
 			int lineno = 0;
 			// Open train and test files for current fold here
-			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpusPRP.txt"));
+			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpus.txt"));
 			PrintWriter trainWriter = new PrintWriter(new FileWriter("Train-Fold" + foldno + ".txt"), true);
 			PrintWriter testWriter = new PrintWriter(new FileWriter("Test-Fold" + foldno + ".txt"), true);
 
