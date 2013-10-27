@@ -1,4 +1,5 @@
 NN1_people VBZ_laugh PUN_.
 NN1_children VBZ_laugh PUN_.
+NN1_people VBZ_smile PUN_.
 NN1_people VBZ_cough PUN_.
 NN1_children ABC_rough PUN_.

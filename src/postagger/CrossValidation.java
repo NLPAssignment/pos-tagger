@@ -72,7 +72,7 @@ public class CrossValidation
 		{
 			int lineno = 0;
 			// Open train and test files for current fold here
-			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpus.txt"));
+			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpus.txt"));//SmallCorpus.txt
 			PrintWriter trainWriter = new PrintWriter(new FileWriter("Train-Fold" + foldno + ".txt"), true);
 			PrintWriter testWriter = new PrintWriter(new FileWriter("Test-Fold" + foldno + ".txt"), true);
 
@@ -103,6 +103,7 @@ public class CrossValidation
 			testWriter.close();
 			trainReader.close();
 		}
+		System.out.println("Fold files created...");
 	}
 
 	/* createModelFiles(): Creates 5 files containing probability values - 1 for each fold */
@@ -140,6 +141,7 @@ public class CrossValidation
 		}
 
 		return (total-incorrect) * 100 / (double) total;
+		
 	}
 
 	/* findAccuracy(): Reports the overall accuracy upon 5-fold cross-validation */
@@ -381,14 +383,14 @@ public class CrossValidation
 
 	public static void main(String ar[])throws IOException
 	{
-		if(! checkFiles("model"))
-		{
+		//if(! checkFiles("model"))
+		//{
 			System.out.println("Model files not found, creating them. This may take a few minutes...");
-			if(!(checkFiles("Train-Fold") && checkFiles("Test-Fold")))
+			//if(!(checkFiles("Train-Fold") && checkFiles("Test-Fold")))
 				createCorpusFiles();
 			createModelFiles();
 			System.out.println("Model files created.");
-		}
+		//}
 
 		System.out.println("The overall accuracy is: " + findAccuracy());
 		printResults();

@@ -132,7 +132,7 @@ public class ViterbiBNC {
 
 		// This is P(tag | suffix). TODO: Apply bayesian inversion here.
 
-		System.out.println("P(" + word + " | " + tag + ") = " + result);
+		//System.out.println("P(" + word + " | " + tag + ") = " + result);
 
 		return result;
 		//return ( (double) 1 / outputCounts.size() );
@@ -223,13 +223,21 @@ public class ViterbiBNC {
 			
 			double maxProbability = 0.0;
 			String maxPosTag = "";
+			HashMap<String, Double> outputProbabilites =new HashMap<String, Double>();
+			for (String previousPosTag:previousColumn.keySet()) //calculate output probabilities once for each tag and store, used later for efficiency
+			{
+				outputProbabilites.put(previousPosTag,getOutputProbability(lowercaseWord, previousPosTag));
+				//calculate and store output probability of lowerCaseWord and previousPosTag
+			}
 			for(String currentPosTag:previousColumn.keySet())
 			{
 				for(String previousPosTag:previousColumn.keySet())
 				{
 					double value = previousColumn.get(previousPosTag).getProbability();
 					value *= getTransitionProbability(previousPosTag, currentPosTag);
-					value *= getOutputProbability(lowercaseWord, previousPosTag);
+					value *= outputProbabilites.get(previousPosTag); //better efficiency
+					//earlier the following line repeated function calls and made things inefficient
+					//value *=getOutputProbability(lowercaseWord, previousPosTag);
 					
 					if(value >= maxProbability)
 					{
@@ -290,6 +298,6 @@ public class ViterbiBNC {
 		java.io.Console con = System.console();
 		v.loadCounts("model_BNC_full.txt");
 		System.out.println("Enter a sentence to be tagged:");
-		System.out.println(v.viterbi(con.readLine(), true));
+		System.out.println(v.viterbi("there was a king who lived there .", true));
 	}
 }
