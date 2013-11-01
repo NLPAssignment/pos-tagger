@@ -220,12 +220,12 @@ public class CrossValidation
 				errors++;
 				
 				/*LEKHA - The following 4 lines print outputs to help in error analysis
-				 * Change tags to probe different combos*/
+				 * Change tags to probe different combos
 				if(Arrays.asList(ctags).contains("AJ0") && Arrays.asList(wtag).contains("AV0")){
 					System.out.print(carray[i]+"\t");
 					System.out.print(warray[i]+"\t");
 					System.out.println(cline);}
-				/*LEKHA - error analysis probe ends*/
+				LEKHA - error analysis probe ends*/
 			}
 			else						// Correct tag!
 			{
