@@ -1,14 +1,15 @@
 package postagger;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.LineNumberReader;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.FileWriter;
 import java.io.File;
-import java.util.HashMap;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.LineNumberReader;
+import java.io.PrintWriter;
 import java.util.Arrays;
+import java.util.HashMap;
 
 public class CrossValidation
 {
@@ -46,6 +47,8 @@ public class CrossValidation
 
 	// F-Measure: f = 2*p*r / (p+r)
 	static HashMap <String, Double> f;
+	
+	static HashMap<String, HashMap<String, PrintWriter>> errorProbeStreams;
 
 	static
 	{
@@ -56,6 +59,7 @@ public class CrossValidation
 		precision = new HashMap <String, Double>();
 		recall = new HashMap <String, Double>();
 		f = new HashMap <String, Double>();
+		errorProbeStreams = new HashMap<String, HashMap<String, PrintWriter>>();
 	}
 
 	/* createCorpusFiles(): Splits training.txt into 5 pairs of files, 1 for each fold */
@@ -191,7 +195,7 @@ public class CrossValidation
 	2: Update counts of correctTags, assignedTags, corpusTags
 	3: Calculate and return no of errors in tagging
 	*/
-	static int keepCounts(String cline, String wline)
+	static int keepCounts(String cline, String wline)throws FileNotFoundException
 	{
 		int errors = 0;
 		String[] carray = cline.split(" ");
@@ -219,6 +223,30 @@ public class CrossValidation
 			{
 				errors++;
 				
+				for (String ctag : ctags)
+				{
+					if(errorProbeStreams.containsKey(wtag))
+					{
+						if(errorProbeStreams.get(wtag).containsKey(ctag))
+							errorProbeStreams.get(wtag).get(ctag).write(carray[i]+"\t"+warray[i]+"\t"+cline+"\t"+wline+"\n");
+						else
+						{
+							PrintWriter probeWriter = new PrintWriter(new File("errorProbe/"+ctag+"-"+wtag+".err"));
+							errorProbeStreams.get(wtag).put(ctag, probeWriter);
+							errorProbeStreams.get(wtag).get(ctag).write(carray[i]+"\t"+warray[i]+"\t"+cline+"\t"+wline+"\n");
+								}
+							
+					}
+					else
+					{
+						PrintWriter probeWriter = new PrintWriter(new File("errorProbe/"+ctag+"-"+wtag+".err"));
+						HashMap<String, PrintWriter>h = new HashMap<String, PrintWriter>();
+						h.put(ctag, probeWriter);
+						errorProbeStreams.put(wtag, h);
+						
+						errorProbeStreams.get(wtag).get(ctag).write(carray[i]+"\t"+warray[i]+"\t"+cline+"\t"+wline+"\n");
+					}
+				}
 				/*LEKHA - The following 4 lines print outputs to help in error analysis
 				 * Change tags to probe different combos
 				if(Arrays.asList(ctags).contains("AJ0") && Arrays.asList(wtag).contains("AV0")){
@@ -343,6 +371,13 @@ public class CrossValidation
 
 	static void printResults()
 	{
+		for(String tag:errorProbeStreams.keySet())
+		{
+			for(String tag2:errorProbeStreams.get(tag).keySet())
+			{
+				errorProbeStreams.get(tag).get(tag2).close();
+			}
+		}
 		System.out.println("\n--- Confusion Matrix ---");
 		for(String tag2:confMatrix.keySet())
 		{
