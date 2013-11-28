@@ -32,13 +32,40 @@ public class TrainBNC
 
 	public void printTransitionCounts()
 	{
+		System.out.println("\n--- Transition Matrix ---");
+		for(String tag2:transitionCounts.keySet())
+		{
+			System.out.print("\t"+tag2);
+		}
+		System.out.println();
 		for(String tag : transitionCounts.keySet())
-			System.out.println(tag + "\t" + transitionCounts.get(tag));
+		{
+			System.out.print(tag+"\t");
+				for(String tag2 : transitionCounts.keySet())
+				{
+					HashMap <String,Integer> confCounts = transitionCounts.get(tag);
+					if(confCounts.containsKey(tag2))
+						System.out.print(confCounts.get(tag2)+"\t");
+					else
+						System.out.print("0"+"\t");
+				}
+		System.out.println();
+		}
 	}
 
 	public void printOutputCounts()
 	{
-		System.out.println(outputCounts.toString());		
+		System.out.println("Output probabilites:");
+		for (String word : outputCounts.keySet() )
+		{
+			System.out.print(word+"\t\t");
+			for (String tag:outputCounts.get(word).keySet())
+			{
+				System.out.print(tag+" : "+outputCounts.get(word).get(tag)+"\t");
+			}
+			System.out.println();
+		}
+		//System.out.println(outputCounts.toString());		
 	}
 
 	public void printPriorStateCounts()
@@ -109,6 +136,7 @@ public class TrainBNC
 				{
 					previousTags = new String[1]; //at the start of every line previous state is "^"
 					previousTags[0] = "^";
+					
 					String words[] = line.split(" "); //chunk into words
 					// Process a single line, word-by-word
 					for (int i = 0 ; i < words.length ; i++ )
@@ -119,6 +147,7 @@ public class TrainBNC
 
 						// Get the current tag
 						String []currentTags = taggedword[0].split("-");
+						
 						for(String previous:previousTags)
 						{
 							int count = ( priorStateCounts.get(previous) == null ) ? 1 : priorStateCounts.get(previous)+1 ;
@@ -129,6 +158,8 @@ public class TrainBNC
 							for(String previous:previousTags)
 							{
 								transitionSeen(previous, current);
+							//	if(previous.equals("PUN"))
+								//	System.out.println(line);
 							}
 						
 							// update output probabilites
@@ -187,9 +218,11 @@ public class TrainBNC
 		TrainBNC t = new TrainBNC();
 		//t.readCorpus("minicorpus/dummy.txt");
 		//t.storeProbabilities("model_dummy.txt");
-		t.readCorpus("BNC_Cleaned/FullCorpus-Cleaned.txt");
+		t.readCorpus("BNC_Cleaned/FullCorpus-Cleaned2.txt");
 		t.storeProbabilities("model_BNC_full.txt");
 		t.printPriorStateCounts();
 		t.printTransitionCounts();
+		//t.printOutputCounts();
+		//System.out.println(t.transitionCounts.get("AV0").get("."));
 	}
 }

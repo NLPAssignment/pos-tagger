@@ -1,25 +1,27 @@
 package postagger;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.util.HashMap;
 import java.util.ArrayList;
 public class ViterbiBNC {
-	
+
 	/*
 	 * class variables 
 	 * transition probabilties for each pair of states
 	 * output probabilities for word given a state
 	 * 
 	 * */
-	
+
 	HashMap<String, HashMap<String, Integer>> outputCounts;
 	HashMap<String, HashMap<String, Integer>> transitionCounts;
 	HashMap<String, Integer> priorStateCounts;
 
-	
+
 	//constructor- initializes data structures to empty
 	public ViterbiBNC()
 	{
@@ -28,23 +30,23 @@ public class ViterbiBNC {
 		priorStateCounts = new HashMap<String, Integer>();
 		outputCounts = new HashMap<String, HashMap<String,Integer>>();
 	}
-	
 
-	
+
+
 	//reads corpus file and builds data structures
 	public void loadCounts(String filename) throws IOException
 	{
 		ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File(filename)));
 		try{
-		priorStateCounts = (HashMap<String, Integer>)ois.readObject();
-		transitionCounts =(HashMap<String, HashMap<String,Integer>>) ois.readObject();
-		outputCounts = (HashMap<String, HashMap<String,Integer>>)ois.readObject();
-		
-		//System.out.println(outputCounts.get("aids").get("NN1"));
+			priorStateCounts = (HashMap<String, Integer>)ois.readObject();
+			transitionCounts =(HashMap<String, HashMap<String,Integer>>) ois.readObject();
+			outputCounts = (HashMap<String, HashMap<String,Integer>>)ois.readObject();
+
+			//System.out.println(outputCounts.get("aids").get("NN1"));
 		}
 		catch(ClassNotFoundException e){}
 	}
-	
+
 	public void printTransitionCounts()
 	{
 		System.out.println(transitionCounts.toString());
@@ -59,32 +61,38 @@ public class ViterbiBNC {
 	{
 		System.out.println(priorStateCounts.toString());
 	}
-	
-	
+
+
 	public double getTransitionProbability(String first,String second)
 	{
 		if(transitionCounts.containsKey(first))
 		{
 			if(transitionCounts.get(first).containsKey(second))
-				return (double)transitionCounts.get(first).get(second) / priorStateCounts.get(first);
+				return (double)transitionCounts.get(first).get(second) / (priorStateCounts.get(first)+transitionCounts.get(first).size());
 			else 
-				return 0.0;
+				//return 0.0;
+				return 1/(priorStateCounts.get(first)+transitionCounts.get(first).size());
 		}
 		else
 		{
+			//we never really come here during our cross validation atleast
 			return 0.0;
+			//return 1/(priorStateCounts.size()+1);
 		}
 	}
-	
+
 	//returns P(word|state)
 	public double getOutputProbability(String word, String posTag)
 	{
+		
 		if(outputCounts.containsKey(word))
 		{
 			if(outputCounts.get(word).containsKey(posTag))
-			return (double)outputCounts.get(word).get(posTag) / priorStateCounts.get(posTag);
+				return (double)outputCounts.get(word).get(posTag) / (priorStateCounts.get(posTag)+0.01);
 			else 
-				return 0.0; /*TODO should this need smoothing? seen word not seen with a particular pos tag*/
+				return (double)0.01/(priorStateCounts.get(posTag)+0.01);
+				//return smooth(word, posTag);
+				//return 0.0; /*TODO should this need smoothing? seen word not seen with a particular pos tag*/
 		}
 		else
 		{
@@ -94,8 +102,13 @@ public class ViterbiBNC {
 			 */
 			//return 0.0;
 			//for now return a standard very small number
+			//return (double)0.01/(priorStateCounts.get(posTag)+0.01);
+		
 			return smooth(word, posTag);
 		}
+		
+		
+		
 	}
 
 	public double getPriorProbability(String tag)
@@ -110,9 +123,8 @@ public class ViterbiBNC {
 	// Implement suffix-based smoothing for the given word and return P(tag | word)
 	public double smooth(String word, String tag)
 	{
-		int LONGEST_SUFFIX_LENGTH = 4;
+		int LONGEST_SUFFIX_LENGTH =4;// 4;
 		double result = -1;
-
 		// 1: Basic "small value" smoothing
 		// result = (double) 1 / outputCounts.size();
 
@@ -120,8 +132,8 @@ public class ViterbiBNC {
 		/* if(tag.equals("NN1"))
 			result = 1.0;
 		else
-			result = 0.0; */
-
+			result = 0.0; 
+		 */
 		// 3: Recursive suffix-based smoothing
 
 		// Assume biggest suffix length of 4
@@ -188,29 +200,29 @@ public class ViterbiBNC {
 			return MLE;
 		}
 	}
-	
+
 	public String viterbi(String sentence, boolean interactive)
 	{
 		String taggedSentence="";
 		//trellis
 		ArrayList<HashMap<String,Node>> trellis  = new ArrayList<HashMap<String,Node>>();
-		
+
 		//chunk the sentence into words
 		String words [] = sentence.split(" ");
-		
+
 		/*initialize first row of trellis*/
 		HashMap<String, Node> firstColumn = new HashMap<String, Node>();
 		for(String posTag:priorStateCounts.keySet())
 		{
 			if(posTag.equals("^")){/*ignore since the start state is not in every trellis column*/}
-			else
-			firstColumn.put(posTag, new Node(getTransitionProbability("^", posTag),"^"));
+			else /*a Node as a probability and a back pointer*/
+				firstColumn.put(posTag, new Node(getTransitionProbability("^", posTag),"^"));
 		}
 		trellis.add(firstColumn);
 
 		if(interactive)
 			System.out.println(trellis.toString());
-		
+
 		//further rows of trellis
 		for(int wordIndex = 0 ; wordIndex < (words.length - 1) ; wordIndex++)
 		{
@@ -220,9 +232,8 @@ public class ViterbiBNC {
 			String lowercaseWord = thisWord.toLowerCase();
 			if(interactive)
 				System.out.println(lowercaseWord);
+
 			
-			double maxProbability = 0.0;
-			String maxPosTag = "";
 			HashMap<String, Double> outputProbabilites =new HashMap<String, Double>();
 			for (String previousPosTag:previousColumn.keySet()) //calculate output probabilities once for each tag and store, used later for efficiency
 			{
@@ -231,48 +242,72 @@ public class ViterbiBNC {
 			}
 			for(String currentPosTag:previousColumn.keySet())
 			{
+				double storedMax = 0.0;
+				double maxProbability = 0.0;
+				String maxPosTag = "NN1";
 				for(String previousPosTag:previousColumn.keySet())
 				{
 					double value = previousColumn.get(previousPosTag).getProbability();
+					//if(getTransitionProbability(previousPosTag, currentPosTag) == 0)System.out.println(previousPosTag+" - - - - -"+currentPosTag);
 					value *= getTransitionProbability(previousPosTag, currentPosTag);
 					value *= outputProbabilites.get(previousPosTag); //better efficiency
 					//earlier the following line repeated function calls and made things inefficient
 					//value *=getOutputProbability(lowercaseWord, previousPosTag);
-					
-					if(value >= maxProbability)
+
+					if(value > maxProbability)
 					{
 						maxProbability = value;
 						maxPosTag = previousPosTag;
 					}
+				/*	else if (value == maxProbability)
+					{
+						if((previousColumn.get(previousPosTag).getProbability()) > storedMax)
+						{
+							maxProbability = value;
+							maxPosTag = previousPosTag;
+							storedMax = previousColumn.get(previousPosTag).getProbability();
+							
+						}
+					}*/
 				}
 				thisColumn.put(currentPosTag, new Node(maxProbability , maxPosTag));
 			} // column done
 			trellis.add(thisColumn);
 		} //entire trellis done
-		
+
 		if(interactive)
 			System.out.println(trellis.toString());
-		
-		
-		
+
+
+
 		/*find max sequence and pos tag*/
 		HashMap<String, Node> lastColumn = trellis.get((words.length - 1));
 		String lastWord = words[words.length -1];
 		String lowercaseLastWord = lastWord.toLowerCase();
-		
+		double storedMax = 0.0;
 		double maxProbability = 0.0;
-		String maxPosTag = "";
+		String maxPosTag = "NN1";
 		for(String previousPosTag:lastColumn.keySet())
 		{
 			double value = lastColumn.get(previousPosTag).getProbability();
 			value *= getTransitionProbability(previousPosTag, ".");
 			value *= getOutputProbability(lowercaseLastWord, previousPosTag);
-			
-			if(value >= maxProbability)
+
+			if(value > maxProbability)
 			{
 				maxProbability = value;
 				maxPosTag = previousPosTag;
 			}
+			/*else if (value == maxProbability)
+			{
+				if((lastColumn.get(previousPosTag).getProbability()) > storedMax)
+				{
+					maxProbability = value;
+					maxPosTag = previousPosTag;
+					storedMax = lastColumn.get(previousPosTag).getProbability();
+					
+				}
+			}*/
 		}
 		String posTag = maxPosTag;
 		for(int wordIndex = (words.length -1 ); wordIndex >= 0 ; wordIndex --)
@@ -283,7 +318,7 @@ public class ViterbiBNC {
 			posTag = trellis.get(wordIndex).get(posTag).getBackpointer();
 			if(interactive)
 				System.out.println(trellis.size());
-			
+
 		}
 		for(int i = 0 ; i < words.length ; i++)
 		{
@@ -291,13 +326,15 @@ public class ViterbiBNC {
 		}
 		return taggedSentence;
 	}
-	
+
 	public static void main(String args[]) throws IOException
 	{
 		ViterbiBNC v = new ViterbiBNC();
-		java.io.Console con = System.console();
+		//java.io.Console con = System.console();
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		v.loadCounts("model_BNC_full.txt");
 		System.out.println("Enter a sentence to be tagged:");
-		System.out.println(v.viterbi("there was a king who lived there .", true));
+		String sentence = br.readLine();
+		System.out.println(v.viterbi(sentence, true));
 	}
 }
