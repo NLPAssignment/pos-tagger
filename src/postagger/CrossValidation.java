@@ -66,8 +66,10 @@ public class CrossValidation
 	public static void createCorpusFiles()
 	throws IOException
 	{
+		String corpus = "MediumCorpus.txt";
+		
 		// Get length of training file (Source: http://stackoverflow.com/questions/453018/number-of-lines-in-a-file-in-java)
-		LineNumberReader lnr = new LineNumberReader(new BufferedReader (new FileReader("SmallCorpus.txt")));
+		LineNumberReader lnr = new LineNumberReader(new BufferedReader (new FileReader(corpus)));
 		lnr.skip(Long.MAX_VALUE);
 		countLines = lnr.getLineNumber();
 		lnr.close();
@@ -76,7 +78,7 @@ public class CrossValidation
 		{
 			int lineno = 0;
 			// Open train and test files for current fold here
-			BufferedReader trainReader = new BufferedReader(new FileReader("SmallCorpus.txt"));//SmallCorpus.txt
+			BufferedReader trainReader = new BufferedReader(new FileReader(corpus));//SmallCorpus.txt
 			PrintWriter trainWriter = new PrintWriter(new FileWriter("Train-Fold" + foldno + ".txt"), true);
 			PrintWriter testWriter = new PrintWriter(new FileWriter("Test-Fold" + foldno + ".txt"), true);
 

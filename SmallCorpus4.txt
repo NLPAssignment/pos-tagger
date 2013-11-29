@@ -1,0 +1,1000 @@
+VVD_said CJT_that PNP_it VM0_would VBI_be VVG_developing AT0_a NN1_range PRF_of AJ0_single NN1_domaine NN2_wines PRP_in AT0_the NN1_future PUN_. 
+CRD_183 NP0-NN1_Cape NN2_wines NP0_BARWELL NP0_Jones VHZ_has VVN_introduced CRD_35 NP0_South AJ0_African NN2_wines PRP_from AT0_the NP0_Cape NP0_Province PRP_to AT0_the NP0_UK NN1_market PUN_. 
+AT0_The NN2_wines VVB_include NP0_Le NP0_Bonheur NP0_Blanc NP0_Fume NP0_Blanc PRP_from NP0_Stellenbosch DTQ_which VBZ_is AJ0_unwooded PRP_with AT0_a AJ0_fresh AJ0_grassy NN1_character PUN_; NP0_Fleur UNC_du NN1-VVB_Cap NP0-NN1_Chenin NP0_Blanc NP0_Sec CJC_and AJ0_fruity PUN_; NP0_Witzenberg NN1-AJ0_Emerald NP0-NN1_Stein NN1-NP0_Fleur UNC_du NN1_Cap PUN_; CJC_and VVB-NN1_Roodebloem PRP_from AT0_the NN1-NP0_Bergkelder CJC_or NN2_cellars PRF_of NP0_Stellenbosch PUN_. 
+NP0_BARWELL NP0_JONES CRD_184 NN1_Whisky AJ0-NN1_Canadian NN1_whisky AJ0_Canadian NN1_Classic VBZ_is AT0_the AJ0_only AJ0-NN1_Canadian NN1_whisky AJ0_available PRP_in AT0_the NP0_UK CJC_and VBZ_is AV0_now VVN_distributed AV0_here PRP_by NP0-NN1_URM NN2_Agencies PUN_. 
+VVB_URM NN2_AGENCIES CRD_185 NN1-AJ0_Vintage NN1_red NP0_MIGUEL NP0_Torres VHZ_has VVN_released AT0_the CRD_1988 NN1_vintage PRF_of DPS_his AJ0-NN1_red NN1_wine NP0_Coronas PRP_in AT0_a NN1_bottle PUN_. 
+AT0_The NN1_wine DTQ_which VBZ_is NP0-NN1_Tempranillo CJC_and NP0-NN1_Cabernet NP0-NN1_Sauvignon VBZ_is AJ0_available PRP_in NP0_England CJC_and NP0_Wales PRP_from NP0_Sichel NN2_Sons PUN_. 
+NP0-NN1_SICHEL NN2_SONS CRD_186 NN1_Vodka NP0_ABSOLUT NN1_vodka AT0_the ORD_third AJS_largest NN1_selling NN1_vodka CJC_and AT0_the ORD_17th NN1_spirit NN1-VVB_brand AV0_worldwide VBD_was VVN_imported PRP_to AT0_the NP0_UK ORD_last NN1_month VVN_marketed PRP_by NP0_Rivalage PUN_. 
+NN1-VVB_Absolut VBZ_is AV0_now AJ0_available PRP_in AT0_the AJ0_European NN1_standard UNC_70cl NN1-VVB_bottle NN1_size AV0_initially AV0-AJ0_only PRP_at AJ0_selected NN2_bars CJC_and NN2_restaurants PUN_. 
+NP0_RIVALAGE CRD_187 NN1_Wine NN1_category NN1-VVB_rejig NP0-NN1_DEINHARD VBZ_is VVG_creating AT0_a AJ0_new NN1_identity PRP_for NN2_wines PRP_from AT0_the CRD_three AJ0_main NN1_wine VVG-AJ0_growing NN2_areas PRF_of NP0_Germany PUN_. 
+NN1-NP0_Deinhard VVZ_owns NN2_properties PRP_in AT0_the NP0-NN1_Moselle NP0-NN1_Rheingau CJC_and AT0_the NP0-NN1_Rheinpfalz NN2_regions CJC_and PRP_in AT0_a NN1_move TO0_to VVI_clarify NN1_wine NN1_classification DT0_all DPS_its NN1_estate NN2_wines VM0_will AV0_now VVI_fall PRP_into CRD_two NN2_categories PUN_. 
+AT0_The NN1_Vineyard NN1_Selection VVZ_includes NP0_Bernkasteler NP0_Doktor NP0_Riesling PRP_from CJC_and NP0_Forster NP0_Ungeheuer NP0_Riesling NP0_Kabinett CJC_and PRP_from NP0_Rheinpfalz PUN_. 
+AT0_The NP0-NN1_Deinhard NN1_Estate NN1_Selection VVZ_includes NP0_Riesling NP0_Kabinett CJC_and PRP_from CJC_and NP0_Riesling NP0_Kabinett CJC_and PRP_from NP0_Rheinpfalz PUN_. 
+CRD_TWO NN2_styles PRF_of NN1_port NN2_glasses VVN_designed PRP_by AJ0-NN1_Austrian NP0-NN1_Georg NP0_Riedel VBB_are AV0_now AJ0_available PRP_in AT0_the NP0_UK PUN_. 
+AT0_The AJ0_tawny NN1_glass VBZ_is AV0_slightly AV0_less AJ0_tapered CJS_than AT0_the NN1-AJ0_vintage NN1_glass TO0_to VVI_emphasise AT0_the NN2_perfumes PRF_of NN1_port PUN_. 
+DT0_Each VVZ_holds PRP_about NN0_oz CJC_and VBZ_is AJ0_available PRP_from NP0_Michael NP0_Johnson NN2_Ceramics NP0_London PUN_. 
+NN1_Academy NN1_course AT0_THE NN1_Academy PRF_of NN1_Wine NN1_Service VHZ_has VVN_introduced AT0_a NN1_course VVN-VVD_designed TO0_to VVI_update AJ0_senior NN2_managers NN2_sommeliers CJC_and NN2_waiters PRP_on AJ0_recent NN2_developments NN2_innovations CJC_and NN1-VVB_service NN2_skills PRP_in NN1_wine PUN_. 
+AT0_The NN1_course VVZ_covers NN2_customers NN2_' NN2_expectations CJC_and NN2-VVZ_needs NN1_wine CJC_and NN1_food NN2_combinations NN1-VVB_use PRF_of AT0_the NN1_wine NN1_list NN2-VVZ_displays CJC_and NN1_liqueur NN2_trolleys PUN_. 
+VVB-NN1_Call CRD_4671 PRP_for AJC_further NN2_details PUN_. 
+NN1-NP0_Europa NP0-NN1_EUROPA NN2_Wines NP0_UK NP0_Staffordshire VHZ_has VBN_been VVN_appointed AJ0_sole NP0_UK NN1_distributor CJC_and NN1_importer PRF_of NN2_wines PRP_for AT0_the NP0-NN1_Kiskorosh NP0-NN1_Allami NP0-NN1_Gazdasag NN2_Vineyards NP0_Hungary PUN_. 
+NN2_Wines AJ0_available AV0_now VVB_include VVB_Ausbruch AJ0-NN1_Red PUN_; AJ0_dry CJC_and AJ0-NN1_medium NN1_Chardonnay PUN_; NP0_Muscat NP0_Ottonel PUN_; CJC_and AJ0_Blue AJ0_Frankish PUN_. 
+AJ0_Sole NN1_agent NP0_CANTINE NP0_MezzaCorona AT0_a NN1_wine NN1_producer PRP_in AT0_the AJ0-NN1_Italian NN1_Trentino NN1_region VHZ_has VVN_announced AT0_the NN1_appointment PRF_of NP0_Ebury NP0-NN1_Mathiot NN2_Wines PRP_as AJ0_sole NP0_UK NN1_agent PUN_. 
+AT0_The NN1_brand VVZ_covers AT0_a AJ0_large NN1_number PRF_of NN1_DOC NN2_vineyards PUN_. 
+NP0_St NP0_James NP0_' NN2_awards AV0_MORE CRD_300 NP0_Whitbread NN2_Inns VBB_are VVG-AJ0_competing PRP_for AT0_the NN2_Grants PRF_of NP0_St NP0_James NP0_' NN1_Wine NN2_Awards PUN_. 
+NN1_Success PRP_in AT0_the AJ0_exclusive NN1_competition PRP_for NP0_Whitbread NP0_'s VVN-AJ0_managed NN1_house NN1_company VM0_will VVI_depend PRP_upon NN0_sales NN1_success PRP_with NN1_wine NN1_evidence PRF_of AJ0_good NN1_merchandising NN2_strategies NN1_product NN1_knowledge NN0_staff NN1_training CJC_and NN1_enthusiasm PRP_for NN1_wine PUN_. 
+AT0_The ORD_first NN1_phase PRF_of AT0_the NN1_competition VVZ-NN2_runs PRP_until CRD_12 NP0_October PUN_. 
+NP0_Pol NP0_Roger NP0_POL NP0_Roger VHZ_has VBN_been VVN_appointed NP0_UK NN1_agent PRP_for NN2_Pipers VVB_Brook NN1_Vineyard NP0_Tasmania PUN_. 
+AT0_The ORD_first NN1_consignment PRF_of NN2_wines VBZ_is AV0_now AV0_en PRP_to NP0_London PUN_. 
+NP0-NN1_CUTLERY VVB-NN1_Polish AVP_up PRP_on NN1_cutlery VVG-NN1_Cutting PRP_through AJ0_technical NN1_jargon VVZ_makes NN1_cutlery VVG_purchasing AT0_no AJ0_easy NN1_task PUN_. 
+NP0_Bob NP0_Gledhill VVZ_outlines AVQ_how TO0_to VVI_recognise CJC_and VVI_maintain NN1_quality NN1_cutlery PRP_without VVG_forking AVP_out AT0_a NN1_fortune NP0-NN1_CUTLERY NN0_sales VBB_are AT0_an AJ0_unlikely CJC_but AJ0_accurate NN1_indicator PRF_of AT0_the NN1_trading NN1_state PRF_of AT0_the NN1_catering NN1_industry PUN_. 
+AJ0_Increased NN0_sales PRF_of AJ0_complete NN2_sets VVB_indicate AJ0_new NN2_openings AJ0_low NN0_sales AT0_a AJ0_stagnant NN1_market PUN_. 
+NN2_orders VVB_indicate AT0_the NN1_restaurant VBZ_is VVG_going TO0_to VHI_have TO0_to VVI_make VDI_do PRP_with AJ0_existing NN1_equipment CJS-PRP_until NN1_trade VVZ_picks AVP_up AV0_enough TO0_to VVI_pay PRP_for AT0_a AJ0_complete NN1_replacement PUN_. 
+EX0_There VBZ_is AV0_even AT0_a AJ0_seasonal NN1_indicator DTQ_which VVZ_occurs PRP_at DT0_this NN1_time PRF_of NN1_year PUN_. 
+DT0_This VBZ_is AT0_the NN1_start PRF_of AT0_the AJ0_heavy AJ0-NN1_banqueting NN1_season VVG_leading PRP_up NN1_Christmas DTQ_which VM0_should VBI_be AT0_a AJ0_busy NN1_period PRP_for AT0_a NN1_lot PRF_of NN1_hotel NN2_restaurants PUN_. 
+PNP_It VBZ_is AT0_no NN1_time TO0_to VVI_run PRP_out NN2_knives CJC_and NN2_forks AV0_so NN1_cutlery NN0_sales VM0_should VBI_be AJ0_buoyant PRP_about AV0_now PUN_. 
+CJC_But NN2_companies VBB_are VVG_reporting CJT_that NN2_orders VBB_are AV0_still AVP_down PRP_on ORD_last NN1_year PRP_with AT0_no NN1_sign PRP_from AT0_the NN1_catering NN1_industry CJT_that PNP_it VBZ_is PRP_in AT0_a NN1_position TO0_to AT0_the NN1_dining NN1_room PUN_. 
+AV0_honestly VVB_think EX0_there VBZ_is AT0_no NN1_sign PRF_of NN2_things VVG_getting AJC_better PUN_. 
+AT0_The NN1_recession PRP_in AT0_the NN1_catering NN1_industry VBZ_is XX0_not VVG_bottoming AVP_out VVZ_warns NP0_Lancaster AJ0_managing NN1_director NP0_John NP0_Emanuel PUN_. 
+VM0_would VBI_be VVG_ignoring AT0_the NN1_reality PRF_of AT0_the AJ0_current NN1_trading NN1_position CJS_if PNP_I VVD_said PNP_I VDD_did VDD_n't VVI_believe EX0_there VBD_were DT0_more NN2_closures TO0_to VVI_come PUN_. 
+PNP_I VDB_do VDB_n't VVI_think AT0_the NN1_upswing VM0_will VVI_start PRP_before NN1_spring ORD_next NN1_year PUN_. 
+AT0_The AJ0_Direct NN1_Tableware NN1_Company NN0_sales NN1_director NP0_Roger NP0_Young VVZ_agrees CJT_that PNP_it VM0_will VBI_be ORD_next NN1_spring CJS_before DT0_any AJ0_real NN1_growth PRP_in NN1_catering VVZ_occurs CJC_but PNP_he VVZ_thinks EX0_there VM0_might VBI_be AT0_a AJ0_slight NN1_upturn ORD_next NN1_month PRP_in AT0_the NN1_business VVG_heading PRP_for AT0_the AJ0_busy NN1_time CJC_and PNP_you VM0_ca VM0_n't VVI_serve NN2_customers PRP_without NN2_knives CJC_and NN2_forks PUN_. 
+AT0_The AV0_most AJ0_contentious NN1_issue PRP_among NN1_cutlery NN2_suppliers VBZ_is DT0_that PRF_of NN1_quality PUN_. 
+DT0_Some VVB_argue CJT_that AJ0_cheap NN2_imports VBB_are AT0_a NN1_waste PRF_of NN1_money NN2_others VVB_say AV0_widely AJ0-VVG_differing NN2_prices VBB_are VBG_being VVN_charged PRP_for AV0_exactly AT0_the DT0_same NN1_product CJC_and CJT_that NN2_suppliers DTQ_which VVB_criticise AJ0_imported NN1_cutlery AV0_often VVB_stock PNP_it PNX_themselves PUN_. 
+VVB_Couple DT0_this PRP_with AT0_a NN1_quality NN1_assessment NN1_system DTQ_which VBZ_is VVN_riddled PRP_with NN1_jargon CJC_and AJ0_technical NN1_description CJC_and AT0_the NN1_caterer VHZ_has AT0_a AJ0_hard NN1_time VVG_deciding DTQ_what PNP_he CJC_or PNP_she VBZ_is VVG_going TO0_to VVI_buy CJC_and PRP_from DTQ_which NN1_company PUN_. 
+AT0_The NN1_decision VBZ_is XX0_not VVN_made AJC_easier PRP_by AJ0_constant NN1_criticism PRP_by NN2_importers CJC_and NN2_suppliers PRF_of PNX_each PUN_. 
+EX0_There VBZ_is AT0_a NN1_habit PRF_of VVG_running AVP-PRP_down AT0_the NN1_competition PRP_rather VVG_extolling AT0_the NN2_virtues PRF_of DPS_their DT0_own NN2_ranges PUN_. 
+VVG-NN1_Catering NN1_cutlery VVZ_comes PRP_in CRD_two NN2_types PRF_of NN1_metal AJ0_stainless NN1_steel CJC_and PUN_. 
+PRP_Within DT0_those CRD_two AJ0_broad NN2_areas VBB_are AJ0_multiple NN2_variations PUN_. 
+AJ0_Stainless NN1_steel NN1_cutlery VBZ_is AT0_a NN1_mix PRF_of NN1_steel AT0_a NN1_substance PRF_of AJ0-NN1_variable NN1_quality NN1_chromium CJC_and NN1_nickel PUN_. 
+AT0_The NN1_chromium CJC_and NN1_nickel VBB_are VVN_added TO0_to VVI_give NN1_shine CJC_and VVB_prevent VVG-NN1_rusting PUN_. 
+AT0_The NN1_amount PRF_of NN1_chromium CJC_and NN1_nickel VVN_added VBZ_is VVN_indicated PRP_with AT0_a NN1_number DTQ_which VM0_should VBI_be NN1_part PRF_of AT0_the NN1_description PRF_of NN1_cutlery PRP_in DT0_any NN0_sales NN1_literature PUN_. 
+AV0_Sometimes PNP_it VBZ_is VVN_stamped PRP_on AT0_the NN1_piece PUN_. 
+PNP_It VBZ_is AJ0_impossible TO0_to VVI_judge AT0_the NN1_value PRF_of NN1_cutlery PRP_without VVG_knowing AT0_the NN1_alloy NN1_content PUN_. 
+AT0_The NN1_number VBZ_is VVN_divided PRP_by AT0_a AJ0_diagonal NN1_stroke PUN_. 
+AT0_The NN1_figure PRP_in AT0_the AJ0_diagonal VBZ_is AT0_the NN1_percentage PRF_of NN1_chromium NN1_content AT0_the NN1_number AV0_after VVZ_indicates AT0_the NN1_percentage PRF_of NN1_nickel PUN_. 
+AT0_The CRD_three AV0_most AJ0_popular NN2_mixes PRP_in NN1-VVG_catering VBB_are DTQ_which VBZ_is AT0_the AV0_most AJ0_expensive CJC_and PUN_. 
+DT0_This ORD_last NN1_alloy VBZ_is AT0_the AJS_cheapest CJC_and VBZ_is AT0_the NN1_material DT0_that DT0_most NN2_vexes NN2_suppliers PUN_. 
+NP0_Arthur NP0-NN1_Price NN1_chairman NP0_John NP0_Price VVZ_says AV0_certainly VVZ_looks AV0_as AJ0_bright CJC_and AV0_as AJ0_cheerful CJS_as CJC_but CJS_after PNP_it VHZ_has VBN_been PRP_in NN1_use PRP_for AT0_a AJ0_short NN1_while PNP_it VVZ_goes AJ0_dull CJC_and AV0_then AJ0_grey CJC_and PRP_after AT0_a NN1_year CJC_or AV0_so NN2-VVZ_stains CJC_and NN2_pitmarks VVB_develop DTQ_which VM0_can VM0_not VBI_be VVN_removed PUN_. 
+NN1_Quality NN1_cutlery VHZ_has AT0_a AJ0_smooth NN1_finish PRP_like DT0_this NN1_look PRP_from NP0_Viners CJC_But NP0_Emanuel PRF_of NP0_Lancaster VVZ_dismisses DT0_this PRP_as NN1_nonsense PUN_. 
+VHB_have NN2_customers PNQ_who VHB_have VBN_been VVG_using AT0_the DT0_same NN1-VVB_set PRP_for AV0_more CRD_20 NN2_years PNP_he VVZ_says PUN_. 
+NN1_Director PRF_of NP0_MacGregor CJC_and NN1_Company NP0_Charles NP0_Cavaye VVZ_argues CJT_that CJS_because EX0_there VBZ_is AT0_no NN1_nickel NN1_content PRP_in EX0_there VBZ_is AT0_no NN1_strength AT0_the AJ0_bent NN1_knife CJC_or AT0_the NN1_fork PRP_with NN2_prongs PRP_at AJ0_odd NN2_angles PUN_. 
+NN2_Replacements VM0_will VBI_be VVN_needed PRP_within AT0_a DT0_few NN2_weeks PUN_. 
+AJ0_Senior NN1_research NN1_metallurgist PRP_for AT0_the NN1-NP0_Cutlery CJC_and AJ0_Allied NN1_Trade NN1_Research NN1_Association NP0_Alan NP0_Medlock VVZ_says CJT_that PNP_it VVZ_depends PRP_on DTQ_what PNP_you VVB_call PUN_. 
+NN2_numbers VBB_are AV0_just AJ0_broad NN2_descriptions PUN_. 
+EX0_There VBB_are DT0_many NN2_variations PRP_within DT0_these NN2_categories PUN_. 
+PNP_It VBZ_is PRP_about AJ0_personal NN1_experience PRF_of AJ0_particular NN2_brands AV0_as DT0_much CJS_as VVG_looking PRP_for AT0_the NN2_numbers PUN_. 
+VVN_examined DT0_some CJC_and PNP_it VHZ_has VBN_been AJ0_good AV0_yet PNP_I PNP_'ve VVN_found DT0_some TO0_to VHI_have AV0_as AJ0-AV0_low CJS_as NN1_chrome NN1_content PUN_. 
+DT0_That VM0_will VVI_rust PUN_. 
+PNP_It PNP_'s AT0_the DT0_same PRP_with PUN_. 
+PNP_It VBZ_is VBZ_n't AT0_a AJ0_standard NN1_product PUN_. 
+PNP_He AV0_also VVZ_says CJT_that AT0_the NN1_nickel NN1_content VDZ_does XX0_not PRP_for DT0_all AJ0_practical NN2_purposes VVB_make DT0_any NN1_difference PRP_to AT0_the NN1_hardness CJC_but CJT_that PNP_it VDZ_does VVI_make PNP_it AV0_more VVB_stain AJ0_resistant PUN_. 
+AV0_So CJS_if AT0_the NN2_numbers VBB_are XX0_not AT0_an AJ0_infallible NN1_guide PRP_to AJ0_good AJ0_stainless NN1_steel NN1_cutlery DTQ_what VBZ_is PUN_? 
+NN1-NP0_Medlock VVZ_gives AT0_the AJ0_following NN1_advice AT0_the NN1_finish AV0_very AV0_carefully AV0_particularly AT0_the NN2_forks PUN_. 
+DT0_That VBZ_is AT0_a AJ0_good NN1_guide PUN_. 
+AJ0_Poor NN1_cutlery VM0_will VHI_have AJ0_tiny NN2_burrs PRP_inside AT0_the NN1_fork NN2_prongs CJS-AVQ_where PNP_it VHZ_has VBN_been VVN_stamped PRP_out AT0_the NN1_sheet PRF_of NN1_metal PUN_. 
+AT0_the NN1_weight CJC_and VVB-NN1_look PRP_at AT0_the NN1_thickness DT0_that VBZ_is AT0_a AJ0_good NN1_clue PRP_to AVQ_how AJ0_strong PNP_it VM0_will VBI_be PUN_. 
+DT0_That DT0_'s DTQ_what VVZ_causes NN2_knives CJC_and NN2-VVZ_forks TO0_to VVI_bend XX0_not AT0_the NN1_metal PNX_itself PUN_. 
+CJS_When PNP_it VVZ_comes PRP_to NN1_cutlery EX0_there VBB_are AV0_just AV0_as DT0_many AJ0_confusing NN2_statements VVG_coming PRP_at AT0_the NN1_caterer PUN_. 
+AT0_The NN1_base PRP_on DTQ_which AT0_the NN1_silver VBZ_is VVN-AJ0_electroplated VBZ_is AT0_a NN1_mix PRF_of NN1_nickel NN1_copper CJC_and NN1_zinc VVN_called NN1_nickel NN1_silver CJS_although EX0_there VBZ_is AT0_no NN1_silver PRP_in AT0_the NN1_alloy PUN_. 
+CJS_When PNP_it VBZ_is PRP_with NN1_silver PNP_it VBZ_is VVN_called NN1_nickel NN1_silver PUN_. 
+AT0_The NN1_production NN1_price CJC_and NN1_toughness PRF_of AT0_the NN1_cutlery VVZ_depends PRP_on AT0_the NN2_proportions PRP_in DTQ_which AT0_the NN2_metals VBB_are VVN_mixed PUN_. 
+AT0_The AV0_most AJ0_common NN1_way PRF_of VVG_cheapening AT0_the NN1_cost VBZ_is TO0_to VVI_reduce AT0_the NN1_amount PRF_of NN1_nickel DTQ_which VBZ_is AT0_the AV0_most AJ0_expensive PRF_of AT0_the CRD_three NN2_metals PRP_in NN2_EPNS PUN_. 
+NP0_Lancaster NP0_'s AJ0_stainless NN1_steel NN1_cutlery DT0_some NN2_customers VHB_have VVN_used AT0_the DT0_same NN1-VVB_set PRP_for CRD_20 NN2_years EX0_There VBZ_is AT0_the AJ0_obvious NN1_price NN1-VVB_dodge PRF_of VVG_skimping PRP_on AT0_the NN1_thickness PRF_of NN1_silver VVN_measured PRP_by NN2_cutlers PRP_in NN2_microns DTQ_which VM0_can VBI_be PNI_anything PRP_from PNI-CRD_one PRP_to CRD_50 PUN_. 
+AT0_The AJ0_British NN2_Standards NN1_Institute VVZ_specifies AT0_a NN1_thickness PRF_of CRD_30 NN2_microns PRP_for NN1_hotel NN1-VVB_use PUN_. 
+PNP_It VBZ_is AJ0_doubtful PNI_anything AV0_less CRD_20 NN2_microns PRF_of NN1_thickness VM0_would VVI_withstand AT0_the AJ0_sustained NN1_use NN1_cutlery VVZ_receives PRP_in AT0_the NN1_catering NN1_industry PUN_. 
+NN1-NP0_Price VVZ_recommends DT0_all NN2_caterers PRP_to XX0_not AV0_only VVB_determine AT0_the NN1_micron NN1_thickness CJS_when VVG_looking PRP_at NN1_cutlery CJC_but AV0_also TO0_to VVI_ask PRP_for DT0_this TO0_to VBI_be VVN_specified PRP_on AT0_the NN1_invoice PUN_. 
+PRP_Since VVG_topping AVP_up PRP_rather AJ0_full NN1_replacement VBZ_is AT0_the AJ0_favoured NN1_option PRP_for NN2_caterers AT0_the ORD_first NN1-VVB_worry VBZ_is VVG_matching AVP_up PUN_. 
+EX0_There VBB_are AV0_surprisingly DT0_few AJ0_popular NN2_patterns PRF_of NN1_cutlery DT0_most NN2_caterers VVB_use AT0_the AJ0_historic NN2_patterns VVN-VVD_devised PRP_in NP0_Sheffield PUN_. 
+AT0_The NN1_fact CJT_that AT0_a AJ0_wide NN1_number PRF_of NN2_manufacturers VVB_work PRP_to AT0_the DT0_same NN1_pattern VVZ_means CJT_that AT0_the NN1_caterer PNQ_who VBZ_is VVG_topping AVP_up VM0_need XX0_not VVI_return PRP_to AT0_the DT0_same NN1_source PRP_for AT0_the PUN_. 
+VVB_Identify AT0_a NN1_selection PRF_of NN1_cutlery NN2_distributors VVB_send PNP_them CRD_one PRF_of DPS_your NN2_pieces PRF_of NN1_cutlery CJC_and VVB_ask PNP_them TO0_to VVI_match PNP_it CJC_and VVB_send DPS_their NN1_sample CJC_and PNP_yours AJ0_back PUN_. 
+EX0_There VM0_will VBI_be DT0_some NN2_differences CJC_but PNP_they VM0_may VBI_be AV0_too AJ0_slight TO0_to VBI_be VVN_noticed PRP_by AT0_the NN2_customers PNQ_who VM0_would AV0_normally VVI_see AV0_only CRD_one NN1_piece PRF_of DT0_each NN1_item PRP_in DT0_any NN1_case PUN_. 
+VVG_Shopping AVP_around PRP_for AT0_a VM0_will VVI_allow AT0_the AJS_best NN1_price CJS_while AV0_still VVG_keeping AT0_the NN1_cutlery NN1_service PRP_in AT0_the DT0_same NN1_style PUN_. 
+CRD_One NN1_way PRF_of VVG_putting PRP-AVP_off AT0_the NN1_day PRF_of NN1_replacement VBZ_is TO0_to VVI_take DT0_more NN1_care PRF_of AJ0_existing NN1_cutlery PUN_. 
+CJS_Although PNP_it VBZ_is AJ0_robust EX0_there VBB_are DT0_some AJ0_basic NN1_cleaning NN2_rules PRP_for AV0_both AJ0_stainless CJC_and PUN_. 
+CJS_While AJ0_stainless VBZ_is AJ0_tough CJC_and AV0_harder TO0_to VVI_scratch PRP_in AT0_the ORD_first NN1-VVB_place CJS_once PNP_it VDZ_does VVI_become VVN-AJ0_marked AT0_the NN1_scratch VBZ_is AJ0_permanent PRP_unlike AT0_a NN1_mark PRP_on NN1_cutlery DTQ_which VM0_can VBI_be VVN_removed PRP_by PUN_. 
+AJ0_Stainless NN1_steel VBZ_is AV0_also VVN_attacked PRP_by AT0_the NN1-AJ0_cleaning NN2_fluids VVN-VVD_intended PRP_for NN1_cutlery CJC_and PRP_by NN1_immersion PRP_for AJ0_long NN2_periods PRP_in AJ0_vinegary NN2_solutions AV0_particularly CJS_if AT0_the NN1_vinegar VHZ_has NN1_salt PRP_with PNP_it CJS_as PRP_in AT0_the NN1_case PRF_of NN2_pickles PUN_. 
+PNP_It VM0_can AV0_also VVI_become AJ0-VVN_pitted CJS_if PNP_it VBZ_is VVN-AJ0_left VVG-AJ0_soaking AV0_overnight PUN_. 
+PNP_It VBZ_is PRP_worth VVG_ensuring CJT_that NN1_kitchen NN0_staff VBB_are XX0_not VVN_tempted TO0_to VVI_leave AT0_the AJ0_dirty NN1_cutlery VVG_soaking PRP_until NN1_morning PUN_. 
+AV0_Similarly AJ0_stainless NN1_steel NN1_cutlery VM0_should XX0_not VBI_be VVN_left AV0_overnight PRP_in NN2_dishwashers PUN_. 
+AT0_The AJ0_intense NN1_heat PRF_of VBG_being VVN_held PRP-AVP_over AT0_a NN1_gas NN1_jet VM0_will VVI_cause AJ0_immediate CJC_and AJ0_permanent VVG-AJ0_discolouring PUN_. 
+AT0_The AJ0_everyday NN1_food VVZ_stains CJT_that VVB_come PRP_from NN2_things PRP_like NN1_tea CJC_and NN1_coffee VM0_can VBI_be AV0_easily VVN_removed PRP_with AJ0_fine NN1_grit NN2-VVZ_polishes PRP_such NP0-NN1_Autosol NN1_compound AV0_usually VVN_found PRP_in NN1_car NN1-AJ0_accessory NN2_shops CJC_or DT0_any NN1_cleaning NN1_fluid VVN-VVD_designed TO0_to VVI_clean AJ0_stainless NN1_steel NN2_sinks CJC_and VVB-NN1_work NN2_surfaces PUN_. 
+AT0_The NN1_cleaner VM0_should VBI_be VVN_tested PRP_on AT0_a DT0_few NN2_pieces TO0_to VVI_ensure DPS_its NN1_suitability PUN_. 
+AT0_The AV0_most AJ0_common NN1_mistake PRP_with DT0_these NN2_cleaners VBZ_is TO0_to VBI_be AV0_too DTQ_which VM0_can AV0_faintly VVI_score AT0_the NN1_surface CJC_or TO0_to VVI_rub NN2_blades CJC_and NN1-VVB_spoon NN2-VVZ_bowls PRP_in AT0_an AJ0_irregular NN1_pattern CJC_and AV0_therefore VVB_cause AJ0_unsightly NN2_marks PUN_. 
+PRP_With NN1_cutlery NN1_part PRF_of DPS_its NN1_appeal VBZ_is AT0_the NN2_scratches PNP_it VVZ_gets PRP_in AT0_the AJ0_early NN1_period PRF_of DPS_its NN1_life PUN_. 
+DT0_This VVZ_gives PNP_it AT0_a AJ0_whitish NN1_sparkle CJS-PRP_as NN1_light VVZ_catches CRD_millions PRF_of AJ0_tiny NN2_prisms CJC_and VVZ_reflects AJ0_white NN1_light PUN_. 
+VVG_Tarnishing PRP-AVP_on NN1_cutlery VVZ_occurs PRP_through NN1_exposure PRP_to NN2_sulphides PUN_. 
+DT0_These VBB_are CJC_and VBB_are AV0_also AJ0_present PRP-AVP_in DT0_some NN2_foods AV0_most AV0_notably PRP_in NN2_eggs PUN_. 
+AT0_The AV0_most AJ0_common NN1_method PRF_of VVG-NN1_cleaning AJ0-VVD_tarnished NN1_cutlery VBZ_is TO0_to VVI_use AV0_specially VVN_formulated VVG-NN1_cleaning NN2_fluids PRP_in DTQ_which AT0_the NN1_cutlery VBZ_is VVN_immersed PUN_. 
+PNP_It VBZ_is AJ0_important TO0_to VVI_follow AT0_the NN1_manufacturer NN1_'s NN2_instructions PRP_on AT0_the NN2_dilutions CJC_and NN1_immersion NN2_times TO0_to VVI_avoid NN1_damage PUN_. 
+AJC_Larger NN2_hotels VM0_may VHI_have AT0_a DTQ_which VBZ_is AT0_a AJ0_rotating NN1_drum VVG_containing AJ0_tiny NN1_water CJC_and AT0_a NN1_corrosion NN1_inhibitor PUN_. 
+DT0_This VVZ_brightens CJC_and VVZ_hardens AT0_the NN1_surface PRF_of NN1_cutlery CJS_so PNP_it VVZ_becomes AV0_more AJ0_resistant PRP_to NN1_wear CJC_and PNP_it AV0_also VVZ_removes AJ0_minor NN2_scratches PUN_. 
+VVB_Ensure DT0-CJT_that NN1_cutlery DTQ_which VHZ_has VBN_been VVN_cleaned VVG_using NN2_chemicals VVZ_gets AT0_a AJ0_thorough NN1_washing PRP_before VVG_going AVP_back PRP_into AT0_the NN1_dining NN1_room PUN_. 
+CJS_When VVG_buying NN1_cutlery VDB_do VDB_n't VVI_buy DT0_more NN2_pieces CJS_than PNP_you VVB_need PUN_. 
+AT0_The AJ0_old NN1_rule VBD_was TO0_to VVI_purchase DT0_more CJS_than DPS_your NN1_restaurant VM0_can NN1_seat PUN_. 
+NN1-VVB_Cavaye PRF_of NP0_MacGregor CJC_and NN1_Company VVZ_says CJT_that NN1-VVB_stock NN2_levels VM0_should VVI_reflect NN1_business CJC_and AT0_the NN1_demand PRP_for AT0_the NN1_kind PRF_of NN1_food VBG_being VVN_served PUN_. 
+NN1-NP0_Cavaye VVZ_recommends CJT_that NN2_caterers VVB_buy AT0_an AJ0_extra PRP_to DT0_more CJS_than AT0_the NN1_number PRF_of NN2_covers PRP_on AJ0_main NN2_items PRP_like NN2_knives NN2_forks CJC_and NN2_spoons AV0_double AT0_the NN1_number PRP_for NN2_teaspoons CJC_and AV0_a PRP-AVP_over DT0_half PRP_for NN0_fish NN2_knives PUN_. 
+NP0_Emanuel VVZ_says PNP_he VBZ_is AJ0_surprised PRP_at AT0_the NN1_number PRF_of NN2_caterers PNQ_who VBB_are AJ0_unsure PRF_of AT0_the NN1_amount PRF_of NN1_cutlery TO0_to VVI_buy PUN_. 
+VVB_think PNP_they VVB_need AV0_far DT0_more CJS_than PNP_they AV0_actually VDB_do PUN_. 
+VVB_talk PRP_to PNP_them PRP_about AT0_the NN1_style PRF_of NN1_service CJC_and NN1_food PNP_they VBB_are VVG_planning CJC_and AT0_the NN1_figure PNP_we VVB_recommend VBZ_is AV0_often DT0_less CJS_than PNP_they VHD_had VVN_estimated PNP_he VVZ_says PUN_. 
+AT0_The NN1_factor CJT_that VVZ_governs DT0_all NN1_cutlery NN0_sales VBZ_is DPS_its NN1_cost CJC_and AJ0_Young PRF_of AT0_The AJ0_Direct NN1_Tableware NN1_Company VVZ_warns CJT_that AJ0_big AJ0_Korean NN2_manufacturers VBB_are VVG_increasing AT0_the AJ0-NN1_minimum NN2_orders PRP_from NN2_importers PUN_. 
+AV0_At DT0_some PRF_of AT0_the AJ0_extra NN1_cost PRF_of NN1_stockholding VBZ_is AJ0_likely TO0_to VBI_be VVN_passed PRP_on AT0_the NN1_caterer PUN_. 
+AJ0_Imported NN1_cutlery VBZ_is AV0_also VVN_bought PRP_in AJ0_American NN2_dollars CJC_and CJS_while AT0_the NN1_exchange NN1_rate PRF_of NN1_sterling PRP_to AT0_the NN1_dollar VBD_was AV0_very AJ0_favourable PRP_for NP0_Britain ORD_last NN1_year PNP_it VHZ_has VVN_dropped AV0_considerably PRP_in AT0_the AJ0_past CRD_six NN2_months VVG_making AJ0_imported NN1_cutlery AV0_more AJ0_expensive TO0_to VVI_buy PUN_. 
+NP0_Young VVZ_thinks DT0_those PNQ_who VBB_are VVG_looking TO0_to VVI_save NN1_money AV0_now CJC_and VVB_buy NN1_cutlery ORD_next NN1_year VM0_will VVI_end AVP_up VVG_paying AV0_more PUN_. 
+AJ0_Poor NN1_quality NN1_cutlery VM0_can VBI_be VVN_spotted PRP_by DPS_its AJ0_rough NN1_finish NN1_PASTA VVG_Taking NN1_SHAPE NP0_Carmen NP0_Konopka VVZ_highlights AT0_the NN1_variety CJC_and NN1_versatility PRF_of NN1_pasta PRP_as AT0_an NN1_ingredient NN1_PASTA VVN-VVD_originated PRP_as AT0_a NN1_filling AJ0_economical CJC_and NN1_food PUN_. 
+CJS_Although PNP_it VBZ_is VVN_associated PRP_with NP0_Italy AJ0_similar NN1_peasant NN2_foods VBB_are VVN_found PRP_in DT0_many NN2_parts PRF_of AT0_the NN1_world PRP_from NN2_noodles PRP_in NP0_China PRP_to NN2_pierogi AT0_the NN1_dish PRP_from NP0_Poland PUN_. 
+PRP_Like AV0_so DT0_many NN1_peasant NN2_foods AT0_the NN1_essence PRF_of NN1_pasta VBZ_is DPS_its NN1_simplicity PUN_. 
+DPS_Its AJ0_basic NN2_ingredients VBB_are NN1_flour CJC_and NN1_water AV0_sometimes PRP_with AT0_the NN1_addition PRF_of NN2_eggs CJC_or NN1_oil AV0_occasionally PRP_with NN1_spinach NN1_tomato CJC_or NN2_colourings PUN_. 
+AV0_Yet AV0_very DT0_few AJ0_British NN2_caterers VVB_attempt TO0_to VVI_make NN1_pasta PNX_themselves AV0_possibly PRP_because AT0_the AJ0_enormous NN1_diversity PRF_of NN1_pasta AJ0_available PRP_on AT0_the NP0_UK NN1_market PUN_. 
+CJS_As AT0_the NN1_table PRP_on NN1_page CRD_88 VVZ_shows EX0_there VBZ_is AT0_a AJ0_huge NN1_choice PRF_of NN1_pasta PRP_as AT0_an NN1_ingredient PUN_. 
+PRP_For DT0_many NN2_years NN2_caterers VM0_could VVI_obtain AV0-AJ0_only AJ0_dried NN1_pasta PUN_. 
+CJC_But PRP_since AT0_the AJ0_early CRD_1980s AJ0-VVN_chilled AJ0_fresh NN1_pasta VHZ_has AV0_also VBN_been PRP_on AT0_the NN1_market PRP_from AJ0_large CJC_and AJ0_small NN2_suppliers VVG_operating PRP-AVP_on AV0_both AJ0_national CJC_and AJ0_regional NN2_bases PUN_. 
+PRP_In AT0_the AJ0_past CRD_five CJC_or CRD_six NN2_years NN1_foodservice NN2_companies VHB_have AV0_also VBN_been AJ0_able TO0_to VVI_supply AJ0_frozen NN1_pasta PUN_. 
+NP0_John NP0_Bray AJ0_senior NN1_brand NN1_manager PRP_for NN1_Foodservice DTQ_which VVZ_supplies AV0_both VVN-AJ0_dried CJC_and AJ0_frozen NN1_pasta VBZ_is AJ0_keen TO0_to VVI_dispel DT0_any NN1_thought CJT_that CRD_one NN1_type PRF_of NN1_pasta VBZ_is AJC_better CJC_or AJC_worse CJS_than DT0_another PUN_. 
+CJC_But PNP_he VVZ_emphasises CJT_that AJ0_chilled CJC_and AJ0_frozen NN2_pastas VBB_are AJ0_different PRP_from AJ0_dried NN2_pastas CJC_and VVB-NN1_need AJ0_different NN2_sauces PUN_. 
+NN1_pasta VBZ_is AT0_the AJS_best AJ0_possible PRP_for AJ0_straight CJC_and AJ0_simple NN2_shapes PNP_he VVZ_says PUN_. 
+VHZ_has AT0_a AJC_firmer NN1_texture CJC_and VVZ_goes AV0_well PRP_with AT0_the AJC_heavier NN2_sauces PUN_. 
+PNP_you VVB_want NN1_spaghetti PNP_you AV0_really VVB_need AJ0_dried NN1_spaghetti VVN-VVD_made PRP_with AJ0_good NN1_quality NN1_durum NN1_wheat CJC_and AT0_no NN1_egg PUN_. 
+AJ0_dried NN2_pastas VDB_do VVI_contain NN1_egg DTQ_which VVZ_makes AT0_the NN1_pasta AJC_softer PUN_. 
+DT0_These VVN_originated PRP_in AJ0_Northern NP0_Italy CJS-AVQ_where AT0_the NN1_pasta VBZ_is AV0_traditionally AJ0_flat CJC_and CJS_where PNP_they VVB_use AV0_a DT0_more NN1_egg CJC_and NN1_cream PRP_in DPS_their NN1_cooking PUN_. 
+CJS_if PNP_you VVB_put AT0_an NN1_egg NN1_tagliatelle PRP_with AT0_a AJ0_heavy PNP_you VVB_lose DT0_all AT0_the NN2_benefits PRF_of AT0_the NN1_pasta PUN_. 
+CJC_and AJ0_chilled NN1_pasta VVZ_comes PRP_into DPS_its DT0_own CJS_when PNP_you VBB_are VVG_talking PRP_about AJ0_filled NN1_pasta AV0_especially AV0_individually NN2_products PUN_. 
+AJ0_frozen NN1_pasta VHZ_has AJ0_whole NN1_egg PRP_in PNP_it VVG_giving PNP_it AT0_a AJC_softer AJC_smoother NN1_texture DTQ_which VVZ_goes AV0_well PRP_with NN1_cream CJC_and AJC_lighter NN1-AJ0_tasting NN2_sauces PUN_. 
+NN1-NP0_Bray VVZ_adds CJT_that AJ0_frozen NN1_pasta PRP_with AJ0_good NN1_quality NN2_fillings VBZ_is AV0_especially AJ0_useful PRP_to NN2_caterers CJS_because PNP_it VM0_can VBI_be VVN_made AVP_up AV0_quickly PRP_into AV0_either CJC_or NN2_dishes PRP_without NN1_waste PUN_. 
+CRD_One NN1_example VBZ_is AJ0-NN1_Buitoni NN1_Beef NN1-NP0_Cannelloni DTQ_which VHZ_has AT0_a NN1_ratio PRF_of NN1-VVG_filling PRP_to NN1_pasta PUN_. 
+AT0_The NN1_shape PRF_of NN2_things TO0_to VVI_come NP0_McDougalls VVG-NN1_Catering NN2_Foods NN2_' AJ0_Caribbean NN1_Chicken NN1_Sunshine NN1_Lasagne CJC_and AJ0_Veggi NN1_Surprise AJ0_Frozen NN1_pasta AV0_rarely VHZ_has TO0_to VBI_be VVN_defrosted PRP_before NN1_use PUN_. 
+PNP_It VBZ_is AJ0_ideal PRP_for NN2_menus AVQ_where AV0_for CRD_five NN2_pastas VBB_are VVN_offered PRP_with CRD_five NN2_sauces PRP_for NN2_customers TO0_to VVI_combine CJS_as PNP_they VVB_wish PUN_. 
+AT0_The AJ0_growing NN1_demand PRP_for NN1_pasta PRP_in AT0_the NP0_UK VBZ_is VVN_illustrated AV0_both PRP_by AT0_the AJ0_increasing NN1_number PRF_of AJ0_specialised NN1_pasta NN2_outlets CJC_and PRP_by AT0_the AJ0_growing NN1_menu NN1_presence PRF_of NN1_pasta PRP_in NN1_pizza NN2_restaurants PRP_according NN1_Master NN2_Foods DTQ_which VVZ_markets AT0_the NP0-NN1_Dolmio NN1_brand PRF_of AJ0_frozen NN2_pastas CJC_and NN2_sauces PUN_. 
+AT0_The NN1_company VVZ_believes AJ0_future NN1_growth PRP_for NN1_pasta VM0_will VVI_come PRP_from NN2_outlets PRP_such DT0_those PRP_in AT0_the NN1_travel CJC_and NN1_pub NN2_sectors PUN_. 
+NN1_Master NN2_Foods NN1_sector NN1_development NN1_manager NP0_Kathryn NN1_Bowler VVZ_says VBZ_is CRD_one PRF_of AT0_the AJS_fastest AJ0_expanding NN2_areas PRF_of AT0_the NP0_UK NP0_'s NN1_catering NN1_market CJC_and EX0_there VBZ_is PNI_plenty PRF_of NN1-AJ0_potential PRP_for AJC_further NN1_growth PUN_. 
+AT0_the AJS_latest NN1_Euromonitor NN1_report PRP_on AT0_the AJ0_international NN1_pasta NN1_market DT0_each AJ0_British NN1_consumer VVZ_eats PRF_of NN1_pasta AT0_a NN1_year PUN_. 
+DT0_This AV0_still VVZ_leaves NP0_Britain NN1_way AVP_down PRP_on AT0_the NN1_league PUN_. 
+AJ0_German NN2_consumers VVB_eat AT0_a NN1_year AT0_the AJ0-NN1_French CJC_and AT0_the NN2_Italians PUN_. 
+PRP_In NN1_fact AV0-AJ0_only NP0_Japan VVZ_lags PRP_behind PNP_us PUN_. 
+PRP_Like NN2_potatoes CJC_and NN1_bread NN1_pasta VBZ_is AV0_no VVN_regarded CJS-PRP_as VVG-AJ0_fattening PUN_. 
+PNP_It VBZ_is AV0_now VVN-VVD_established PRP_as AT0_a AJ0_healthy NN1_food PRP_with AJ0_popular NN1_appeal PRP_for AT0_the NN2_numbers PRF_of NN2_diners PUN_. 
+CJS_As NN1_supplier AT0_The NN1_Pasta NN1_Company VVZ_points AVP_out NN1_pasta VHZ_has AT0_a AV0_surprisingly AJ0_low NN1_calorie NN1_count AV0_just CRD_140 NN2_calories PRP_per NN0_100g PUN_. 
+NN1_Pasta VVZ_contains AJ0_complex NN2_carbohydrates AV0_so VVZ_takes NN1_time TO0_to VBI_be VVN_digested PUN_. 
+PNP_It VBZ_is AV0_often VVN_eaten PRP_by NN2_athletes PNQ_who VVB_require AV0_gradually VVN-AJ0_released NN1_energy PRP_for AJ0_long NN1_distance NN2_events PUN_. 
+PNP_It VBZ_is AV0_also AJ0_low PRP_in NN1_fact CJC_and AJ0-AV0_high PRP_in NN1_fibre PUN_. 
+AV0_Well VVN_known NN2_pastas PRP_such NN1_spaghetti CJC_and NN1_lasagne VBB_are AV0_still AT0_the NN2_products PUN_. 
+AV0_However PRP_according DT0_many NN2_suppliers NN1_pasta NN2_shapes VBB_are AV0_rapidly VVG-AJ0_increasing PRP_in NN1_popularity PUN_. 
+PRP_As AT0_a NN1_result NP0_McDougalls VHZ_has VVN_introduced NP0-NN1_Tricolour VVD_Mixed NN2_Shells NN2-VVZ_Spirals CJC_and NN2_Animals PRP_with AT0_the DT0_latter VBG_being VVN_aimed PRP_at NN2_caterers VVG_producing NN2_children NN2_'s NN2_meals PUN_. 
+PRP_such NN2_shells NN2-VVZ_twists CJC_and NN2-VVZ_bows VBB_are AT0_the AJS_fastest AJ0_growing NN1_sector PRF_of AT0_the NN1_pasta NN1_market VVZ_says NP0_Teresa NP0_Cooke NN1_product NN1_manager PRP_for AT0_the NP0-NN1_Knorr NP0_Collezione NP0_Italiana NN1-VVB_range PRP_from AT0_the AJ0-NN1_Caterplan NN1_Division PRF_of NP0_CPC PUN_. 
+AT0_The NN1_company VHZ_has AV0_just VVN_added NN1_Flute NP0-NN1_Penne AJ0_ridged NN2_tubes DTQ_which VBB_are AJ0_ideal PRP_for VVG-NN1_trapping NN2_sauces CJC_and NP0_Conchiglie NP0_Tricolore PRP_to DPS_its NN1_range PUN_. 
+NN2_Sauces VVB_cling AV0_more AV0_easily PRP_to NN1_pasta PUN_. 
+PRP_For DT0_this NN1_reason DT0_some PRF_of AT0_the NN1_pasta NN2_shapes PRP_from NP0_Valerio NP0_'s NP0_Olympia NN1_Group VBB_are VVN_produced PRP_with NN1_brass NN2-VVZ_extruders PUN_. 
+DT0_This PRP_according AT0_the NN1_company VVZ_gives AT0_the NN1_pasta AT0_a NN1_look CJC_and AT0_a NN1_porosity DTQ_which VVZ_allows AJC_better NN1_sauce NN1_absorption PUN_. 
+DT0_Some NN2_shapes AV0_also VHB_have AJ0_internal NN1_ridging DTQ_which VVZ-NN2_aids AJ0_uniform NN1_cooking PUN_. 
+NN1_Egg NN1_pasta VBZ_is DT0_another NN1_growth NN1_area VVN_identified PRP_by NP0-NN1_Caterplan PUN_. 
+AT0_The NN1_company VHZ_has AV0_recently VVN_launched CRD_three NN2_varieties NP0_Tagliatelle NP0-NN1_Uovo PRP_in NN1-AJ0_plain CJC_and AJ0_green NN2_versions CJC_and NN1_Oven AJ0_Ready NN1_Lasagne NP0-NN1_Uovo PUN_. 
+AT0_The NN1_essence PRF_of NN1_pasta VBZ_is DPS_its NN1_simplicity NP0_Cooke VVZ_says NN1_pasta VBZ_is AV0_certainly VVN_preferred PRP_by DT0_many NN2_chefs XX0_not AV0_only PRP_because DPS_its AJ0_excellent NN1_colour CJC_and NN1-VVB_flavour CJC_but CJS_because PNP_it VVZ_offers PNP_them AT0_the NN1_possibility PRF_of VVG_upgrading DPS_their NN1_pasta NN2_menus AV0_thus VVG_increasing DPS_their NN2_profits PUN_. 
+NN2_ItalBrokers AJ0_managing NN1_director NP0_Carlo NP0-NN1_Gambuzzi VVZ_adds NN1_pasta VBZ_is AV0_more AJ0_enjoyable PRP_to AT0_the NN1_palate CJS_than AJ0_other NN2_pastas CJC_and VVZ_remains AV0_better AV0_al PUN_. 
+PRP_In NN1_fact PRP_in AT0_the AJ0_mature AJ0-NN1_Italian AJ0_dried NN1_pasta NN1-VVB_market PNP_it VBZ_is AT0_the AJ0_only NN1_sector VVG_showing AT0_a AJ0_substantial NN1_increase PUN_. 
+CRD_Two NN2_brands PRF_of AJ0_dried NN1_pasta VBB_are VVN_marketed PRP_by NP0_ItalBrokers NP0_Ferrari CJC_and NP0-NN1_Dallari DT0_both PRF_of DTQ_which VBB_are VVN_made PRP_with NN1_flour CJC_and NN2_eggs AV0_only PUN_. 
+AT0_The AJ0_traditional AJ0_Emilian NN1_recipe VDZ_does XX0_not VVI_add NN1_water PUN_. 
+PRP_By NN1_contrast AT0_the AJ0-NN1_Federici NN1_range PRF_of AJ0_dried NN1_pasta PRP_from NN2_Princes VVG_Catering NN2_Products VVZ_emphasises AT0_the AJ0_special NN1_water PRP_from AT0_the AJ0_famous AJ0-NN1_Sangemini NN2_Springs VVN-VVD_used PRP_in DPS_its NN1_manufacture PUN_. 
+AT0_The NN1_Pasta NN1_Factory PRP_with CRD_104 NN2_varieties PRF_of AJ0_fresh CJC_and AJ0_frozen NN1_pasta VVZ_specialises PRP_in NN1_designer NN1_pasta PUN_. 
+AJ0_Recent NN2_launches VVB_include NN1-AJ0_Ravioli PRP_with NP0_Radicchio NP0-NN1_Ravioli PRP_with NP0_Saffron AJ0-NN1_Orange NN1_Peel CJC_and NP0_Ricotta CJC_and AJ0_Black NN1_Pasta PUN_. 
+AJ0_Unusual AJ0_fresh CJC_and AJ0_frozen NN2_pastas VBB_are AV0_also AJ0_available PRP_from AT0_The NN1_Pasta NN1_Company PUN_. 
+PRP_As VVG-NN1_offering CRD_21 AJ0_standard NN2_items AT0_the NN1_company VVZ_makes NN1-AJ0_specialist NN2_pastas PRP_for NN2_customers CJC_and VHZ_has AV0_more CRD_500 AJ0-NN1_specialist NN2_lines PUN_. 
+AJ0_Dried NN2_pastas VHB_have AT0_a PRP_in AT0_a NN1_year CJC_and AJ0_frozen NN2_pastas AV0_also VHB_have AT0_a AJ0_long PRP_under AJ0_proper NN2_conditions PUN_. 
+CJC_And DT0_many NN2_companies VHB_have VVN_developed NN1_packaging TO0_to VVI_prolong AT0_the PRF_of AJ0_chilled AJ0_fresh NN1_pasta PUN_. 
+AT0_The AJ0_Bertagni AJ0_fresh NN1_pasta PRP_from AJ0_Fine AJ0-NN1_Italian NN2_Foods VVZ_comes PRP-AVP_in AJ0_controlled NN1_atmosphere NN1_packaging DTQ_which AT0_the NN1_company VVZ_says VVZ_retains AT0_the NN1_texture PRF_of AT0_the NN1_pasta CJC_and VVZ_prevents PNP_it PRP_from VVG_sticking AV0_together PUN_. 
+NP0_Alibert AJ0_fresh NN1_pasta PRP_from NP0_Olga NN1_Catering VBZ_is AV0_also PRP_in AJ0_special NN1_packaging DTQ_which VBZ_is VVN_said TO0_to VVI_give PNP_it AT0_a AJ0_guaranteed PRF_of CRD_60 NN2_days PUN_. 
+DT0_Some NN1_pasta NN2_dishes PRP_such NN1_macaroni NN1_cheese CJC_and NN1_lasagne VHB_have VVN_become AJ0_British NN2_institutions PRP_in DPS_their DT0_own NN1_right PUN_. 
+CJC_But AV0_nearly DT0_half PRF_of DT0_all AT0_the NN1_pasta VVN_eaten PRP_in NP0_Britain VBZ_is AT0_the AJ0_canned NN1_variety DTQ_which AV0_often VVZ_owes AV0_little PRP_to DPS_its AJ0-NN1_Italian NN1_ancestry PUN_. 
+AV0_However AT0_the AV0_more AV0_authentically AJ0_Italian NN2_types PRF_of NN1_pasta VBB_are AV0_rapidly VVG_gaining NN1_ground CJC_and VVB_look AJ0_set TO0_to VVI_continue PRP_in NN1_popularity PUN_. 
+PRP_According NP0-NN1_Bray AV0-AJ0_only AJ0_wholemeal NN1_pasta VHZ_has VBN_been AJ0_unsuccessful PUN_. 
+VBD_was VVN_talked PRP_about AT0_a NN1_lot CJC_but AV0_never AV0_really VVD_came PRP_to NN1_fruition PUN_. 
+EX0_There VBZ_is AV0_still AT0_a NN1_place PRP_for PNP_it AV0_mainly PRP_in AJ0_institutional NN1_catering CJC_but DT0_most NN0_people VVB_think PNP_it VVZ_tastes PRP_like NN1-AJ0_cardboard PUN_. 
+PRP_For DT0_most PRF_of PNP_us AJ0_traditional AJ0-NN1_Italian NN2_pastas VBB_are AV0_sufficiently AJ0_healthy PRP_without VVG_imposing NN2_ingredients PRP_on PNP_them PUN_. 
+AT0_The NN1_conclusion VHZ_has TO0_to VBI_be NN1_cook VVB_eat VVB_enjoy CJC_and NN1-VVB_profit PUN_. 
+AJ0_TOP CRD_10 NN2_SELLERS EX0_THERE VBB_are AV0_more CRD_200 NN1_pasta NN2_shapes PRP_with AV0_more CRD_600 NN2_names PRP_for DT0_these NN2_shapes PUN_. 
+AT0_The AJ0_following NN1_list PRP_in NN1_order PRF_of NN1_popularity VHZ_has VBN_been VVN_compiled PRP_from NN2_suppliers NN2_' CRD_five NN2_pastas PUN_. 
+NN1_Spaghetti AV0_sometimes AV0_also VVN_called NN2_spaghettini CJC_or NN2_spaghettoni PUN_. 
+NN1_Lasagne DT0_most NN2_suppliers VVD-VVN_mentioned CJT_that AT0_the NN2_varieties VBB_are AV0_most AJ0_popular PUN_. 
+NN1-AJ0_Green CJC_and AJ0_uncoloured NN2_varieties VBD_were DT0_both VVN_nominated PUN_. 
+NN2_Fusilli AV0_also AV0_often VVN_described PRP_as NN2-VVZ_spirals CJC_or NN2-VVZ_twists PUN_. 
+NP0_Maccheroni AV0_better VVN_known PRP_as NN2_marcaroni PUN_. 
+NN1_Tortellini DT0_these AJ0-VVN_stuffed NN1_pasta NN2_shapes VBB_are AV0_also VVN_called NN2_tortelloni CJC_and NN2_tortelli PUN_. 
+NN1-NP0_Tagliatelle DT0_both AT0_the NN1-AJ0_green CJC_and AJ0_uncoloured NN2_versions PRF_of DT0_this NN1_pasta PUN_. 
+NN1-NP0_Conchiglie AV0_often VVN_called NN2_shells PUN_. 
+NN1-NP0_Penne AV0_often VVN_sold PRP_under AT0_the AJ0-NN1_English NN1_name NN2_quills PUN_. 
+VVB-NN1_Fettuccine AJ0_similar PRP_to NN1_tagliatelle PUN_. 
+NN2_Cappellitti VVN-VVD_shaped PRP_like AJ0_peaked NN2_hats CJC_and VVD_stuffed PUN_. 
+AJ0_Other NN2_pastas NN2_suppliers VVB_say VBB_are AJ0_popular VVB_include NN2_gnocchi NN2_cannelloni NN2_garganelli NN2_torchietti CJC_and NN1_frappe PUN_. 
+AT0_The CRD_seven NN2_varieties PRP_in AT0_the NN1_Country NN1_Range PRP_from NP0_Countrywide NN0_Salmon NN1-AJ0_Tortelloni PRP_from NN1_Master NN2_Foods DTQ_WHAT DTQ_'S AJ0_NEW AJ0-VVN_Leaked NN1-VVB_document XX0_not AJ0-AV0_strong AV0_enough PRP_by NP0_Linda UNC_Petit AT0_AN NP0_EC AJ0_working NN1_document PRP_on NN1_food NN1_hygiene VVN-VVD_leaked CJS_before PNP_it VHD_had VVN_reached DPS_its NN1_consultation NN1-VVB_form VBZ_is AV0_already VBG_being VVN_criticised PRP_for VBG_being AV0_too AJ0_weak PUN_. 
+NN1_Institution PRF_of AJ0_Environmental NN1_Health NP0_Linda NP0_Alan VVD_said CJT_that AT0_the NN1_document VBD_was XX0_not AJ0_strong AV0_enough VVG_adding VVZ_leaves AV0_so DT0_much AJ0_open PRP_to NN1_interpretation PUN_. 
+PNP_She VVD_said CJT_that AT0_the NN1_aim PRF_of AT0_the NN1_directive VBD_was TO0_to VVI_harmonise AT0_the NN1_hygiene NN2_practices PRF_of DT0_all AT0_the NN1_member NN2_states CJC_and PNP_it VBD_was PRP_up DT0_each NN1_country TO0_to VVI_interpret AT0_the NN1_directive PUN_. 
+VM0_would VVI_hope CJT_that PRP_in NN1_consultation PNP_it VM0_would VBI_be VVN_tightened AVP_up CJC_but AT0_the NP0_EC VM0_might VVI_prefer PNP_it PRP-AVP_in DPS_its AJ0_general NN1_form PNP_she VVD_said PUN_. 
+AT0_The AJ0_proposed NP0_EC NN1_directive DTQ_which VBZ_is VVN-AJ0_expected TO0_to VBI_be VVN_released PRP_for NN1_consultation PRP_by AT0_the NN1_end PRF_of AT0_the NN1_year VM0_would VVI_affect DT0_all NN1_food NN1_business NN2_operators PRP_in NP0_Europe PRP_including NN2_manufacturers NN2_distributors CJC_and NN2_retailers PUN_. 
+AT0_The NN1_document VVD_stated CJT_that DT0_all NN1_food NN2_premises VM0_must CJT_that AJ0_adequate NN1_safety NN2_procedures VBB_are VVN_identified VVN-VVD_maintained CJC_and VVD_reviewed PUN_. 
+AT0_The NN1_directive VVD_included AJ0_advisory NN2_regulations PRP_concerning NN1_building NN2_requirements NN1_kitchen NN1_equipment NN1_food NN1-VVB_waste NN1_water NN1-VVB_supply AJ0_personal NN1_hygiene CJC_and NN1_production NN1_hygiene CJC_but VBZ_is XX0_not AJ0_specific PRP_about DT0_those NN2_regulations CJC_or DPS_their NN1_implementation PUN_. 
+NN1_Deputy NN1_manager PRF_of NN1_communication NN2_services PRP_at AT0_the NN1_Hotel VVG-NN1_Catering AJ0_Institutional NN1_Management NN1_Association NP0_Tim NP0_Knowles VVD_said CJT_that CJS_although PNP_he VVD_welcomed AT0_the NN1_directive PNP_it AV0_still VVD_needed AT0_a NN1_lot PRF_of NN1_work PRP_in DPS_its AJ0-NN1_present NN1_form PUN_. 
+PNP_He AV0_particularly VVD_criticised AT0_the NN1_terminology PRP_in AT0_the NN1_document DTQ_which PNP_he VVD_described CJS_as PUN_. 
+AT0_An NN1_example PRF_of DT0_this VBZ_is AVQ_when PNP_it VVZ_refers PRP_to NN1_business NN2_operators DTQ_which PRP_according NP0_Mr NP0_Knowles VBZ_is AJ0_unspecific CJC_and AV0_far AV0_too AJ0_general AT0_a NN1_definition PUN_. 
+NP0_Mr NP0_Knowles VVD_suggested AT0_the NN1_definition VVB_include AT0_the NN2_words CJC_and VVG-NN1_catering NN1_industry TO0_to VVI_avoid NN2_outlets PRP_in NN1_member NN2_countries VVG_finding AT0_a AJ0_possible NN1_loophole PUN_. 
+PNP_He AV0_also VVD_criticised AT0_the NN1_reference PRP_to AJ0_critical NN1_control VVZ-NN2_points PRP_under DTQ_which PNP_it VVD_said CJT_that NN1_business NN2_operators VM0_shall VVI_identify DT0_any NN1_process VVN_undertaken DTQ_which VM0_may VBI_be AJ0_critical PRP_to VVG_ensuring NN1_food NN1_safety CJC_and VVB_ensure CJT_that AJ0_adequate NN1_safety NN2_procedures VBB_are VVN_identified VVN-VVD_maintained CJC_and VVD_reviewed PUN_. 
+AJ0_Critical NN1_control NN2_points VBD_were VVN_described PRP_by NP0_Mr NP0_Knowles CJS_as VBG_being AJ0_inappropriate PRP_to AT0_the NN1_catering NN1_industry DTQ_which PRP_by DPS_its NN1_nature VBZ_is XX0_not AV0_highly VVN-VVD_systemised PUN_. 
+PRP_Regarding NN1_training AT0_the NN1_document VVD_said CJT_that NN1_food NN1_business NN2_operators VM0_must VVI_ensure CJT_that NN1_food NN2_handlers VBB_are AV0_fully VVN_trained CJC_or VVD_supervised AJ0_commensurate PRP_with DPS_their NN1_work NN1_activity PUN_. 
+NN1_food NN2_handlers VM0_should VBI_be VVN_trained XX0_not AV0_just VVN_supervised EX0_there VM0_should VBI_be AT0_the NN1_linkage PRP_between NN2_supervisors NP0_Mr NP0_Knowles VVD_said PUN_. 
+DT0_Former AJ0-NN1_chief AJ0_environmental NN1_health NN1_officer PRP_with AT0_the NN1_City PRF_of NP0_Westminster NP0_Robert NP0_Crozier VVD_said CJT_that EX0_there VBD_were AT0_no NN2_surprises PRP_in AT0_the NN1_document AV0_as DT0_much PRF_of AT0_the NN1_legislation VBD_was AV0_already VVN_covered PRP_in AT0_the NN1_Food NN1_Safety NN1_Act PUN_. 
+NP0_Mr NP0_Crozier VVD_said CJT_that CJS_although AT0_the NP0_UK VBD_was AV0_more VVN_advanced PRP_in NN1_hygiene CJS_than DT0_most AJ0_other NN1_member NN2_states AT0_the NN1_document VBD_was AV0_still NN1_step PRP_in AT0_the AJ0-NN1_right NN1_direction PRP_for NP0_Europe PUN_. 
+AJ0_Fast NN1_Food AJ0-NN1_Fair NN1_set PRP_for NN1_success AT0_THE CRD_1991 AJ0_Fast NN1_Food NN1_Fair VM0_will VVI_take NN1_place PRP_in NP0_Brighton NP0_East NP0_Sussex PRP_from NP0_November PUN_. 
+DT0_This NN1_year PNP_it VVZ_promises TO0_to VBI_be AV0_as AJ0_big CJS_as AV0_ever PRP_with PRF_of NN2_stands VVB-NN1_space AV0_already VVN-AJ0_booked PUN_. 
+AT0_The AJ0_fair VBZ_is VBG_being VVN_sponsored PRP_by VVG-NN1_Catering NN1-VVB_Update PRP_in NN1_Caterer NP0-NN1_Hotelkeeper PUN_. 
+PNP_It AV0_already VHZ_has NN1_support PRP_from NN2_companies PRP_such NN1_Foodservice NP0_Kraft AJ0-NN1_General NN1_Food NN1_Service CJC_and NP0_Lyons NP0_Tetley PUN_. 
+AT0_The NN1_show VM0_will VVI_host DT0_such NN2_events CJS_as AT0_the NN1_product NN2_awards PRP_for AT0_the AJS_best NN2_innovations CJC_and NN2_introductions PUN_. 
+AT0_The NN2_awards VVN_sponsored PRP_by VVG-NN1_Catering NN1-VVB_Update VBB_are VVN_designed TO0_to VVI_encourage AJ0_new NN2_ideas PRP_throughout AT0_the NN1_industry PUN_. 
+PNP_They VBB_are VVN_divided PRP_into CRD_three NN2_categories NN1_Quality NN1_Product PRF_of AT0_the NN1_Year NN1_Newcomer PRF_of AT0_the NN1_Year CJC_and NN1_Equipment NN1_Innovation PRF_of AT0_the NN1_Year PUN_. 
+NN1_Entry NN2_forms VBB_are AJ0_available PRP_from NP0_Reed NN2_Exhibitions PUN_. 
+NN2_Entries PRP_for AT0_the NN2_awards VVB_close PRP_at AT0_the NN1_beginning PRF_of NP0_October PUN_. 
+AT0_A NN0_series PRF_of NN2_forums PRP_for NN2_visitors CJC_and NN2_exhibitors VM0_will AV0_also VBI_be VVG-AJ0_running VVG_addressing DT0_such NN2_issues CJS_as NN1_training CJC_and NN1_management PRP_in AT0_the NN1_snack NN1_industry NN2_trends PRP_in NN1_pizza CJC_and NN1_pasta NN1_marketing CJC_and AT0_the AJ0-NN1_potential NN1_profit PRF_of AJ0_themed NN1_food CJC_and NN2_desserts PUN_. 
+CJS_If PNP_you VM0_would VVI_like AJC_further NN1_information PRP_on AT0_the NN1_show VVB_contact AT0_the AJ0_Fast NN1_Food AJ0_Fair NN1_ticket NN1_hotline CJC_and VVG_registering NN1_service PRP_on CRD_091 CRD_416 CRD_4570 PUN_. 
+NP0-NN1_FLANAGAN VVZ-NN2_MOVES NP0_ROGER NP0_Flanagan DT0_former NN0_sales CJC_and NN1_marketing NN1_director PRP_for NN1_equipment NN1_supplier NN2_Masters NP0-NN1_Andren VHZ_has VVN_left AT0_the NN1_company TO0_to VVI_concentrate PRP-AVP_on DPS_his DT0_own NN1_consultancy NN1_GP NN2_Consultants PUN_. 
+AV0_Together PRP_with NN1_design NN1_consultant NP0_Jackie NP0_Snaith CJC_and AJ0_managing NN1_director NP0_Helen NP0_Flanagan PNP_he VM0_will VVI_offer NN1_advice PRP_on DT0_all NN2_aspects PRF_of NN1_foodservice PRP_including NN1_kitchen NN1_design CJC_and NN1_training PUN_. 
+NP0_Mr NP0_Flanagan VVD_said CJT-DT0_that PRP_with DT0_more NN1_choice PRP_from NP0_Europe AJ0_European NN1_legislation CJC_and AT0_the NN1_Food NN1_Safety NN1_Act AV0_now VVB_want PNI_someone TO0_to VVI_look AVP-PRP_over DPS_their NN2_shoulders PUN_. 
+VVB-NN1_Telephone CRD_0883 CRD_653345 PRP_for AJC_further NN2_details PUN_. 
+NP0_BODFARI NN1-VVB_DEAL NN1_FOOD NN1_manufacturer AJ0_Northern NN2_Foods VHZ_has VVN_bought NP0_Bodfari NN2_Foods PRP_in AT0_a NN1_deal PRP_worth PUN_. 
+AT0_A AJC_further VM0_may VBI_be AJ0_payable PRP_depending AT0_the NN1_company NN1_'s AJ0_future NN1_performance PUN_. 
+NP0_Bodfari NN2_Foods VBZ_is AT0_a NN1_processor CJC_and NN1_supplier PRF_of AJ0_liquid NN1_milk PUN_. 
+ORD_Last NN1_year AT0_the NN1_company VVD_saw NN2_profits PRF_of PUN_. 
+VVZ_INVESTS NN1_POTATO NN1_product NN1_manufacturer VHZ_has VVN_invested PRP_in DPS_its NN1_potato NN1_manufacturing NN1_plant PRP_at NP0-NN1_Amble NP0_Northumberland PUN_. 
+PRP_By AT0_the NN1_end PRF_of DT0_this NN1_month NN1_manufacturing NN1_capacity VBZ_is VVN-AJ0_expected TO0_to VVI_increase PRP_as AT0_a NN1_result PRP_according NN0_sales CJC_and NN1_marketing NN1_director NP0_Joe NP0_Weston PUN_. 
+AJ0_IDEAL NN1_CHANGE VVG-NN1_CATERING NN1-VVB_butcher AJ0_Ideal NN1_Meat NN2_Supplies VHZ_has VVN_moved PRP_from DPS_its NP0_Smithfield NN1_Market NN1_site PRP_to NN2_premises PRP_in NN1_North NP0_London PUN_. 
+AT0_The NN1_company VHZ_has AV0_also VVN_achieved AT0_a NN1_grade ZZ0_A NN1_accreditation PRP_from AT0_the NN1_plant NN1_evaluation NN1_committee PRF_of AT0_the AJ0_National NN1_Association PRF_of VVG-NN1_Catering NN0_Butchers PUN_. 
+NN1_FOOD NN1-NP0_Vitalite NN1_spread AJ0_VITALITE NN1_Light VBZ_is AT0_a NN1_sunflower NN1_oil NN1_spread DTQ_which VBZ_is VVN_said TO0_to VBI_be AJ0-AV0_high PRP_in AJ0_polyunsaturated NN1_fat CJC_and AJ0-AV0_low PRP_in AJ0_saturated NN1_fat CJC_and NN1_cholesterol PUN_. 
+PNP_It VBZ_is VVN_packaged PRP-AVP_in NN0_2kg NN2_tubs CJC_and VM0_can VBI_be VVN_spread AV0_straight PRP_from AT0_the NN1_fridge PUN_. 
+NP0_Orient NN1_Express NN1_dessert PRP_from NP0_Kaysens AJ0_Eastern NN1_dessert NP0_ORIENT NN1_Express VBZ_is AT0_an NN1_dessert VVN-VVD_designed TO0_to VVI_complement AJ0_Eastern NN1_cuisine PUN_. 
+AT0_The VBZ_is VVN_made PRP_with AJ0_moist NN1_sponge VVN-AJ0_layered PRP_with AJ0_sweetened AJ0-NN1_red NN1_bean NN1_paste AJ0_ginger NN1_jam CJC_and NN1_cream PUN_. 
+AT0_The NN1-AJ0_top CJC_and NN2_sides VBB_are VVN_sprinkled PRP_with AJ0_toasted NN2_nuts CJC_and NN1_sesame NN2_seeds CJC_and PNP_it VBZ_is VVN_finished PRP_with AJ0_orange NN1_jelly NN2_slices CJC_and NN1_raspberry NN1_jam PUN_. 
+NP0_Orient NN1_Express VVZ_comes AJ0_frozen CJC_and VVZ_takes PRP_between CRD_15 CJC_and CRD_30 NN2_minutes TO0_to VVI_defrost PUN_. 
+VVB-NN1_Ring NN2_doughnuts AJ0_AMERICAN NN1_ring NN2_doughnuts PRP_from AT0_The AJ0_Delicious NN1_Donut NN1_Co VBB_are VVN_made PRP_from AT0_a NN1_flour DTQ_which VBZ_is VVN_said TO0_to VVI_give PNP_them AT0_a NN1-AJ0_light AJ0_fluffy CJC_and NN1_consistency PUN_. 
+AT0_The NN2_doughnuts VVB_cost AV0_less NN0_20p DT0_each CJC_and VBB_are AJ0_available PRP_in AJ0_Sweet NN1_Cinnamon NN1-NP0_Sugar NN1-VVB_Spice AJ0_White NN1_Delight CJC_and NN2_varieties PUN_. 
+AJ0_Iced NN1_yogurt NN1_DAIRY NN1_Crest VHZ_has VVN_joined NN2_forces PRP_with NP0_Taylor NP0-NN1_Freezer TO0_to VVI_produce AT0_an AJ0_iced NN1_yogurt NP0_Piccolo DTQ_which VM0_can VBI_be VVN_stored PRP_in AJ0_ambient NN2_conditions CJC_and AT0_a NN1_machine PRP_from DTQ_which TO0_to VVI_serve PNP_it PUN_. 
+CRD_Two NN2_tubs PRF_of NN1_yogurt VVD_cost CJC_and VBB_are AJ0_available PRP_in NN1_chocolate NN1_vanilla NN1_peach NP0-NN1_Melba NN1_lemon CJC_and NN1_strawberry NN2_flavours PUN_. 
+AT0_The NN1_yogurt VVZ_keeps PRP_for CRD_six NN2_months PRP_in AJ0_ambient NN2_conditions CJC_or CRD_two NN2_weeks AV0_once VVN_opened PRP_in AT0_a NN1_refrigerator PUN_. 
+AT0_The NN1-AJ0_serving NN2_machines VBB_are AJ0_available PRP_in AT0_a NN1_selection PRF_of NN2_sizes CJC_and VM0_can VBI_be VVN-AJ0_leased CJC_or VVN_purchased PUN_. 
+NN1_Wafer NN2-VVZ_cups NP0_TULIP NN1_wafer NN2_cups VM0_can VVI_hold AT0_a AJ0_single NN1_scoop PRF_of NN1_ice NN1_cream CJC_or NN2_desserts PRP_such NN0_fruit CJC_and NN1_cream PUN_. 
+PNP_They VBB_are VVN_made PRP_from NN1_wafer NN2_biscuits CJC_and VVB_cost PRP_for AT0_a NN1_box PRF_of CRD_120 PUN_. 
+NN1_Sauce NN1_revival NP0_COSTA VHZ_has VVN_revived AT0_an NN1_recipe VVN_known PRP_as NP0_Harvey NP0_'s NN1_sauce PUN_. 
+NP0_Harvey NP0_'s NN1_sauce VVZ-NN2_tastes AJ0_similar PRP_to NP0_Worcester NN1_sauce CJC_and VVZ_comes PRP-AVP_in NN0_170ml NN2_bottles PUN_. 
+NN1_Potato NN2_flavours VVZ_offers NN1_garlic NN1_herb NN1_onion AJ0_smoky NN1_bacon CJC_and NN1_potato NN2_powders PUN_. 
+AT0_The NN2_powders VM0_can VBI_be VVN_reconstituted PRP_with NN1_water CJC_and VVD-VVN_shaped TO0_to VVI_produce AJ0_flavoured AJ0_French NN2_fries PUN_. 
+AT0_The NN2_fries VVN-VVD_made PRP-AVP_through AT0_a NN1_machine VM0_can AV0_then VBI_be PRP_before VVG_serving PUN_. 
+AJ0_Boneless NN1_turkey AJ0_SMOKED NN1-NP0_Turkey NN1_Crown CJC_and NP0_Turkey NN1-VVB_Loaf VBB_are AJ0_available PRP_in AV0_either VVN_smoked CJC_or AJ0_unsmoked NN2_varieties PUN_. 
+AT0_The AJ0_boneless NN1_turkey NN1_crown VBZ_is VVN_packaged PRP-AVP_in NN0_4kg NN2_sections CJC_and VM0_can VBI_be NN1_machine VVD-VVN_sliced PUN_. 
+NN1_Coffee NN1_creamer NN1_COFFEE NP0_Rich VBZ_is AT0_a AJ0_frozen NN1_creamer DTQ_which VM0_can VBI_be VVN_used PRP_for VVG-AJ0_whitening NN1_coffee CJC_or VVG-AJ0_creaming NN2_sauces PUN_. 
+PNP_It VBZ_is CJC_and VBZ_is AJ0_available PRP_in NN2_portions NN0_500g NN2_servings CJC_and NN0_1kg NN2_cartons PUN_. 
+AJ0_French NP0_ROLAND NP0_Monterrat AJ0_traditional AJ0-NN1_French VBZ_is VBG_being VVN_distributed PRP_in AT0_the NP0_UK PRP_through NP0_Leatham NP0_'s NN1_Larder PUN_. 
+AT0_The NN1_range VVZ_includes NN0_salmon PRP_as AV0_more AJ0_unusual NN2_varieties PRF_of PRP_with NN2_ingredients PRP_such NN1_pistachio NN2_morels NN1_shrimp CJC_or NN2_hazelnuts PUN_. 
+VVG-AJ0_Following NN1_material VBZ_is PRP_from AT0_a NN1_magazine NN1-VVB_insert NN1_Chef NP0_SEPTEMBER CRD_1991 NN1_MUSTARD AJ0_Hot NN1_stuff AJ0_Welsh NN1_wizardry NP0_Bernard NP0-NN1_Loiseau DTQ_WHAT VVZ_constitutes NN1_value PRP_for NN1_money CJS_when PNP_it VVZ_comes PRP_to NN1_food CJC_and VVB-NN1_drink PUN_? 
+DT0_This VBZ_is PNI_something CJT_that AT0_the AJ0_British NN1_harp PRP_on DT0_that AV0_incessantly VVG_using PNP_it PRP-CJS_as AT0_the AJ0_main NN1_reason PRP_for VVG_choosing CRD_one NN1_restaurant PRP_over DT0_another CJC_but VDB_do PNP_we AV0_really VVI_understand DTQ_what PNP_it VVZ_means CJC_and VBB_are PNP_we AJ0_consistent PRP_in DPS_our NN1_assessment PRF_of AJ0_perceived NN1_value PUN_? 
+PRP_During AT0_a NN1_recession AT0_the NN1_public VM0_can VM0_not VBI_be VVN_blamed PRP_for VVG_watching NN2_pennies PRP_in AT0_the NN1_hope CJT_that NN2_pounds VM0_wo VM0_n't VVI_disappear AV0_quite AV0_so AV0_quickly CJC_but DT0_most NN2_Britons VVB_eat TO0_to VVI_live PRP_rather VVG-AJ0_living TO0_to VVI_eat AVQ_no AT0_the NN1_economy VBZ_is VDG_doing PUN_. 
+AV0_So VHZ_has AT0_the NN1_boom VVD-VVN_brought AVP_about AJ0_good NN1_value PRP_in NN2_restaurants CJC_and CJS_if AV0_so VBZ_is DT0_this VVD-VVN_recognised PRP_by AT0_the NN1-AJ0_public PUN_? 
+PRP_On AT0_the CRD_one NN1_hand AT0_the NN1_multiplication PRF_of AJ0_good NN2_brasseries PRP_in AJ0_recent NN2_months VHZ_has VBN_been AT0_a NN1_breath PRF_of AJ0_fresh NN1_air PRP_to AT0_the NN1_restaurant NN1_industry CJC_and AT0_the NN1_public VHZ_has VVN_shown DPS_its NN1_appreciation PRP_by VVG_packing PNP_them AV0-AJ0_full AT0_every NN1_night PUN_. 
+CJC_But AV0_unfortunately EX0_there VBB_are AV0_also NN2_restaurants VVG_cashing AVP_in PRP_on AT0_the NN1_brasserie NN1_bandwagon PRP_by VVG_serving AJ0_cheap AJ0_cheerful CJC_and AV0_desperately AJ0_trendy NN1_bistro NN1_food PRP_in NN1_designer NN2_surroundings CJC_and VVG_charging AT0_the NN1_earth PRP_for PNP_it PUN_. 
+AVQ_How DT0_many NN2_customers VVB_realise CJT_that AT0_the NN1_food NN1_cost PRF_of CRD_one NN1_portion PRF_of NN1_pasta PRP_with AJ0_olive NN1_oil CJC_and NN2_tomatoes VBZ_is AV0-AJ0_only AV0_about NN0_25p PUN_? 
+PNP_It VBD_was XX0_not AJ0_unusual PRP_in AV0_more AJ0_buoyant NN2_times TO0_to VVI_see NN2_dishes PRP_like DT0_this PRP_on NN2_menus PRP_at PUN_. 
+CJC_But NN2_times VHB_have VVN_changed CJC_and NN2_chefs VM0_may XX0_not VBI_be AJ0_able TO0_to VVI_get AV0_away PRP_with VVG_overcharging PRP_for AJ0_simple NN2_dishes VVG_using AV0_relatively AJ0_inexpensive NN2_ingredients PRP_for AV0_much AJC_longer CJC_or AV0_perhaps PNP_they VM0_will PUN_. 
+CJC_And DTQ_what PRP_about NN1_drink PUN_? 
+NN2_Generations PRF_of AJ0_British NN0_people VHB_have VBN_been AV0_happily VVG_walking PRP_into NN2_pubs PRP_for NN2_years CJC_and VVG-NN1_drinking NN1_alcohol CJT_that PNP_they VM0_could VVI_buy PRP_for AT0_a NN1_fraction PRF_of AT0_the NN1_price PRP_in AT0_a NN1_supermarket CJC_or PUN_. 
+AV0_Perhaps PNP_we PNP_'re XX0_not AV0_so VVN-AJ0_bothered PRP_about NN1_value PRP_for NN1_money PRP_after DT0_all PUN_. 
+CJC_Or AV0_at XX0_not AV0_always PUN_. 
+NN1_NEWS AJ0_Head NN1_chef PRP_at NP0_Ken UNC_Lo UNC_'s NN2_Memories PRF_of NP0_China NN1_restaurant PRP_in NP0_London UNC_Kam NP0_Po VBZ_is VVG_visiting AT0_the NP0_St NP0_Martin NP0_'s NN1_Hotel NN2_Isles PRF_of NP0_Scilly PRP_from NP0_September PRP_for AT0_a AJ0_special AJ0_Chinese NN1_gourmet NN1_weekend PUN_. 
+NP0-NN1_Po VM0_will VVI_prepare NN2_banquets PRP-AVP_on AV0_both NP0_Saturday CJC_and NP0_Sunday CJC_and VM0_will VVI_demonstrate NN1_vegetable VVG-NN1_chopping VVG-NN1_drawing NN2-VVZ_noodles PRP_by NN1_hand CJC_and VVB_give AV0_away AT0_the NN2_ingredients PRF_of AJ0_crispy NN1_seaweed PUN_. 
+AT0_The NN1_gourmet NN1_weekend PRP_including NN1_helicopter NN1_flight PRP_from NP0_Penzance CJC_and NN1_break VVZ_costs PUN_. 
+NP0_Patrick NP0_Emmanuel AJ0_head NN1_chef PRP_at AT0_the NN1_Half NN1-VVB_Moon NN1_Bay NN1_Hotel NP0_Antigua VM0_will VBI_be NN1_guest NN1_chef PRP_at AT0_the PRF_of NP0_London NP0_'s NP0_James NP0_' NN1_Court NN1_Hotel PRP_from NP0_September CJS_as NN1_winner PRF_of AT0_a AJ0_culinary NN1_competition VVN_organised PRP_by AT0_the AV0_recently VVN_formed NP0_Antigua NN2_Chefs NN2_' NN1_Association PUN_. 
+PNP_He CJC_and CRD_two AJ0_other NN2_chefs PRP_from NP0_Trinidad CJC_and NP0_St NP0_Lucia VM0_will VBI_be VVG_cooking PRP_at AT0_the NN1_hotel PRP_during AJ0_Caribbean NN1_Food NN1_Festival PUN_. 
+NN2_Dishes PRP_on NN1_offer VM0_will VVI_include CRD_one PRF_of NP0_Emmanuel NP0_'s NN2_specialities AJ0-NN1_red CJC_and NN1-AJ0_silver NN1_talipia NN0_fish CJC_and AJ0_other AJ0_Caribbean NN0_fish NN0_fruit CJC_and NN2_vegetables PUN_. 
+AJ0_old NP0_Geoffrey NN1_Bone NP0_de NN1_partie PRP_at AT0_the NP0_London NP0_Hilton PRP_on NP0_Park NP0_Lane VHZ_has VVN_won AT0_the NP0_Hilton NP0_Young NN1_Chef PRF_of AT0_the NN1_Year NN1_competition PUN_. 
+DPS_His AJ0_British NN1_menu PRF_of AJ0_Welsh NP0_Cheddar AJ0_English NN1_gammon NN1_platter CJC_and AJ0_baked NN0_fruit PRP_in NN1_puff NN1_pastry PRP_with NN1_caramel NN1_sauce VBD_was VVN_judged TO0_to VBI_be AT0_the AJS_best NN1_overall PRF_of AT0_the CRD_six NN2_menus VVN_prepared PRP_by NN2_finalists PRP_in NP0_London ORD_last NN1_month PUN_. 
+NP0_David NN1-NP0_Land PRF_of AT0_the NP0_Bristol NP0_Hilton VVD_won AT0_the NN1_prize PRP_for AJS_best NN1_starter PRP_with DPS_his AJ0_Cornish NN1_lobster VVN-VVD_poached PRP-AVP_in DPS_its NN1_shell VVN-VVD_infused PRP_with NN1_dill NN1_lemon CJC_and NN1_thyme CJC_and VVN-VVD_topped PRP_with AT0_a AJ0_soft NN1_cheese NN1_sauce PUN_. 
+CJS_While NN1-NP0_Kirdoff PRF_of AT0_the NP0_Langham NP0_Hilton PRP_in NP0_London VVD_won AT0_the NN1_prize PRP_for AT0_the AJS_best AJ0_roast NN1_leg PRF_of NP0_Norfolk NN1-VVG_suckling NN1_pig PRP_with NN1_potato CJC_and NN1_leek CJC_and NP0_Elizabeth NN1-NP0_Drudge PRF_of AT0_the NP0_Hilton AJ0_National PRP_in NP0_Portsmouth VVD_won AT0_the AJ0-NN1_top NN1_dessert NN1_prize PRP_for DPS_her AJ0_hot NP0_Banbury NN1_apple NN1_pie PUN_. 
+DT0_All AT0_the AJ0_winning NN2_dishes VBB_are TO0_to VBI_be VVN_featured PRP_in AT0_a AJ0_British NN1_menu PRP_for NN2_restaurants PRP_in AT0_the NP0_Hilton NN1_group DTQ_which VM0_will VBI_be AJ0_available PRP_in AT0_the NN1_autumn PUN_. 
+VHB_have VVN_achieved DPS_our CRD_two NN2_objectives TO0_to VVI_encourage AJ0_young NN2_chefs TO0_to VVI_look AVP_out PRP_for CJC_and VVB-NN1_use AJ0_British NN2_ingredients PRP_in DPS_their NN2_recipes CJC_and AV0_also TO0_to VVI_find AT0_a AJ0_delicious NN1_selection PRF_of NN2_dishes TO0_to VVI_use PRP_in AT0_the AJ0_British NN1_menu NN1_promotion AV0_later DT0_this NN1_year PUN_. 
+VVD_said NP0_Mary NP0_Curnock NP0_Cook PUN_. 
+NP0_UK NN1_marketing NN1_director PRF_of NN1_Food PRP_from NP0_Britain PUN_. 
+NN1_Food PRP_from NP0_Britain AT0_the NN1_Meat CJC_and NN0_Livestock NN1_Commission NN1_Milk NN1_Marketing NN1_Board CJC_and NN1-VVB_Express NN1_Foodservice VVD_sponsored AT0_the NN1_competition PUN_. 
+AT0_A NN1_celebration PRF_of AT0_the NN1_food CJC_and NN2_wines PRF_of NP0_Spain VM0_will VVI_take NN1_place PRP_at AT0_the NN1_Brasserie PRP_on AT0_the NN1_Park PRP_at AT0_The NP0_Park NP0_Lane NN1_Hotel NP0_Piccadilly NP0_London PRP_between CRD_16 CJC_and CRD_29 NP0_September PUN_. 
+NN2_Dishes PRP_on NN1_offer VM0_will VVI_include NN2_alcachofas NN1_mimosa NN2_artichokes PRP_with NN1_prawn NN1_egg CJC_and VVB-NN1_mayonnaise PUN_; NN1_sopa NP0_de NN2_mariscos NN0_fish NN1_soup PRP_with NN2_clams CJC_and NN2_mussels PUN_; NN1_lechon NN1_asado AJ0_roast NN1_baby NN1_pig PRP_with AJ0_baked NN2_apples PUN_; CJC_and NN1_fricase NP0_de NN1-VVB_perdiz NN0_partridge VVN-VVD_cooked PRP_with NN2_mushrooms CJC_and NN1_brandy PUN_. 
+AT0_A NN1_dinner AJ0_inclusive PRF_of NN1_sherry PRP_on NN1_arrival NN1_coffee CJC_and NN2_liqueurs VM0_will VBI_be PUN_. 
+NN1_Lunch VBZ_is PUN_. 
+NP0_Marjan NP0-NN1_Lesnik NN1_maitre NN1_chef UNC_des NN2_cuisines PRP_at NP0_Claridge NP0_'s NP0_London VM0_will VBI_be NN1_guest NN1_chef PRP_at AT0_the NP0-NN1_Regency NN1_Club PRP_in NP0_Los NP0_Angeles PRP_from NP0_September PUN_. 
+PNP_He VM0_will VBI_be VVG_reproducing DT0_some PRF_of AT0_the AJ0_classic AJ0-NN1_English NN2_recipes PRP_from DPS_his NP0_Claridge NP0_'s NN2_menus PRP_including NN0_grouse NN1_pie AJS_best NN1-VVB_end PRF_of NN1_lamb PRP_with AJ0-NN1_mint CJC_and NN1_summer NN1_pudding PUN_. 
+AT0_A AJ0_regular NN1_guest NN1_chef PRP_at AT0_the NP0_Provence NN1_restaurant PRP_in NP0_Lymington NP0_Hampshire VBZ_is NP0_Christina NP0-NN1_Novelli PRP_aged NN1_daughter PRF_of AJ0_head NN1_chef NP0_Jean NP0_Christophe NP0-NN1_Novelli PUN_. 
+PNP_She VBZ_is VVN_pictured PRP_with UNC_sous NN1_chef NP0_Mark NP0_Jordan VVG_whipping AVP_up AT0_a NN1_storm PRP_in AT0_the NN1_kitchen PUN_. 
+AT0_The NN1-NP0_Park NN1_Room NN1_restaurant PRF_of AT0_the NP0_Hyde NN1_Park NN1_Hotel VHZ_has VBN_been VVN_voted AV0_Best AJ0_Italian NN1_Restaurant PRP_in NP0_Britain PRP_by AT0_the NP0-NN1_Instituto NP0_Italiano NP0_Spumante NP0_Classico AT0_a NN1_group PRF_of NP0_Italy NP0_'s AJ0_leading NN1_wine NN2_companies PUN_. 
+NP0-NN1_Adriano NP0-NN1_Paganini VVD_became AJ0_head NN1_chef PRP_at AT0_the NN1-NP0_Park NN1_Room PRP-CJS_after NN1-VVG_training PRP_in NP0_Italy CJC_and NP0_France PRP_with NN2_spells PRP_at AT0_the NP0-NN1_Michelin VVD_starred NP0_Antica NP0_Osteria UNC_del NP0_Ponte PRP_in NP0_Milan CJC_and PRP_under NP0_Paul NP0-NN1_Bocuse PRP_in NP0_France PUN_. 
+NP0_Paganini VVZ_specialises PRP_in NN1_cucina NP0-NN1_Mediterranea AT0_a AJ0_fresh NN1_cuisine CJT_that VVZ_features AJ0_olive NN1_oil CJC_and NN2_sauces PRP_instead NN1_butter CJC_and NN1_cream PUN_; CJC_and DTQ_which VVZ_favours NN0_fish CJC_and NN1_vegetable NN2_dishes PRP_over AJ0_red NN2_meats PUN_. 
+NP0_Tony NP0_May PRF_of NP0_San NP0_Domenico NP0_New NP0_York NP0-NN1_Mauro NN1-NP0_Vincenti PRF_of NP0_Rex PRP_in NP0_Los NP0_Angeles CJC_and NP0_Pasquale NN1-NP0_Lavorato PRF_of NP0_Neuer NP0_Kaferkasten PRF_of NP0_Neu NP0_Isenburg NP0_Germany AV0_also VVN-VVD_received NN2_awards PRP_from AT0_the AJ0-NN1_Italian NN1_institute PUN_. 
+NN1_Bistro PRP_in NP0_Paston NP0_Place NP0_Brighton VHZ_has VVN_won AT0_the NN1-NP0_Perrier AJS_Best NN1_Restaurant PRF_of AT0_the NN1_Year NN1_Award PUN_. 
+NN2_Judges VVD_praised NP0_Langan NP0_'s NN1_Bistro PRP_for AT0_a AJ0_high NN1_standard PRF_of NN1-VVG_cooking AT0_a AJ0_wide NN1_selection PRF_of AJ0_fresh NN2_vegetables CJC_and DPS_its NN2_puddings PUN_. 
+NP0-NN1_Perrier VVD_invited NN2_consumers TO0_to VVI_nominate AT0_the NN1_restaurant PNP_they VVD_believed VVD_deserved AT0_the NN1_title PRF_of AJS_Best NN1_Restaurant PRF_of AT0_the NN1_Year PRP-AVP_in AJ0-AV0_late CRD_1990 PUN_. 
+NP0_Paris NN1_House AT0_the NN1_horse AV0_recently VVD-VVN_won AT0_the NP0_Newbury NN0_Sales VVB-NN1_Sprint NN1_Trophy CJC_and NN1-AJ0_prize NN1_money PRF_of PRP_for DPS_his NN1_owner PUN_. 
+NP0_Paris NN1_House AT0_the NN1_restaurant PRP_in NP0_Woburn NP0_Bedfordshire VHZ_has VBN_been AV0_rather AJ0_slack PRP_at NN2_lunchtimes AV0_lately AV0_so NN1_owner PRF_of DT0_both NP0_Peter NP0_Chandler VHZ_has VBN_been AJ0_free TO0_to VVI_visit AT0_the NN2_races CJC_and VVB_witness DPS_his NN1_horse NN1_'s NN1_success PUN_. 
+VVB_know DT0_this VBZ_is AT0_a NN1_bit PRF_of AT0_an AJ0_unusual NN1_hobby PRP_for AT0_a NN1_restaurateur CJC_but PNP_it PNP_'s AT0_a AJ0_little NN1_dream VVB_come AJ0_true PRP_for PNP_me CJC_and PNP_I PNP_'m AJ0_thrilled PRP_to NN2_bits PNP_he VVZ_says PUN_. 
+NP0_Paris NN1_House AT0_the NN1_horse VBZ_is CRD_two NN2_years AJ0_old CJC_and VVN_trained PRP_by NP0_Jack NP0_Berry PRP_at NP0-NN1_Cockeram NP0_Lancashire NP0_Chandler VVD_cautioned AJ0_fellow NN2_chefs PRP_against VVG_betting PRP_on NP0_Paris NN1_House PRP_in AT0_the NN1_future PRP_for NN1_fear CJT_that PNP_he VM0_could VVI_lose AT0_a NN1_lot PRF_of NN2_friends PUN_! 
+NP0_Paul NP0_Gayler NN1-AJ0_executive NN1_chef PRP_at AT0_the NP0-NN1_Rosewood NN1_Group NN1_'s NN1-NP0_Lanesborough NN1_Hotel NP0_Hyde NN1_Park NN1_Corner NP0_London AJ0_due TO0_to VVI_open PRP-AVP_in AJ0_early NP0_December VVD_spent CRD_three NN2_weeks PRP_in NP0_Dallas ORD_last NN1_month VVG_researching AJ0_other NN2_hotels PRP_in AT0_the NN1_group PUN_. 
+PRP_During DPS_his NN1_stay PNP_he VVD_cooked AT0_a NN1_gala NN1_dinner PRP_for CRD_150 PRP_at AT0_the NN1_Mansion PRP_on NN1_Turtle NN1_Creek PRP_with AJ0-NN1_executive NN1_chef NP0_Dean VVG_Fearing PUN_. 
+AT0_The NN1_dinner VVD_included AT0_a NN1_mosaic PRF_of NN1_leek CJC_and NN0_shellfish PRP_with AT0_a NN1_tomato NN1-VVB_verjuice PUN_; AT0_a PRF_of NN2_mushrooms CJC_and NN1_pearl NN1_barley PUN_; NN0_salmon PRP_with NN1_cucumber CJC_and NN1_basil NN1_butter PUN_; AJ0_roast NN1_duckling NN1_breast PRP_with NN1_clover NN1_honey CJC_and AT0_a NN1-AJ0_saffron NN1_apple NN1-VVB_compote CJC_and AJ0_iced NN1-NP0_Drambuie NN1-VVB_parfait PRP_with AJ0_sour NN2_cherries PUN_. 
+NP0_Norbert NP0_Stening CJC_and NP0_Andreas NP0_Oehmiga PRP_from AT0_the NN1-NP0_Park NN1_Hotel NP0-NN1_Seigen NP0_Germany VVD_joined AT0_the NN1_kitchen NN1_brigade PRP_at AT0_the NN1_Holiday NN1_Inn NP0_Leeds AV0_recently TO0_to VVI_celebrate CRD_25 NN2_years PRF_of DPS_their NN1_town VBG_being VVN_twinned PRP_with NP0_Morley PRP_near NP0_Leeds PUN_. 
+PRP_During DPS_their NN1-VVB_stay AT0_the NN2_chefs VVD_introduced NP0_Leeds NN2_gastronomes PRP_to DT0_such NN2_delights CJS_as NN1_doffeinsoabbe AT0_a NN1_potato NN1_broth PRP_with AJ0_sliced NN1_sausage CJC_and VVB-NN1_scheankdong AJ0_prime NN1_ham VVN-VVD_served PRP_on AJ0_black NN1_bread PUN_. 
+AV0_Later PRP_in AT0_the NN1_year NN2_chefs PRP_from AT0_the NN1_Holiday NN1_Inn VM0_will VVI_visit NN1-NP0_Seigen TO0_to VVI_introduce AJ0_British AJ0_national CJC_and AJ0_regional NN2_dishes PRP_to AT0_the NN1-NP0_Park NN1_Hotel PUN_. 
+NP0_Northampton NN1_College AV0_recently VVN-VVD_sent CRD_seven PRF_of DPS_its NN2_students PRP_on AT0_a NN1_study NN1_programme PRP_to NP0_Piedmont NP0_Italy PUN_. 
+AT0_The NN2_students NP0_John AJ0_Frail NP0_Michael NP0_Gayton NP0_Jason NP0_Keeble NP0_Dahlia NP0_Simpson NP0_Penny NP0_Mitchell NP0_Lisa NP0_Cotterill CJC_and NP0_Melanie NP0_Brown PNQ_who VBD_were VVN_accompanied PRP_by CRD_two NP0_Northampton NN1_College NN2_lecturers VVD_cooked AT0_an AJ0_English NN1_meal PRF_of NN1_beef PRP_in NN1_beer PRP_for AJ0-NN1_Italian NN1_catering NN2_students CJC_and AJ0_local NN2_dignitaries PRP_during DPS_their NN1_stay PUN_. 
+NN2_Students PRP_from VM0_will VBI_be VVG_returning AT0_the NN1_visit PUN_. 
+NP0_Claudio NP0_Notarbartolo VVD_beat CRD_three AJ0_other AJ0_national NN2_finalists TO0_to VVI_take AT0_the NN1-NP0_Masterchef CRD_1991 NN1-VVB_title VVN_sponsored PRP_by AJ0_British NN1_Meat NN1-VVG_Catering NN1_Service CJC_and NP0-NN1_Dudson NN2_Brothers PUN_. 
+NP0-NN1_Notarbartolo VVD_cooked NN1_lamb NN2_cutlets PRP_with NN2_pimentos AJ0_wild NN2_mushrooms CJC_and AT0_a AJ0_sharp NN1_shallot NN1_gravy TO0_to VVI_take ORD_first NN1_prize PRF_of AT0_a NN1-NP0_Dudson NN1_china NN1_dinner NN1_service PUN_. 
+PNP_He VBZ_is AV0_currently VVG_working PRP_at AT0_the CRD_Three NN2_Lions NN1_restaurant NP0_Stuckton NP0_Dorset PUN_. 
+NN2_Bookings VBB_are VVG_coming PRP_into AT0_the NN1_Academy PRF_of AJ0_Culinary NN2_Arts PRP_for DPS_its NN1_course DTQ_which VVB_begin DT0_this NN1_month PUN_. 
+NN2_chefs PNQ_who VHB_have VVN_signed AVP-PRP_on VBB_are VVG_leading AT0_a AJ0_new AJ0_golden NN1_era PRF_of AJ0_culinary NN1_craft VVD_said NP0_Peter NP0_Taylor AJ0_associate NN1_director PRF_of AT0_the NN1_academy PUN_. 
+NP0_Paul NP0_Gayler PRP_with NP0_Dean VVG_Fearing PRP_during DPS_his NN1_trip PRP_to NP0_Dallas NN1_COLUMN PRP_by NP0_Kate NP0_Smith NP0_Kate NP0_Smith AJ0_joint NN1_proprietor PRF_of AT0_the NN1_Beetle CJC_and VVB-NN1_Wedge NN1_Inn PRP_with DPS_her NN1_husband NP0_Richard VVZ_tries TO0_to VVI_define AT0_the NN2_skills PRF_of NN1_restaurant NN1_management PRP_as DT0_those CJC_or AT0_the NN1_chef NN2_Chefs VBB_are AV0_very AJ0_easy TO0_to VVI_identify CJS_because PNP_they AV0_actually VVB_make AT0_a NN1_statement PRP_via DPS_their NN1_food PUN_. 
+VVG-NN1_Cooking NN1_ability VBZ_is AJ0_tangible AV0_therefore NN1_attention VM0_can VBI_be VVN_focused PRP_on NN2_chefs CJS_as NN2_personalities CJC_and DPS_their NN1_food VVZ_represents AJ0_clear NN2_statements PRF_of DPS_their NN2_feelings CJC_and NN1_professionalism PUN_. 
+PRP_In NN1_contrast AT0_the NN1_restaurant NN1_manager VBZ_is AV0_far AV0_less AJ0_easy TO0_to VVI_define PUN_. 
+PNP_I VM0_would VVI_argue CJT_that PNP_they VBB_are AV0_as AJ0_charismatic CJS_as NN2_chefs CJC_and AV0_yet DPS_their NN2_skills VBB_are AV0_less AJ0_tangible CJC_and AV0_harder TO0_to VVI_gauge PUN_. 
+AV0_Perhaps DPS_their NN1_essence VBZ_is AV0_more AJ0_difficult TO0_to VVI_grasp CJS_because PNP_they VBB_are VVN_perceived PRP_by NN2_customers PRP-AVP_in AV0_entirely AJ0_different NN2_roles PRP_depending AT0_the NN1_customer AV0_for PRP_as NN1_friend NN1_wine NN1_expert CJC_or AJ0_simple NN1_emissary PRF_of AT0_the NN1_kitchen PUN_. 
+NN1_Tact CJC_and NN1_diplomacy NN1_knowledge CJC_and NN1_friendship VVB_define AT0_the AJ0_great NN1_restaurant NN2_managers AV0_just PRP-CJS_as AT0_a AJ0_great NN1_chef VBZ_is VVN_defined PRP_by DPS_his NN2_skills PRP_in VVG_producing AJ0_superb NN1_food PUN_. 
+AT0_The NN1_kitchen NN1_'s NN1_perception PRF_of AT0_the NN1_restaurant NN1_manager VBZ_is AV0_also VVN-AJ0_fragmented PRP_in DT0_that AT0_the NN1_kitchen VVZ_expects DT0-CJT_that NN1_manager TO0_to VVI_feed AVP_back NN1_customer NN1_response PUN_. 
+AV0_So DT0_many NN2_chefs VVB_feel DPS_their NN1_restaurant NN2_managers VVB_fail TO0_to VDI_do DT0_this AV0_adequately PUN_. 
+AV0_Similarly AT0_a AJ0_good NN1_manager VM0_can VVI_give AT0_the NN1_customer AT0_an NN1_insight CJC_and NN1_appreciation PRF_of AT0_the NN1_chef NN1_'s NN2_ideas CJC_and NN2_foods PUN_. 
+DT0_Many NN2_guests VVB-NN1_visit NN2_restaurants PRP_with AJ0_preconceived NN2_ideas PRF_of DTQ_what PNP_they VM0_should VVI_eat PUN_. 
+AV0_Therefore AT0_the NN1_restaurant NN1_manager CJC_and AJ0_other NN0_staff VM0_must VVI_use DPS_their NN1_skill TO0_to VVI_talk AV0_enthusiastically CJC_and AV0_intelligently PRP_about AT0_the NN1_menu CJS_so NN2_customers VM0_will VVI_appreciate DTQ_what AT0_the NN1_chef VBZ_is VVG-AJ0_producing CJC_and VVB_dare TO0_to VBI_be AJ0_adventurous PUN_. 
+AT0_The NN1_restaurant NN1_manager VM0_can VVI_gain AJ0_maximum NN1_exposure PRP_for AT0_the NN1_chef CJC_and VVB_enhance NN2_customers NN2_' NN1_enjoyment PRF_of AT0_the NN1_food PUN_. 
+PRP_On NN1-AJ0_return NN2_visits PNP_they VM0_will VVI_take NN1_advice AV0_readily CJC_and VVB_gain AJC_better NN1_knowledge PRF_of AT0_the NN1_kitchen PUN_. 
+AT0_The NN1_wine NN1_cellar VVZ_presents AT0_a AJ0_similar NN1_opportunity PUN_. 
+AT0_A AJ0_good NN1_sommelier CJC_or NN1_restaurant NN1_manager VM0_can VVI_persuade AT0_the NN1_customer TO0_to VVI_choose AT0_a AJ0_super NN1_bottle PRF_of NN1_wine DTQ_which VVZ_offers AJ0_marvellous NN1_value CJC_and NN2-VVZ_drinks AV0_perfectly CJS_rather AV0_just AT0_a AJ0_grand NN1_name PRP_in AT0_a AJ0_superlative NN1_vintage DTQ_which AV0_inevitably VM0_will VHI_have AT0_a NN1_premium VVN_attached PRP_to PNP_it PUN_. 
+AT0_The NN1_restaurant NN1_manager VM0_should AV0_also VVI_anticipate NN2_problems PRP_in AT0_the NN1_kitchen CJC_or NN1_front PRF_of NN1_house CJC_and VVB_prevent DT0_any VVG_getting AVP_through PRP_to AT0_the NN1_customer PUN_. 
+AT0_The NN1_ability TO0_to VVI_produce NN2_flowers PRP_at AT0_the NN1_drop PRF_of AT0_a NN1_hat CJC_or AT0_a NN1_cake TO0_to VVI_celebrate AT0_a NN1_customer NN1_'s NN1_birthday VM0_should DT0_all VBI_be PRP_at DPS_his CJC_or DPS_her NN2_fingertips PUN_. 
+VVG_Dealing PRP_with AT0_the NN1_guest PNQ_who VBZ_is PRP_in AT0_a AJ0_delicate NN1_business NN1_situation CJC_or AV0_just AT0_a AV0_very AJ0_bad NN1_mood AV0_all VVZ_goes PRP_with AT0_the NN1_territory PUN_. 
+AT0_The NP0_Culinaire NP0_Meilleur NP0_Ouvrier NP0_de NP0_Grande NP0_Bretagne PRP_for NN1_service VBZ_is AJ0-VVG_exacting PRP_in DPS_its AJ0_technical NN2_requirements PUN_. 
+DT0_These VBB_are AT0_the AJ0_only NN2_tangibles PRP_upon DTQ_which AT0_an NN1_assessment PRF_of DT0_such AT0_a NN1_profession VM0_can VBI_be VVN_made PUN_. 
+AV0_Unfortunately AT0_the AV0_equally AJ0_essential CJC_but AV0_less AJ0_tangible NN2_skills DTQ_which VVB_make AT0_the NN1_difference PRP_between AT0_the AJ0_ordinary CJC_and AJ0_superlative NN1_restaurant NN1_manager VM0_can AV0_hardly VBI_be VVN_judged PRP_in AT0_the AJ0_short NN1_period PRF_of AT0_a NN1_competition PUN_. 
+NN1-VVB_PROFILE AJ0_WELSH NN1_WIZARDRY NN1_food NN1_lover NP0_Wendy NP0_Vaughan VHZ_has AV0_finally VVB_become AT0_a AJ0_noted AJ0_professional NN1_cook PRP_in NN1_North NP0_Wales PUN_. 
+NP0_Lorna NP0-NN1_Pettipher VVZ-NN2_reports ORD_first NN1_thing PNP_I VVD_learned PRP_about NN1_nutrition PRP_as AT0_a NN1_nurse VBD_was DT0_that AJ0_white NN1_food NN0_fish CJC_and NN2_potatoes AV0_for PRP_on AJ0_white NN2_plates PRP_with AT0_a AJ0_white NN1_parsley NN1_sauce VBZ_is VVG_unappetising AV0_purely PRP_because DPS_its AJ0_boring NN1_appearance PUN_. 
+PNP_It PNP_'s AJ0_good TO0_to VVI_gladden AT0_the NN1_eye PRP_with AT0_a NN1_dish AJ0_full PRF_of NN1_colour PUN_. 
+NP0_Wendy NP0_Vaughan VVD_began VVG_cooking AV0_professionally CRD_six NN2_years AV0_ago PRP_at AT0_the AJ0_Old NN1_Rectory PRP_in NP0_Llansanfraid NN1_North NP0_Wales AT0_the NN1_family AV0_home PNP_she VVD_converted PRP_to AT0_a AJ0_small NN1_hotel PRP_with DPS_her NN1_husband NP0_Michael AVQ-CJS_when PNP_he VVD_sold DPS_his NN1_motor NN2_parts NN1_company PUN_. 
+PNP_They VVD_answered AT0_an NN1_advertisement TO0_to VVI_cook NN2_lunches PRP_for AJ0-VVG_visiting NN2_parties PRF_of NN2_Americans PRP_to NN1_North NP0_Wales CJC_and DT0_these VVN_developed PRP_into NN1_dinner NN1_business AV0_too PUN_. 
+CJS_When PNP_they VVD_joined NP0_Wolsey NN2-VVZ_Lodges AT0_a NN1_consortium PRF_of AJ0_private NN2_houses VVG_offering AJ0_overnight NN1_accommodation DPS_their NN1_transformation PRP_to NN2_hoteliers VHD_had VVN_begun PUN_. 
+PRP_On AT0_the NN1_catering NN1_side NP0_Wendy NP0_Vaughan VBZ_is AV0_completely PUN_. 
+PNP_She VVD_dreamed PRF_of VVG_becoming AT0_a NN1_chef PRP_at NN1_school CJC_but DPS_her AJ0_domestic NN1_science NN1_teacher VVD_hated PNP_her CJC_and VVD_told PNP_her CJT_that PNP_she VM0_would AV0_never VBI_be AT0_a NN1_cook PUN_. 
+AV0_So NP0_Vaughan VVD_contented PNX_herself PRP_with NN1_training PRP_as AT0_a NN1_nurse CJC_and AV0_avidly VVG_reading NN1_food NN2_books PRP_in DPS_her AJ0_spare NN1_time PUN_. 
+CJC_But AT0_the AJ0-NN1_evil NN2_ravages PRF_of AT0_the AJ0_British AJ0_educational NN1_system PRP_at DPS_its AV0_worst VBD_were XX0_not AV0_enough TO0_to VVI_keep PNP_her PRP_away DPS_her ORD_first NN1-VVB_love AV0_forever CJC_and PNP_she VVD_started TO0_to VVI_cook PRP_with NN1_simplicity CJC_and AT0_a AJ0_straightforward NN1_style DTQ_which PNP_she VHZ_has VVN_maintained PUN_. 
+VVB_derive DPS_my NN1_enjoyment PRF_of NN1_food PRP_from DPS_its NN1_colour NN1_texture CJC_and AT0_the NN1_combination PRP_on AT0_the NN1_plate CJS-AVQ_when PNP_I VVB_eat PUN_; AV0_so DT0_these VBB_are AT0_the NN2_things CJT_that PNP_I VVB_concentrate AVP_on CJS_when VVG_cooking PRP_for NN2_customers PNP_she VVZ_explains PUN_. 
+VVB_feel AJ0_disadvantaged PRP-CJS_as AT0_a NN1_cook CJS_because PNP_I VVD_received AT0_no AJ0_formal NN1_training CJC_and VDD_did VDD_n't VVI_go PRP_to NN1_college PUN_. 
+CJS_When NN0_people VVB_write AJ0_nice NN2_things PRP_about DPS_my NN1_food PNP_it AV0_always VVZ_sounds CJS_like PNP_they VBB_are VVG_referring PRP_to PNI_someone AV0_else PUN_. 
+NP0_Wendy NP0_Vaughan PRP_at NN1_work PRP_in PNP_her NN1_North NP0_Wales NN1_kitchen AV0_Clockwise PRP_from AJ0-NN1_left NN1-VVB_roulade PRF_of NN1_guinea NN0_fowl VVN-VVD_stuffed PRP_with NN0_duck PRP_on AT0_a NN1_cranberry CJC_and NN1_lime NN1_sauce PUN_; NN1_courgette CJC_and AJ0_wild NN1_mushroom NN1_flan PUN_; VVD_marinated AJ0_fresh NN0_trout PRP_with NN1_melon CJC_and AJ0_red NN2_peppers CJC_But VVB_write AJ0_nice NN2_things PNP_they VDB_do PUN_. 
+AT0_The AJ0_Old NN1_Rectory VBZ_is NN1_County NN1_Restaurant PRF_of AT0_the NN1_Year PRP_for NP0_Gwynedd PRP_in DT0_this NN1_year NN1_'s AJ0_Good NN1_Food NN1-VVB_Guide CJC_and NP0_Vaughan NP0_'s NN1_fare PRP_on AT0_the NN1_menu VBZ_is VVN_described CJS-PRP_as VVG_displaying DT0_much NN1_skill PUN_. 
+DPS_Her NN1_taste PRP_for AJ0_light NN1_food VHZ_has VVN_increased PRP_with NN1_age CJC_and AV0_so PNP_she VVZ_cooks AT0_a NN1_lot PRP_with NN2_vegetables PNP_she AV0_also VVZ_likes PRP_for DPS_their AJ0_strong NN2_colours CJS_although NN2_supplies PRF_of AJ0_fresh NN1-VVB_produce VBB_are AV0_sometimes VVN_limited PRP_in NN1_North NP0_Wales PUN_. 
+PNP_They AV0_eventually VVB_reach PNP_her PRP_via AT0_the NN2_markets PRP_in NP0_Liverpool PUN_. 
+AT0_A NN1_starter PRF_of NN1_courgette CJC_and AJ0_wild NN1_mushroom NN1_flan VBZ_is VVN_made PRP_by VVG-NN1_cooking NN2_potatoes NN2_leeks CJC_and NN2_courgettes PRP_until AJ0_soft CJC_and AV0_then VVG_squeezing AT0_the NN1_puree AJ0_dry PUN_. 
+PNP_She VVZ_adds NN2_eggs NN1_cream CJC_or AT0_a AJ0_little CJC_and AJ0_wild NN2_mushrooms VVN_cooked PRP_with NN2_shallots PUN_. 
+AT0_The NN1_mix VBZ_is VVN-AJ0_baked PRP_for CRD_20 NN2_minutes PRP_in NN2_moulds CJC_and VVN-VVD_served PRP_with AT0_a NN1_vegetable NN1_cream NN1_sauce NN2-VVZ_lentils CJC_and NN2_mushrooms PUN_. 
+PNP_She AV0_sometimes VVZ_puts NN2_slices PRF_of AJ0_smoked NN1_guinea NN0_fowl PRP_around AT0_the NN1_edge TO0_to VVI_give AJ0_added NN1_texture PUN_. 
+NP0_Vaughan NP0_'s NN2_eyes VVB_light AVP_up CJS_when PNP_she VVZ_describes AT0_the AJ0_bright NN2_greens PRF_of DT0_this NN1_flan PRP_against AT0_the AJ0-NN1_buttery NN1_yellow PRF_of AT0_the NN1_sauce PUN_. 
+PNP_She AV0_also VVZ_becomes AV0_quite AJ0_animated CJS_when VVG_talking PRP_about AT0_the AJ0_excellent AJ0_local NN2_supplies PRF_of AJ0_fresh NN0_fish AJ0_available PRP_to PNP_her PUN_. 
+VVB_pay NN1_cash PRP_on NN1_delivery PRP_for NN0_fish DTQ_which AT0_the NN2_fishermen VVB_like CJS_so PNP_they AV0_always VVB_call PRP_on PNP_me ORD_first CJC_and PNP_we VVB_get AJ0_super NN0_turbot NN2_mussels NN2_scallops AJ0_sole CJC_and NN0_plaice AV0_here PUN_. 
+NN2_Residents PRP_at AT0_the AJ0_Old NN1_Rectory VVB_eat AT0_a NN1-AJ0_set NN1_dinner AT0_every NN1_evening PRP-AVP_around CRD_one AJ0_large AJ0_communal NN1_table PUN_. 
+AJ0_Outside NN2_diners VBB_are VVN_given AT0_a NN1_choice PRF_of NN0_fish CJC_or NN1_meat AJ0_main NN1_course CJS_when PNP_they VVB_book CJC_and VVB_sit PRP_at AJC_smaller NN2_tables PRP_around AT0_the NN1_dining NN1_room PUN_. 
+NP0_Vaughan VVZ-NN2_cooks PRP_for AT0_a NN1_maximum PRF_of CRD_16 NN0_people PRP_at DT0_any CRD_one NN1_meal PUN_. 
+PNI_Everything PRP_from AT0_the NN1_bread PRP_to AT0_the UNC_petit UNC_fours VBZ_is CJC_and PNP_she VHZ_has AT0_no NN1_help PRP_in AT0_the NN1_kitchen PUN_. 
+AT0_The AJ0_fixed NN1_menu NN1_idea VVD_came PRP_from NP0_Michael NP0_Vaughan PNQ_who AV0_finally VVD-VVN_convinced DPS_his AJ0_reluctant NN1_wife TO0_to VVI_stop VVG_offering AT0_a NN1_choice PRF_of CRD_four NN2_dishes PRP_at AT0_every NN1_dinner CRD_two NN2_years AV0_ago PUN_. 
+DT0_This NN1_system VM0_used TO0_to VVI_result PRP_in AT0_a AJ0_great NN1_deal PRF_of NN1_food NN1_wastage PUN_. 
+PRP_Due AT0_the AJ0_small NN1_size PRF_of AT0_the AJ0_Old NN1_Rectory CJC_and AT0_the AJ0_communal NN1_style PRF_of NN1_dining PRP_with NP0_Michael NP0_Vaughan VVG-NN1_serving AT0_a NN1_lot PRF_of NN1_feedback VVZ_comes PRP_from DPS_its NN2_diners CJC_and AT0_the AJ0_vast NN1_majority VDB_do XX0_not VVI_feel AT0_the NN1_need PRP_for AT0_a NN1_choice PRF_of NN2_dishes PRP_at NN1_dinner PUN_. 
+CRD_One NN1_advantage PRF_of AT0_the NN1_system VBZ_is CJT_that NP0_Vaughan VM0_can VVI_write DPS_her NN1_menu AV0-AJ0_late PRP_in AT0_the NN1_afternoon PRP_around AT0_the NN2_dishes CJT_that PNP_she VVZ_feels PRP_like VVG-NN1_cooking PRP_on AT0_the NN1_day PRP_with AT0_the AJS_best NN2_ingredients AJ0_available PRP_to PNP_her PUN_. 
+AT0_No NN1_dinner NN1_menu PRP_at AT0_the AJ0_old NN1_Rectory VBZ_is AV0_exactly AT0_the DT0_same AV0_twice AVP_over PUN_. 
+VBZ_is AT0_no AJ0-NN1_uniform NN1_pattern CJC_or NN1_discipline PRP_to DPS_my NN1_cooking PRP_in DT0_this NN1_sense PNP_she VVZ_says PUN_. 
+PNP_I VM0_would VM0_n't VVI_last CRD_five NN2_minutes PRP_in AT0_a NN1_kitchen PUN_! 
+NN0_Fish VBZ_is AV0_often VVN_served PRP_with NN2_spices CJC_and NN1_vegetable NN2_sauces TO0_to VVI_enhance NN1_colour CJC_and NN1-VVB_flavour PUN_. 
+AT0_The NN1_creation PRF_of DPS_her DT0_own PRP_with DTQ_which PNP_she VVZ_claims TO0_to VBI_be AV0_most AJ0_impressed VBZ_is AT0_a NN1_roulade PRF_of NN1_guinea NN0_fowl PRP_with NN2_limes CJC_and NN2_cranberries PUN_. 
+AT0_The NN1_roulade VBZ_is VVN_stuffed PRP_with AT0_a NN1_layer PRF_of AJ0_blanched NN1_spinach NN2-VVZ_leaves CJC_and AT0_a NN1_farce PRF_of NN1_chicken NN0_quail NN0_duck CJC_or NN1_pheasant PUN_; AV0_then VVD_marinated PRP-AVP_in AT0_a NN1_mix PRF_of NN1_honey NN1_oil NN1-VVB_coriander CJC_and NN1_lemon NN1_juice TO0_to VVI_flavour AT0_the NN1_meat PRP_before VVG_roasting PUN_. 
+AT0_The AJ0_remaining NN1_marinade VVZ_forms AT0_the NN1_base PRF_of AT0_a AJ0_red NN1_wine NN1_sauce PRP_with NN2_cranberries NN2_redcurrants CJC_and NN2_slices PRF_of NN1_lime PUN_. 
+NP0_Katie NP0_'s NN1_Game VVZ_supplies NN0_duck NN0_quail CJC_and NN1_guinea NN0_fowl DTQ_which PNP_it AV0_also NN2_bones PRP_for DPS_its NN2_customers PUN_. 
+NP0_Vaughan VVZ_loves TO0_to VVI_cook CJC_but VVZ_finds PNP_it AT0_a AJ0_punishing NN1_way TO0_to VVI_make AT0_a NN1-AJ0_living VVD_told PNP_me CJT_that EX0_there VBD_was AT0_no NN1_job AJC_harder CJS_than AJ0-NN1_nursing VVZ_recalls NP0_Vaughan PNP_they VBD_were AJ0-AV0_wrong PUN_! 
+PNP_We VVB_close AT0_the AJ0_Old NN1_Rectory AV0_just PRP_before NN1_Christmas AT0_every NN1_year CJC_and VDB_do VDB_n't PRP_until NP0_February PUN_. 
+DT0_That NN1_way PNP_we VM0_can VVI_keep VVG-AJ0_smiling PRP_at DPS_our NN2_customers PRP_during AT0_the NN1_rest PRF_of AT0_the NN1_year PUN_. 
+CJC_But PNP_it VBZ_is AJ0_difficult TO0_to VVI_cook PRP_for NN0_people AT0_every NN1_day AV0_especially CJS_when EX0_there VBB_are AT0_no AJ0_other NN1_kitchen NN0_staff TO0_to VVI_cover PUN_. 
+NP0_Vaughan NP0_'s NN1_dinner VVG-NN1_cooking AV0_usually VVZ_begins AV0_just CJS_as DPS_her CRD_two NN2_sons VVB-NN1_return PRP_from NN1_school PRP_in AT0_the NN1_afternoon PUN_. 
+PNP_They VVB_attend AJ0_Welsh NN1_language NN2_schools CJC_and NP0_Michael NP0_Vaughan VHZ_has AV0_very AJ0_strong NN2_roots PRP_in NP0_Wales CJS_although NP0_Wendy NP0_Vaughan VBZ_is AV0_originally PRP_from NP0_Derbyshire PUN_. 
+AT0_The AJ0_Old NN1_Rectory VBZ_is AV0_quite AT0_an AJ0_isolated NN1_establishment CJC_and EX0_there VBZ_is DT0_little AJ0_local NN1_interest PRP_in DPS_her AJ0_excellent NN1_food PUN_. 
+NN2_years AV0_ago PNP_I VM0_would VHI_have VVN_liked TO0_to VHI_have VBN_been AT0_a NN1_cook AV0_elsewhere PNP_she VVZ_admits PUN_. 
+VBD_was VVN_offered AT0_a NN1_restaurant PRP_in NP0_Cheltenham AV0_about CRD_five NN2_years AV0_ago CJC_but PNP_I VDD_did VDD_n't AV0_even VVI_consider PNP_it PUN_. 
+NN1_husband CJC_and DPS_my NN2_children VBB_are AJ0_Welsh CJC_and DPS_my NN2_guests AV0_here VVB_appreciate DTQ_what PNP_I VBB_am VDG_doing PUN_. 
+CJC_But NN1_life VBZ_is XX0_not AV0_just VVB-NN1_work PUN_. 
+CJS_If PNP_you VVB_look PRP_at PNP_it PRP-AVP_in AJ0_shallow NN2_terms PRP_like DT0_that PNP_you VBB_are VVG_making AT0_a NN1_mistake PUN_. 
+PNP_I VDB_do DTQ_what PNP_I VDB_do PRP_to AT0_the AJS_best PRF_of DPS_my NN1_ability CJC_and VVB-NN1_hope CJT_that NN0_people VM0_will VVI_hear PRP_about PNP_it CJC_and VVB_come CJC_and VVB_visit PUN_. 
+DT0_another NN1_location PNP_I VM0_would AV0_probably VHI_have AT0_a AJ0_full NN1_dining NN1_room AT0_every NN1_night CJC_but DT0_that VBZ_is AV0_only AT0_a NN1_part PRF_of DTQ_what VBZ_is AJ0_important PRP_to PNP_me PUN_. 
+PNP_I VDB_do XX0_not VVI_suffer PRP_from AT0_a NN1_lack PRF_of NN1_ambition PNP_I AV0_simply VVB_accept NN1_life CJS_as PNP_it VBZ_is PUN_. 
+DT0_Many AT0_an NN1_chef VM0_could VVI_benefit PRP_from NP0_Wendy NP0_Vaughan NP0_'s NN2_thoughts CJS_even NN1_time NN2_constraints CJC_and NN1_geography NN1-VVB_conspire TO0_to VVI_keep PNP_them PRP_away DPS_her AV0_equally NN1_food PUN_. 
+AV0_Above NN1_fillet PRF_of NN0_turbot PRP_on NN1_spinach PRP_with NN1_chive CJC_and VVD-AJ0_spiced NN2_sauces PUN_. 
+AJ0-VVD_Left NN1_lemon NN1_tart NN1-VVB_CONTRACT NN1_CATERING AJ0_Corporate NN1_cooking PRP_For DT0_many NN2_chefs NN1-VVB_contract NN1_catering VBZ_is AT0_a AV0_more AJ0_attractive NN1_option CJS_than DPS_its NN1_restaurant CJC_and NN1_hotel NN2_cousins PUN_. 
+NP0_Lorna NP0-NN1_Pettipher VVZ-NN2_reports NN1-VVB_CONTRACT NN2_caterers VBB_are AJ0_sick CJC_and AJ0_tired PRF_of AT0_the NN1_view PRF_of DPS_their NN1_sector CJS_as PNI_nothing PRP_but NN1_company NN2_canteens VVN_peopled PRP_by PUN_. 
+DT0_Another CJT_that VVZ_persists VBZ_is CJT_that NN2_chefs VVB_work PRP-AVP_in NN1_contract VVG-NN1_catering AV0_only TO0_to VVI_avoid AJ0_long NN2_hours CJC_and AT0_the AJ0_tough NN1_competition PRF_of NN1_hotel CJC_and NN1_restaurant NN2_kitchens PUN_. 
+PRP_In NN1_fact AT0_the AJ0_main NN1_attraction PRF_of NN1_contract NN1_catering VBZ_is AT0_the AJ0_diverse NN2_opportunities PRP_for NN1_career NN1_development PUN_. 
+AV0_Sadly DT0_many VVB_feel CJT_that DT0_such NN2_opportunities VBB_are VVG_lacking PRP_within AJ0_other NN2_areas PRF_of NN1-VVG_catering CJC_and NN2_chefs AV0_often VVB-NN1_face NN1_discrimination CJS_when VVG_trying TO0_to VVI_move PRP_from AT0_the NN2_kitchens AVP_up PRP_into NN1_management PUN_. 
+VBB_are AV0_too DT0_many NN1_type NN0_people VVG_working PRP-AVP_in NN2_hotels VVZ_says NP0_Roger NP0_Cole PNQ_who VVD_worked PRP-AVP_in DT0_several NN2_hotels PRP_before VVG_joining NP0_London NN1_contract NN1_caterer AJ0_High NN1_Table PRP_in CRD_1986 PUN_. 
+PNP_He VBZ_is AV0_now AJ0_head NN1_chef PRP_at AT0_a AJ0_leading NN1_law NN1_firm PRP_with CRD_120 NN2_partners VVN_based PRP_in AT0_the NN1_City CJC_and VVZ_feels CJT_that PNP_he VHZ_has VVN_found DPS_his NN1_niche PUN_. 
+PRP_in DPS_my NN1_career PNP_I VBD_was VVG_working PRP_in NN1_hotel NN2_kitchens DT0_all AT0_the NN2_hours NP0_God VVD_sent CJC_and AT0_the NN1_pay VBD_was AV0_very AJ0_low PUN_. 
+VBG_Being AJ0_married CJC_and VHG_having AJ0_young NN2_children AT0_the NN1_range PRF_of NN1_chef NN1_'s NN2_hours AJ0_available PRP_within NN1_contract NN1_catering VBD_was AV0_of AJ0_attractive PUN_; CJC_but AT0_the AJ0_main NN2_incentives VBD_were AT0_the AJ0_obvious NN2_routes PRP_by DTQ_which PNP_I VM0_could VVI_move AV0_upwards PRP_on VVG_joining AJ0_High NN1_Table PUN_. 
+NP0_Cole VHZ_has VVN_worked PRP_at AT0_a NN1_variety PRF_of VVG-NN1_catering NN2_units VVN_run PRP_by AJ0_High NN1_Table PRP_in DPS_his CRD_five NN2_years PRP_with AT0_the NN1_company CJC_and VHZ_has AV0_now VBN_been VVN_promoted PRP_to NN1-AJ0_executive NN1_chef PUN_. 
+PNP_He VHZ_has AT0_a NN1_budget AJ0_generous AV0_enough TO0_to VVI_allow AJ0_creative NN1_cooking PRP_with AT0_the NN2_likes PRF_of NN1_caviar AJ0_fresh NN1_asparagus CJC_and AJ0_smoked NN0_salmon PRP_at DPS_his NN1_contract CJC_and AV0_also VVZ_works PRP_within AT0_an NN1_environment CJT_that PNP_he VVZ_finds AJ0_friendly CJC_and AV0_relatively PUN_. 
+VM0_used TO0_to VHI_have AT0_the NN1_impression CJT_that PNP_I VM0_should VVI_feel AV0_almost AJ0_privileged TO0_to VVI_work PRP_at AJ0_certain NN2_establishments CJS_when PNP_I VVD_saw AT0_the NN1_size PRF_of DPS_my NN1_pay NN1_packet CJC_and PNP_I AV0_never VM0_used TO0_to VVI_know DPS_my AJ0-NN1_general NN1_manager PUN_. 
+PNP_I VVB_know DT0_all AT0_the NN2_directors PRP_at AJ0_High NN1_Table CJS_because AJ0_corporate NN1_catering VBZ_is AJ0_free PRF_of AT0_the NN1_elitism VVN-VVD_found PRP_in NN2_hotels PUN_. 
+PRP-CJS_After CRD_three NN2_weeks PRP_at DPS_his AJ0_new NN1_contract NP0_Cole VHZ_has XX0_not VBN_been AV0_home PRP_before PRP_in AT0_the NN1_evening AV0_once CJS_so AT0_the NN1_idea CJT_that DT0_all NN1-VVB_contract NN1-VVG_catering NN2_chefs VVB-NN1_work VBZ_is AT0_a NN1_fallacy PUN_. 
+CJC_But EX0_there AV0_really VBZ_is DT0_such AT0_a NN1_thing CJS_as AV0_overtime PRP_for AJ0_long NN2_days PUN_. 
+PNP_He AV0_also VVZ_keeps AT0_the DT0_same NN1_brigade PRP_for NN2_years PRP_at AT0_a NN1_time CJS_because NN0_staff NN1_turnover PRP_in NN1_contract NN1_catering VBZ_is XX0_not AV0_as AJ0_rapid CJS_as PRP_in NN2_hotels CJC_and NN2_restaurants PUN_. 
+NN2_Opportunities VVB_exist TO0_to VVI_push PRP_for AJ0_new NN2_contracts PRP_within AT0_the DT0_same NN1_company CJS_so NN2_individuals VDB_do XX0_not AV0_always VHI_have TO0_to VVI_leave PRP_for AT0_a AJ0_new NN1_challenge PUN_. 
+NP0_Steve NP0_Butler VVD_joined NN1_Compass CRD_eight NN2_years AV0_ago PUN_. 
+DPS_His NN1_training VVD_began PRP_with NP0-NN1_Strand NN2_Hotels PRP_in CRD_1974 CJC_and NN2_courses PRP_at NP0_Ealing NN1_College PUN_. 
+PRP_After DPS_his NN1_apprenticeship PNP_he VVD_started NN1-VVB_work PRP_for AT0_a NN1_contract NN1-VVG_catering NN1_company VVN_called NN2_Partners PRP_at AT0_the AJ0_Royal NN1_Opera NN1_House PRP_in NP0_Covent NP0_Garden PUN_. 
+PRP_Within AT0_a NN1_year PNP_he VBD_was VVG_cooking PRP_for AT0_the AJ0_Royal NN1_Box CJC_and VVB-NN1_state NN2_galas PUN_. 
+PNP_He VHZ_has VVN_stayed PRP_on AT0_the NN1_side PRF_of AT0_the NN1_fence AV0_ever CJS_since CJS_because PNP_he VVZ_feels CJT_that PNP_it VVZ_suits DPS_his NN1_style CJC_and NN1_temperament PUN_. 
+PNP_He VBZ_is AV0_now AJ0-NN1_executive NN1_chef PRP_at AT0_a AJ0_large NN1_firm PRF_of NP0_West NP0_End NN2_financiers PUN_. 
+VVB_feel CJT_that PRP_as NN2_chefs PNP_we VHB_have AT0_the NN1_opportunity TO0_to VVI_provide AT0_a AV0_very AJ0_personal NN1_service PRP_within DT0_this NN1_sector CJC_and TO0_to VVI_become AV0_really AJ0_involved PRP_with DPS_our NN2_clients PNP_he VVZ_says PUN_. 
+VDB_do NN2_weeks CJC_but EX0_there VBB_are AT0_no AJ0-NN1_split NN2_shifts CJC_and PNP_we VBB_are AV0_also VVN_committed PRP_to AT0_a NN1_team NN1_spirit CJS_because NN0_people VBB_are AT0_the AJ0_main NN1_asset PUN_. 
+AT0_The NN2_menus VVB_change AV0-AJ0_daily PRP_in AT0_the NN2_directors NN2_' NN1_dining NN2_rooms NN2_delibars CJC_and NN0_staff NN2_canteens CJT_that PNP_he VVZ_operates CJS_because AT0_the NN1_clientele VDZ_does XX0_not PUN_. 
+NN2_Dishes PRP_on NN1_offer VVB_include NN1_chicken PRP_with NN1_truffle CJC_and NN1-AJ0_cream NN1_sauce PUN_; NN0_fish PRP_with AJ0-NN1_saffron NN1_sauce PUN_; AJ0_roast NN0_duck PRP_with AJ0-NN1_ginger CJC_and NN1_thyme PUN_; CJC_and AJ0_glazed NN1_venison PRP_with AJ0_black NN1_cherry CJC_and NN1_Kirsch NN1_sauce PUN_. 
+PRP_On NN1-AJ0_average NP0_Butler CJC_and DPS_his NN0_staff VVB-NN1_cook PRP_for CRD_800 NN0_people AT0_a NN1_day CJC_and DT0_all AT0_the NN2_chefs VHB_have AT0_an NN1_input CJS_when PNP_it VVZ_comes PRP_to NN1_menu NN2_suggestions PUN_. 
+AT0_The NN1_catering NN1_manager PRP_at NP0_Butler NP0_'s NN1_contract VBZ_is NP0_Neil NP0_Patterson AT0_a NN1_chef PNQ_who VVD_joined NN1_Compass CRD_six NN2_years AV0_ago CJC_and VHZ_has AV0_since VVN_moved AV0_across PRP_into NN1_management PUN_. 
+NN2_managers VBB_are AV0_quite AJ0_common PRP_in DT0_this NN1_sector PNP_he VVZ_claims PUN_. 
+NN1_apprentice NN1_chef PRP_with PNP_us VM0_could VBI_be VVG_running AT0_a AJ0_small NN1_unit PRP_after CRD_four NN2_years NN2_budgets CJC_and DT0_all PUN_. 
+PNP_You VBB_are AV0_never AJ0_far PRP_away AT0_the PRP_in DT0_this NN1_kind PRF_of NN1_work CJS_so PNP_you VVB_learn AVQ_how TO0_to VVI_manage AT0_a AJ0_whole NN1_range PRF_of NN2_areas CJC_and VM0_can VBI_be VVN_involved PRP_at AT0_a AJ0_high NN1_level AV0_relatively AV0_quickly PUN_. 
+PRP_At AT0_the NN1_end PRF_of AT0_the NN1_year AT0_the NN1_finance NN1_company VVG-AJ0_employing NP0-NN1_Butler CJC_and NP0_Patterson VVZ_moves PRP_to NP0_Docklands CJC_and VM0_will VVI_merge DT0_all DPS_its NP0_UK NN2_offices PRP_into CRD_one NN1-AJ0_complex PUN_. 
+NP0-NN1_Butler CJC_and NP0-NN1_Patterson VM0_will AV0_then VVI_manage AT0_a NN1_team PRF_of CRD_70 NN0_staff PRP_for AT0_a NN1_clientele PRF_of PUN_. 
+NP0_Ian NP0_Lawrence AT0_a AJ0_High NN1_Table AJ0_head NN1_chef PRP_for AT0_a NN1_City NN1_bank VVZ_starts NN1-VVB_work PRP_at CRD_eight PRP_in AT0_the NN1_morning CJC_and VVZ_finishes CRD_eight NN2_hours AV0_later PUN_. 
+PNP_He VVZ_works PRP-AVP_on AT0_a NN1_food NN1-VVB_cost NN1_budget PRF_of PRP_per NN1_head PRP_for DPS_his NN0_staff NN1_restaurant CJC_and PRP_per NN1_head PRP_in AT0_the NN1_director NN1_'s AJ0_private NN1_dining NN2_rooms PUN_. 
+AJ0_High NN2_Tables VDZ_does XX0_not VVI_make AT0_a NN1_profit PRP_on DPS_his NN1_management PRF_of AT0_the NN2_ingredients VVB-NN1_budget PNP_it AV0_simply VVZ_charges AT0_a NN1_management NN1_fee PRP_for AT0_the AJ0_entire NN1_contract PUN_. 
+NP0_Lawrence VVD_trained PRP_in NP0_London NN2_hotels CJC_and AV0_then VVN-VVD_worked PRP-AVP_in AT0_a NN0_series PRF_of AJ0_upmarket NN1_casino NN2_restaurants PRP_before VVG_leaving AT0_the NP0_West NP0_End CRD_four NN2_months AV0_ago PUN_. 
+VVB_run AT0_the NN1_kitchen AV0_just CJS_as PNP_I VM0_would VVI_run PNP_it PRP-AVP_in AT0_a NN1_hotel CJC_or NN1_restaurant PNP_he VVZ_says PUN_. 
+PRP_With DPS_his NN1_brigade PRF_of CRD_six PNP_he VVZ_turns AVP_out AV0_daily AJ0-VVG_changing NN2_menus DTQ_which VVB_include NN2_noisettes PRF_of NN1_lamb PRP_with NN1_herb NN1_mousse CJC_and NN2_lentils PUN_; NN1_penne NN1_pasta PRP_with NN2_tomatoes NN2_olives CJC_and NN1_oregano PUN_; CJC_and NN1_escalope PRF_of NN0_halibut PRP_with NN1_courgette NN2_ribbons PUN_. 
+DT0_All NN2_terrines CJC_and NN0_fruit NN2_jellies VBB_are VVN_made CJS_as NP0_Lawrence VVZ_believes PRP_in VVG_training DPS_his NN0_staff PRP_in DT0_these NN2_skills PUN_. 
+VBZ_is AJ0_secondary AV0_here PNP_he VVZ_admits AV0_quite AV0_openly PUN_. 
+VM0_ca VM0_n't VVI_serve PNI_anything CJT_that VVZ_needs VVG-NN1_thinking PRP_about AVQ_when NN0_people VBB_are VVG_meeting TO0_to VVI_discuss AJ0_big NN1_money NN2-VVZ_deals DT0_all NN0_fish VM0_must VBI_be VVN_filleted AV0_here AV0_for CJC_but DT0_all AT0_the NN1_food VM0_must VBI_be AJ0_good PUN_. 
+PNP_He VM0_would VVI_like TO0_to VVI_open AT0_an AJ0_informal NN1_restaurant PRP_in AT0_the NN1_country CRD_one NN1_day CJS_so PNP_he VM0_can AV0_eventually VVI_imagine VVG_returning PRP_to AT0_the AJ0_long NN2_hours PRF_of NN1_hotel CJC_and NN1_restaurant NN1-VVB_work PUN_. 
+CJC_But PRP_for AT0_the NN1_time NN1_being PRP_with AT0_a AJ0_young NN1_family PRP_at NN1_home PNP_he VBZ_is AV0_very AJ0_happy TO0_to VHI_have VVN_switched TO0_to VVI_contract NN1-VVG_catering PUN_. 
+NN1_CHEF NN1-VVB_PAY NN2_SCALES PRP_BETWEEN NN2_SECTORS DT0_ALL AT0_the NN1_contract NN1-VVG_catering NN2_chefs VVD-VVN_interviewed VVN-VVD_believed CJT_that DPS_their NN2_rates PRF_of NN1_pay VBD_were AJC_higher CJS_than CJS_if PNP_they VBD_were VVG_working PRP-AVP_in NN2_hotels CJC_or NN2_restaurants PUN_. 
+CJC_But NP0_Roderick NP0_Henderson PNQ_who VVZ_runs AT0_the NN1_chef NN1_division PRF_of NN1_recruitment NN1_consultant NP0_Berkeley NP0_Scott VDZ_does XX0_not VVI_believe CJT_that NN1_contract NN1_catering VBZ_is AV0_always AT0_a AV0_financially AJ0_rewarding NN1_sector PRP_in DTQ_which TO0_to VVI_work PUN_. 
+PNP_He VVZ_estimates CJT_that AT0_an NN1-AJ0_executive VVG_working PRP-AVP_in AT0_a AJ0-NN1_top NP0_London NN1_restaurant CJC_or NN1_hotel VM0_would VBI_be VVG_earning PRP_between CJC_and CJS_whereas AT0_a AJ0_head NN1_chef PRP_in NN1_contract VVG-NN1_catering PRP_at AT0_a NN1_director NN1_'s NN1_dining NN1_room AV0_for VM0_would VBI_be VDG_doing AV0_very AV0_well TO0_to VVI_earn PUN_. 
+NP0_Brian NP0_Watts AJ0_managing NN1_director PRF_of NN2_Services AT0_the NN1_caterer PRP_at AT0_the NN1_Bank PRF_of NP0_England VVZ_pays NN2_chefs PRP_between CJC_and PRP_per NN1_year CJC_but AT0_the AJ0_financial NN2_benefits PRF_of AT0_the NN1_bank NN1_'s NN1_employee NN1_package NN2_mortgages CJC_and NN2_pensions AV0_etc VVB_bring DT0_this PRP_up AV0_considerably AV0_more PRP_in AJ0_real NN2_terms PUN_. 
+AV0_Also DT0_these VBB_are AT0_the AJ0_basic NN2_rates PRF_of NN1-VVB_pay PRP_for AT0_a AJ0_basic NN1_week CJC_and AJ0_generous NN1_overtime NN2_rates VBB_are VVN_paid PRP_for CJC_and NN1_weekend NN1-VVB_work PUN_. 
+NP0_Watts VHZ_has VVN_interviewed NN2_chefs PNQ_who VBB_are VVG_working AT0_an NN1_average PRF_of CRD_90 NN2_hours PRP_per NN1_week PRP_in AT0_the NP0_West NP0_End CJC_and VVG_earning AV0_about PUN_. 
+PRP_Due AT0_the AJ0_high NN1_level PRF_of AJ0_common PRP_in DT0_such NN2_chefs DT0_few VBB_are VVN-AJ0_offered NN2_jobs PUN_. 
+NP0_Ian NP0_Lawrence VVZ_runs DPS_his NN1_kitchen AV0_just CJS_as PNP_he VM0_would AT0_a NN1_hotel NN1_MUSTARD AJ0_Hot NN1_stuff NN2_Britons VVB_play AJ0_safe PRP_with NN1_herb NN2_mustards CJC_but AT0_the AJ0_French VVB_add NN2_roses CJC_and NN2_bananas VVZ_reports NP0_Michael NP0_Raffael NN1_mustard VVZ_holds NN1_pride PRF_of NN1_place PUN_. 
+DT0_This VBZ_is AJ0_far PRP_from VBG_being AT0_an NN1_indication PRF_of AJ0_cultural NN1_superiority CJC_but VBZ_is PRP_due AT0_the NN1_fact CJT_that AJ0_English NN2_manufacturers VVB_extract AT0_the AJ0_essential NN1_oil PRP_through DPS_their NN1_milling NN1-VVB_process PUN_. 
+DT0_This NN1_quote VVZ_comes PRP_from AT0_a AJ0_standard NN1_work NP0_Le NP0_Manuel UNC_du NP0-NN1_Moutardier PRP_by NP0_Julia NP0_de NP0_Fontenelle PUN_. 
+AT0_The NN1_fact CJT_that PNP_it VBZ_is AV0_over AT0_a CRD_hundred NN2_years AJ0_old VDZ_does XX0_not VVI_detract PRP_from DPS_its NN1_impact PUN_. 
+AV0_Just AV0_for AT0_a NN1-NP0_Frenchie VHZ_has VVN_conceded CJT_that AT0_the NN2_Brits VDB_do PNI_something AV0_better PUN_. 
+AT0_The NN1_difference PRP_between AT0_the NN1-AJ0_French CJC_and AJ0-NN1_English NN2-VVZ_approaches PRP_to VVG_making NN1_mustard NN1_technology AV0_apart VHZ_has XX0_not VVN_changed PRP_for AT0_a NN1_century PUN_. 
+PRP_In NP0_France NN1_mustard NN2_seeds VBB_are AJ0-VVN_soaked CJC_and AV0_then VVN-VVD_ground PRP_to AT0_a NN1_paste PUN_. 
+PRP_On DT0_this NN1_side PRF_of AT0_the NN1_Channel PNP_we VVB_mill PNP_them TO0_to VVI_obtain AT0_a NN1_flour PUN_. 
+CJC_But PNP_it PNP_'s AV0_too AJ0_simplistic TO0_to VVI_pretend CJT-DT0_that CRD_one NN1_way VBZ_is AJC_better CJS_than AT0_the NN1_other CJS_because AT0_the NN1_comparison VBZ_is VBZ_n't PRP_between AJ0_like CJC_and VVB_like PUN_. 
+EX0_There VBB_are CRD_three NN2_kinds PRF_of NN1_seed CJC_and PNP_it VVZ_helps TO0_to VVI_know AT0_the AJ0-NN1_Latin NN2_names NN1_sinapsis UNC_alba NN1_mustard PUN_; NN1_brassica NN1_juncea NN1_mustard PUN_; NN1_brassica NN1_nigra NN1_mustard PUN_. 
+CJC_and VBB_are XX0_not AJ0_easy TO0_to VVI_tell AV0_apart CJS_because PNP_they VBB_are AV0_both AT0_a AJ0_reddish AJ0_brown NN1_colour CJC_and AJ0_similar PRP_in NN1_size PUN_. 
+NN2_seeds VBB_are AJC_paler AJC_larger CJC_and AJC_milder PUN_. 
+AJ0_Chinese NN2_markets VVB_sell AT0_the NN1_juncea NN2-VVZ_leaves AV0_usually PRP_by DPS_their AJ0_Cantonese NN1_name NN1-VVB_pak NN2_choi PUN_. 
+PNP_They VVB_look PRP_like AJ0_young NN1_spinach CJC_and VM0_can VVI_vary PRP_in NN1_taste PRP_from AJ0_bland PRP_to AV0_quite AJ0_pungent PUN_. 
+AT0_The NN2_leaves VM0_can VBI_be VVN_pickled PRP_in NN1_brine PRP_with AJ0_added AJ0_hot AJ0-NN1_Szechuan NN2_spices CJC_and VVN-VVD_served PRP_with NN1_pork NN2_dishes PUN_. 
+AT0_The NN2_seeds AV0_alone PRP_as PNI_anyone PNQ_who VHZ_has VVN_dabbled PRP_in AJ0_Indian NN1_cookery VVZ_knows VBB_are XX0_not AJ0_pungent PUN_. 
+PNP_They VVB_require AT0_the AJ0_catalytic NN1_action PRF_of NN1_water TO0_to VVI_release NN1_hotness PUN_. 
+AJ0-VVN_Crushed CJC_and VVD_wetted AT0_a AJ0_chemical NN1_reaction VVZ_occurs PRP_between AT0_the NN1_enzyme NN1_myrosin CJC_and AT0_a NN1_glucoside AT0_a NN1_chemical TO0_to VVI_create AT0_the AJ0_essential NN1_oil PRF_of NN1_mustard PUN_. 
+AT0_The NN1_change VVZ_takes NN1_place AV0-AJ0_only PRP_with AJ0_cold NN1_water AT0_a NN1_point PRP_worth VVG_remembering AVQ_when NN1_preparing NN1-AJ0_English NN1_mustard PRP_from NN1_powder PUN_. 
+VVB_Use AJ0_hot CJC_or AJ0_warm NN1_water CJC_and PNP_it VVZ_turns AJ0_bitter CJC_and AJ0_unpleasant PUN_. 
+NN1_Garlic NN2_cloves NN2-VVZ_chives NN1_tarragon NN2_peppers CJC_and AV0-AJ0_even NN2_nettles VBB_are PRP_among AT0_the DT0_many NN2_ingredients AV0_often VVN_combined PRP_with NN1_mustard NP0_Colman NP0_'s DTQ_which VVZ_enjoys AT0_a AJ0_virtual NN1_monopoly PRF_of NN1_mustard NN1_powder VBZ_is AT0_a NN1_mixture PRF_of NN1_juncea CJC_and AJ0_alba PRP_with AJ0_added NN1_wheat NN1_flour CJC_and AJ0_turmeric PUN_. 
+AT0_The NN1_company NN2-VVZ_markets AT0_a AJ0_wheatless NN1_version CJT_that VM0_would VVI_appeal PRP_to NN2_chefs PNQ_who VVB_want AT0_an AJ0_unadulterated NN1_product PUN_. 
+CRD-PNI_One AT0_the NN1_flour CJC_and NN1_water VBB_are VVN_mixed PRP_to AT0_a NN1_paste PNP_it VVZ_takes AV0_about CRD_10 NN2_minutes PRP_for AT0_the NN1_heat TO0_to VVI_develop PUN_. 
+PRP_After AT0_an NN1_hour CJC_or AV0_so AT0_the NN1_pungency VVZ_diminishes PUN_. 
+DT0_Another AJ0_curious NN1_attribute PRF_of AT0_the NN1_powder VBZ_is CJT_that CJS_when VVN_cooked AVP_out PNP_it VVZ_helps TO0_to VVI_extract AJ0_other NN2_flavours CJS_while VVG_losing DPS_its DT0_own PUN_. 
+AJ0_Old NN2_cooks VM0_used TO0_to VVI_rub PNP_it PRP-AVP_over NN1_beef PRP_before VVG_roasting PUN_. 
+NP0_Martin NN2_Blunos PRF_of NP0_Lettonie NP0_'s PRP_in NP0_Bristol VVZ_puts DT0_some PRP_in DPS_his NN1_cheese TO0_to VVI_point AVP_up AT0_the NN1_cheesiness PUN_. 
+NP0_Julia NP0_de NP0_Fontenelle VDD_did XX0_not VVI_approve PRF_of NN1_flour NN2_extenders PNP_she VVD_wrote AT0_the NN1_quality PRF_of DT0_this NN1_condiment PUN_. 
+DT0_This VBZ_is XX0_not AT0_the NN1_case PRP_with NN1_sugar NN1_honey NN1_grape VM0_must NN2_cloves CJC_and AJ0_other NN2_spices DTQ_which VVB_increase DPS_its NN1_merit PUN_. 
+PRP_In NP0_Provence NN1_anchovy VBZ_is VVN_mixed AVP_in PRP_with PNP_it DTQ_which VVZ_gives AT0_a AV0_very AJ0_good NN1_taste PUN_. 
+DPS_Her NN1_view VVD_reflected AT0_a NN1_time AVQ_when NN1_mustard VBD_was VVG_enjoying AT0_a NN1_vogue AJ0_similar PRP_to DT0_that VVD-VVN_enjoyed PRP_by AJ0_flavoured NN2_vinegars AT0_a DT0_few NN2_years AV0_ago PUN_. 
+PRP_In CRD_1812 CRD_one NN1_manufacturer NP0_Maille VHD_had CRD_84 NN2_varieties PRP_including NN1_garlic NN1_lemon NN1-VVB_peel NN1_yarrow NN1-VVB_mushroom NN1_truffle CRD_six NN1_berry NN1_chive NN1_gherkin NN1_shallot NN1_olive CJC_and NN1_Champagne PUN_. 
+PRP_In NP0_France AV0_today NN2_mustards VM0_may VVI_contain NN2_roses NN1_lovage NN1_banana CJC_or AJ0_stinging NN2_nettles PUN_. 
+AT0_The AJ0_basic NP0_Dijon NN1-VVB_process VM0_can VVI_admit PNI_plenty PRF_of NN2_variations PUN_. 
+AT0_The NN1_method PRF_of NN1_preparation VBZ_is TO0_to VVI_macerate AT0_the NN1_juncea CJC_or NN1_nigra NN2_seeds PRP_in AT0_a NN1_vinegar CJC_or NN1_verjuice NN1_solution CJS_until PNP_they VHB_have VVN_swollen PUN_. 
+AV0_Then PNP_they VBB_are NN1-VVB_stoneground CJC_or AV0_mechanically VVD-VVN_milled CJC_and VVN-AJ0_sieved PUN_. 
+AT0_The AJ0_resultant NN1_paste VBZ_is PRP_for AT0_a DT0_few NN2_days PRP_before VVG_bottling PUN_. 
+AT0_A UNC_vinaigre VM0_will VVI_give AT0_a AJ0_different NN1_taste PRP_from AT0_a UNC_vinaigre UNC_de UNC_vin UNC_vieux PUN_. 
+AT0_A AJ0_cheap AJ0_industrial NN1_vinegar VM0_may VBI_be AV0_less AJ0_pleasing PUN_. 
+NN1_mustard VVZ_loses DT0_some PRF_of DPS_its NN1_pungency PUN_. 
+CJC_And AT0_the NN1_word PRP_on AT0_a NN1_label VBZ_is AT0_an NN1_indication PRF_of NN1_strength AV0_usually AV0_enough TO0_to VVI_get AVP_up NN1_nose PUN_! 
+NP0_Dijon NN2_mustards VBB_are VVN_flavoured PRP_with NN2_spices PUN_. 
+DT0_Some VHB_have AJ0_added NN1_sugar PUN_. 
+DT0_Some VBB_are AV0_more AJ0_salty PUN_. 
+AT0_The NN1_colour CJC_and AT0_the NN1_texture VM0_can AV0_also VVI_vary PRP_from NN1_yellow PRP_to NN1_brown PUN_. 
+DT0_Some VVB_contain NN2_antioxidants NN1_potassium NN1_pyrosulphite CJC_or NN1_sulphur NN1_dioxide PUN_. 
+AV0_By AT0_the AV0_most AJ0_widespread NN1_brand NP0_Amora VBZ_is AJ0_strong NN1_tasting CJC_and AJ0_useful PRP_for NN2_vinaigrettes CJC_and PRP_in DT0_some NN2_sauces PUN_. 
+CJC_But NP0_Philippe NP0_Roy PRF_of NP0_Clos NP0_du NP0_Roy PRP_at NP0_Box PRP_outside NP0_Bath VVZ_prefers AT0_the NN1_stoneground NP0_Dijon NN2_mustards VVN_prepared PRP_by AT0_the NP0_Normandy NN1_company NN1_Champ PUN_. 
+PNP_He VVZ_rates DPS_their NN1_subtlety CJC_but VVZ_points AVP_out CJT_that PNP_they VM0_can VBI_be VVN_mixed AV0-AJ0_only PRP_with AJ0_warm NN2_sauces CJC_or PNP_he VVZ_warns PNP_they VVB_start TO0_to VVI_lose DPS_their NN1_delicacy PUN_. 
+AT0_A AJ0_wide NN1_selection PRF_of NN2_mustards VBD_were VVN_supplied PRP_to PNP_us PRP_by NP0_Arran NN2_Provisions NP0_Colman NP0_'s CJC_and NP0_Burnham NN2_Mustards VVB-NN1_Wholegrain NN1_mustard VBZ_is PRP_to NP0_Dijon DTQ_what AJ0_wholemeal VBZ_is PRP_to AJ0_brown NN1_flour PUN_. 
+DPS_Its NN1_popularity VVZ-NN2_stems PRP_from NP0_Moutarde NP0_de NP0_Meaux AT0_the PNI_one PRP_in AT0_the NN1_stylist NN1_stoneware NN1_jar PUN_. 
+PNP_It VHZ_has AT0_a AJ0_monastic NN1_origin PUN_. 
+AT0_The NN1_recipe VVN-VVD_passed PRP_to AT0_the NN1-NP0_Pommery NN1_family PRP_in CRD_1760 CJC_and AV0_now PNP_it PNP_'s AT0_a NN1_subsidiary PRF_of NP0-NN1_Amora PUN_. 
+PNP_It PNP_'s XX0_not AT0_the AJ0_only NN1_moutarde PUN_. 
+AV0_Both PRP_in NP0_Britain CJC_and NP0_France AJ0_large NN1_food NN2_companies CJC_and AJ0_tiny NN1_cottage NN2_industries VVB_produce DPS_their DT0_own NN2_interpretations PUN_. 
+PRP_In DT0_some AT0_the AJ0_outer NN2_husks VVB_remain AV0_almost AJ0_whole PUN_. 
+PRP_In NN2_others PNP_they VBB_are VVN-AJ0_crushed CJC_and AJ0_flaky PUN_. 
+PNP_They VM0_may VVI_contain DT0_any PRF_of AT0_the AJ0_basic NN1_seed NN2_varieties CJC_or AT0_a NN1_combination PRF_of DT0_all CRD_three PUN_. 
+DT0_All VHB_have AT0_a AJ0_generous NN1_dose PRF_of NN2_herbs CJC_and NN2_spices PNI_everything PRP_from NN1_chervil CJC_and NN1_celery NN1_seed PRP_to NN2_cloves CJC_and NN2_peppercorns PUN_. 
+TO0_To VVI_quote NP0_Tom NP0_Stobart NP0_'s AT0_The NP0_Cook NP0_'s NP0_Encyclopedia VBB_are AJ0_nice PUN_; NN2_others VBB_are AJ0_beastly PUN_. 
+PNP_They VM0_should AV0_never VBI_be AJ0_bitter PUN_. 
+NN1_Mustard NN1_'s NN1_role PRP_in AT0_a NN1_bistro CJC_or NN1_brasserie VBZ_is VVN-AJ0_varied PUN_. 
+PRP_As AT0_a NN1_rule PRF_of NN1_thumb NP0_Dijon NN1_mustard VM0_ought TO0_to VBI_be VVN_presented PRP_with AT0_a NN1_pot NN0_au NN1_feu CJC_or PUN_. 
+AJ0_Grilled NN1_beef VM0_can VVI_take DT0_any NN1_style CJS_providing PNP_it PNP_'s XX0_not AV0_too AJ0_sweet AJ0_German NN2_mustards VBB_are CJC_or VVN-VVD_flavoured PRP_with AT0_an AJ0_unsuitable NN1_herb PRP_such NN1_dill PUN_. 
+NN1-NP0_Charcuterie CJC_and NP0_Dijon NN1_mustard VBB_are NN2_inseparables PUN_. 
+CJC_And AJ0_English NN1_mustard AV0_freshly VVN-AJ0_prepared VVZ_goes AV0_best PRP_with AJ0_cooked NN1_ham PRP_on AT0_the NN1_bone PUN_. 
+NN1_Mustard VVZ_helps TO0_to VVI_emulsify AT0_a NN1_vinaigrette PUN_. 
+NP0_Philippe NP0_Roy VVZ_prefers TO0_to VDI_do PRP_without CJS_because PNP_he VVZ_feels CJT_that PNP_it VVZ_interferes PRP_with AT0_the NN1_flavour PRF_of AT0_a AJ0_fine NN1_oil PUN_. 
+AV0_However PNP_it VVZ_improves NN1_lentil CJC_or NN1_potato NN2_salads PUN_. 
+AT0_A NN1_vinaigrette PRF_of AJ0_old NN1_wine NN1_vinegar AJ0_olive NN1_oil CJC_and NN1_mustard VVD_spooned AVP-PRP_over AT0_a AJ0_warm VVD-AJ0_poached NN1_chicken VVN-VVD_stuffed PRP_with NN1_ham CJC_and AJ0_Swiss NN1_chard VVZ_makes AT0_a AJ0_wonderful NN1_summer NN1_dish PUN_. 
+VVB_Add AJ0_diced NN2_shallots PRP_to AT0_the NN1_vinaigrette CJC_and PNP_it VVZ_becomes AT0_a NN1_sauce PRP_for AT0_a AJ0_jellied NN1_boeuf CJC_or AT0_an NN1_oxtail NN1_terrine PUN_. 
+NP0_Moutarde NP0_de NP0_Dijon VBZ_is AV0_also AT0_a AJ0_basic NN1_element PRF_of AJ0_other AJ0-NN1_cold NN2_sauces PUN_. 
+VHZ_has TO0_to VHI_have PNI_plenty PRF_of AJ0_strong NP0_Dijon NN1_mustard PRP_in PNP_it PUN_. 
+AT0_A AJ0_summery NN1_variation VBZ_is TO0_to VVI_add AV0_finely AJ0-VVN_chopped NN1_cress PUN_. 
+AT0_A NN1_sauce NN1_grelette VBZ_is AT0_a NN1_blend PRF_of NN1_cream NN1_mustard CJC_and NN1_vinegar PRP_with AJ0_fresh NN2_herbs PUN_. 
+NN1-NP0_Smetana CJC_or AJ0-VVD_soured NN1_cream VM0_can VVI_replace AT0_the NN1_vinegar CJC_and NP0_Roger NN2-VVZ_mixes PRP_in AT0_a AJ0_fresh NN1_tomato NN1_coulis PUN_. 
+CJS_Except PRP_in VVG-NN1_catering NN2_colleges PRP_as NN1_part PRF_of AT0_a NN1_training NN1_course DT0_few NN2_chefs AV0_still VVB_prepare AT0_a NN1_sauce PUN_. 
+PNP_It VDZ_does VDZ_n't VVI_deserve TO0_to VBI_be VVN_neglected PUN_. 
+AT0_The AJ0_basic NN1_recipe VBZ_is AT0_a NN1_reduction PRF_of AJ0_white NN1_wine CJC_and AJ0_brown AJ0_fond NP0_de NN1_veau PRP_with AT0_a NN1_julienne PRF_of NN2_gherkins CJC_and NN1_mustard VVD_stirred AVP_in PRP_at AT0_the ORD_last NN1_moment PUN_. 
+CJS_As PRP_with DT0_all NN1_mustard NN2_sauces AT0_the AJ0_important NN1_thing VBZ_is XX0_not TO0_to VVI_reboil PNP_it PUN_. 
+AT0_A AV0_more AJ0_elegant CJC_but AV0_equally AJ0_traditional NN1_sauce PRP_for NN1_pork CJC_or NN1_game VBZ_is VVN_made PRP_by VVG_thickening AT0_a AJ0_red NN1_wine NN1_sauce PRP_with NN1_mustard CJC_and NN1_blood PUN_. 
+AV0_Again PNP_it PNP_'s AJ0_vital XX0_not TO0_to VVI_overheat AT0_the NN1-AJ0_liquid CJS_because PNP_it VM0_will VVI_curdle PRP_as VVB_lose DPS_its NN1_taste PUN_. 
+PRP_Depending AT0_the AJ0_desired NN1_strength PRP_up AT0_a NN1_tablespoon PRF_of NP0_Dijon NN1_mustard VM0_can VVI_go PRP_into AT0_a NN1_pint PRF_of NN1_sauce PUN_. 
+NP0_Robuchon NP0_'s NN1_herb NN1_sauce PRP_for NN2_ribs PRF_of NN1_beef VVZ_requires CRD_two NN2_tablespoons PRP_to DT0_half AT0_a NN1_pint PRF_of NN1_chicken NN1_bouillon PUN_. 
+NN1_Lobster NN1_thermidor VDZ_does XX0_not VVI_take DPS_its NN1_name PRP_from AT0_the NN1_hotness PRF_of AT0_the NN1_sauce CJC_but PRP_from AT0_a NN1_month PRF_of AT0_the AJ0_French AJ0_revolutionary NN1_calendar PUN_. 
+CJC_Nor VBZ_is AT0_the NN1_lobster VVN_smeared PRP_with AT0_a NN1_mustard NN1_sauce CJS_as DT0_most NN2_chefs VVB_imagine PUN_. 
+AV0_A AJ0_strong NN1_mustard VBZ_is VVN_spread PRP_on AT0_the AJ0_emptied NN1_shell PRF_of AT0_a AJ0_grilled NN1_lobster PUN_. 
+AT0_The NN1_meat VBZ_is VVN_put AVP_back VVN_coated PRP_in AT0_a NN1_sauce CJC_and AJ0-VVN_glazed PUN_. 
+DT0_This VVZ_gives AT0_a NN1_lighter AJC_cleaner NN1_taste DTQ_which VDZ_does VDZ_n't VVI_overpower CJC_and VVZ_illustrates AT0_the NN1_fact CJT_that PNP_it VBZ_is XX0_not AV0_just AT0_the AJ0_obvious AJ0_oily NN0_herring NN0_mackerel CJC_and NN0_salmon DTQ_which VHB_have AT0_the NN1_body TO0_to VVI_withstand AT0_a NN1_mustard NN1_onslaught PUN_. 
+NP0_Christine NP0_Frechet AT0_a NN1_member PRF_of AT0_the NN1_Association NP0_de VVZ_Restauratrices VVZ_serves NN1-VVB_skate PRP_with NN1_mustard CJC_and NN1_sherry NN1_vinegar PUN_. 
+DPS_Her NN1_ARC NN1_colleague NP0_Linster VVZ_bastes AT0_a NN1_saddle PRF_of AJ0_young AJ0-NN1_roast NN1_pork PRP_with NN1_honey NN1_mustard CJC_and NN1-VVB_coriander AT0_a NN1_cross PRP_between NP0_Apicius CJC_and AT0_the AJ0_old AJ0-NN1_English NN1_way PRF_of VVG-NN1_glazing NN2_hams PUN_. 
+AJ0_Italian NN2_cooks VHB_have AV0_always VVN_combined NN1_mustard PRP_with NN1_honey CJC_or NN1-VVB_syrup CJC_and NN0_fruit PUN_. 
+AT0_The AV0_most AJ0_notable NN1_recipe PRP_in AJ0_historical NN2_terms VBZ_is NN1_mostarda UNC_di NN1_cremona AT0_a NN1_grape NN1-VVB_marmalade VVN-VVD_made PRP_with AJ0_whole NN2_grains CJC_and AJ0_crystalised NN0_fruit PNP_it VBZ_is DT0_more PRF_of AT0_a NN1-VVB_preserve CJC_and AJ0_good PRP_with NN1_bollito PUN_. 
+PRP_In AT0_the NP0_USA NN1_mustard VBZ_is AT0_the AV0_most AV0_commonly AJ0-VVN_used NN1_spice PRP_after NN1_pepper PUN_. 
+PNP_It PNP_'s NN1_time TO0_to VVI_give PNP_it AV0_more PRF_of AT0_a NN1_chance AV0_here PUN_. 
+NN2_RECIPES CRD_THREE NN2_chefs VVB_provide NN2_recipes DTQ_which VVB-NN1_show NN1_versatility PRF_of NN1_mustard PRP_as AT0_an NN1_ingredient PUN_. 
+NP0_Martin NN2_Blunos PRF_of NN1_Restaurant NN1-NP0_Lettonie PRP_in NP0_Bristol VVD_provided AT0_the NN1_rabbit NN1_recipe VVG_using NN1_grain NN1_mustard PUN_. 
+AT0_The NP0_Garland NP0_'s NP0_Tom NP0-NN1_Bridgeman PRP_in NP0_Bath AV0_also VVD_opted PRP_for NN1_grain NN1_mustard PRP_in DPS_his NN1_dish PRF_of NN1_lamb NN1_'s NN1_liver CJC_and NN1_bacon PUN_. 
+NN1-NP0_Tarragon NN1_mustard VBD_was AT0_the NN1_type VVN_chosen PRP_by NP0_Philippe NP0_Roy PRF_of NN2_Clos UNC_du NP0_Roy NN1_Box PRP_in DPS_his NN0_hake NN1_recipe PUN_. 
+NN1_Saddle PRF_of NN1_rabbit PRP_with NN1_mustard AV0_OVERSEAS PRP_From NN2_snails PRP_to NN1_STARDOM PRP_Despite AT0_the AJ0_ultimate PRP_in NP0_Michelin NN1_success NP0_Bernard NP0-NN1_Loiseau VBZ_is XX0_not AT0_a NN1_chef PNQ_who VVZ_takes PNX_himself AV0_too AV0_seriously VVZ_discovers NP0_Roy NP0_Hayter NP0_BERNARD NP0_Loiseau VVZ_believes PRP_in AT0_the NN1_power PRF_of AT0_the PUN_. 
+PNP_It PNP_'s AT0_a NN1_faith PNP_he VHZ_has VVN_developed CJS-PRP_since NP0_Michelin DT0_this NN1_year VVD_singled PNP_him AVP_out PRP_as AT0_the AJ0_only AJ0-NN1_French NN1_chef AJ0_worthy PRF_of VVG_upgrading PRP_to AT0_the AJ0_coveted NN1_accolade PUN_. 
+PRP_At CRD_40 PNP_he VVZ_knows PNP_he PNP_'s PRP_on AT0_the NN1_road PRP_to NN1_fortune CJC_and VVZ_admits PRP_to VVG_spending DT0_more NN1_time VVG_talking PRP_with NN2_journalists CJS_than VVG_working AVP-PRP_over AJ0_hot NN2_ovens PRP_in AT0_the NN1_kitchen PUN_. 
+DPS_His ORD_first NN1_book NP0_Envoler UNC_les NP0_Saveurs VBZ_is AJ0-AV0_due AVP_out PRP_in NP0_October PUN_. 
+AT0_The NN1-NP0_Loiseau NN1_phenomenon VHZ_has VVN_rocked AJ0_French NN1_cuisine VVG_transforming AT0_the NN1_son PRF_of AT0_a NN1-AJ0_travelling NN1_salesman PRP_into AT0_the NN1_country NN1_'s AV0_most VVN_talked PRP_about NN1_chef PUN_. 
+PNP_He AV0_laughingly NN2_nicknames PNX_himself AT0_the NN1_king PRF_of AT0_the NN1_world PUN_. 
+VBD_was CRD_one PRF_of AT0_the ORD_first NN2_chefs TO0_to VVI_put AJ0_gastronomic AJ0-NN1_vegetarian NN2_meals PRP_on AT0_the NN1_menu CRD_seven NN2_years AV0_ago PUN_. 
+NN0_People VVD_said PNP_I PNP_'d VVN_gone PRP-AVP_off DPS_my NN1_head PUN_. 
+CJC_But PNP_I VBD_was VVG_offering AT0_a NN1_meal CJT_that VDD_did VDD_n't VVI_run DT0_any NN1_cholesterol NN2_risks PUN_. 
+PNP_It VVD_fitted AVP_in PRP_with DPS_my NN1_policy PRF_of VVG_using AJ0_fresh AJ0-AV0_natural NN1-VVB_produce PUN_. 
+CJC_And NN2_potatoes VBB_are AJ0_great PUN_. 
+PNP_They VVB_give AT0_a NN1_chef AT0_the NN1_opportunity TO0_to VBI_be AJ0_creative PUN_. 
+NN2_Frogs NN2_legs PRP_with NN1_garlic CJC_and AT0_a NN1_parsley NN1_jus AV0_Paradoxically NP0-NN1_Loiseau AV0_originally VVD_wanted PNI_nothing TO0_to VDI_do PRP_with NN1-VVG_cooking PUN_. 
+PNP_I AV0_always VVD_figured NN0_people VVD_became NN2_chefs CJS-AVQ_when PNP_they VM0_could VM0_n't VDI_do PNI_anything AV0_else PUN_. 
+PNP_It VBD_was AT0_the NN1_way PNP_we VVD_looked PRP_at NN1_life AVP_back PRP_in AT0_the PUN_. 
+DPS_His NN1_father VVD_thought AV0_otherwise PUN_. 
+NP0-NN1_Loiseau AJ0_senior VVD_ate AV0_regularly PRP_at AT0_a NN1_restaurant VVN_owned PRP_by AT0_the NP0_Troisgros NN2_brothers PRP_at NP0_Roanne PRP_in AT0_the NP0_Loire NN1_valley PUN_. 
+NN1_day PNP_he VVD_returned AV0_home PRP_to CJC_and VVD_said PNP_I VHD_had AT0_a NN1_job PRP_with NP0_Michel CJC_and NP0_Pierre PRP_for AT0_a NN1_month PUN_. 
+PNP_I VBD_was VBD_n't AV0_at AJ0_happy CJC_but PNP_I VDD_did VDD_n't VHI_have DT0_much NN1_choice PUN_. 
+PRP_At NP0_Roanne NP0-NN1_Loiseau VVZ_says PNP_he VVD_started AVP_out PRP_by VVG_emptying AT0_the NN2_bins PUN_. 
+PNP_I VVD_went AVP_on PRP_to VVG-NN1_peeling NN2_vegetables PUN_. 
+PNP_It VVD_took AT0_a NN1_while CJS_before PNP_they AV0_finally VVD-VVN_trusted PNP_me PRP_with AT0_a AJ0_little NN1_cooking PUN_. 
+PNP_It VBD_was AT0_a AJ0_tough AJ0_traditional NN1_apprenticeship PUN_. 
+PRP_In CRD_1972 NP0-NN1_Loiseau VVD_left NP0-NN1_Roanne PRP_for NP0_Paris TO0_to VVI_work PRP_with NP0_Claude NP0_Verger NN1_owner PRF_of CRD_two AJ0_prestigious NN1_city NN2_restaurants PUN_. 
+NP0_La NP0_de NP0-NN1_Clichy CJC_and NP0_La NP0_Poquelin PUN_. 
+VVD_taught PNP_me AT0_a AJ0_golden NN1_rule AV0_only PRF_of AT0_a NN1_restaurant NN1_'s NN1_success VVZ_depends PRP_on NN1_cuisine PUN_. 
+AT0_The NN1_rest VBZ_is VVN_determined PRP_by NN1_decor AT0_the NN1-AJ0_welcome PNP_you VVB_give CJC_and AT0_the NN1_atmosphere PUN_. 
+DPS_Our NN1_business VVZ_depends PRP_on AJ0_applied NN1_psychology NP0-NN1_Loiseau VVZ_says PUN_. 
+PNP_He VVZ_likes TO0_to VVI_talk PRP_in NN2_percentages PUN_. 
+NN1_dedication AJ0_personal NN1_sacrifice AV0_over CRD_15 AJ0_long NN2_years CJC_and AT0_a NN1_belief PRP_in NN1_quality NN1-VVB_produce VVD_earned PRF_of DT0_those CRD_three NP0-NN1_Michelin NN2_stars PUN_. 
+AT0_The NN1_rest PNP_he AV0_modestly VVZ_argues AV0_maybe AVP_down PRP_to NN1_talent PUN_. 
+PNP_It VBD_was NP0-NN1_Verger PNQ_who VVD_talked NP0-NN1_Loiseau PRP_into VVG_taking AVP_over PRP_in NP0_March CRD_1975 DT0_few AJ0_tight AJ0_square NN2_metres PRF_of AJ0_greasy NN1_kitchen NN1_space PRP_at NP0_La PRP_in NP0_Saulieu NP0_'s AJ0_only AJ0_main NN1_street PUN_. 
+AT0_The NN1_building CJT_that VVZ_overlooks AT0_a AJ0_municipal NN1_car NN1_park VVD_rode AVP_out AJ0_glorious NN2_days PRP_under AT0_the AJ0_renowned NP0-NN1_Alexandre NP0-NN1_Dumaine PRP_before VVG_crumbling PRP_into AT0_a NN1_state PRF_of AJ0_tatty NN1_neglect PUN_. 
+AT0_The NN1_backwater NN1_village PRF_of NN2_inhabitants NN0_250km PRF_of NP0_Paris VBD_was AV0_once AT0_an AJ0_obligatory NN1_point PRP_for NN2_travellers VVN_headed NN1_south PRP_for AT0_the NP0-NN1_Riviera PUN_. 
+CJC_But PNP_it VBD_was VVN-AJ0_bypassed CJC_and AV0_quickly VVN_forgotten PRP_with AT0_the NN1_opening PRF_of AT0_the UNC_A38 NN1_motorway AV0_less CRD_20 NN2_miles AV0_away PUN_. 
+NP0-NN1_Loiseau VVD_took AVP_on AT0_the NN1_challenge PUN_. 
+PRP_By CRD_1977 AT0_the NN1_gamble VVD_regained AT0_the NN1_restaurant CRD_one PRF_of DPS_its CRD_three DT0_former NN1-NP0_Michelin NN2_stars PUN_. 
+AT0_A NN1_second VBD_was VVN_awarded PRP_in CRD_1981 PUN_. 
+CRD_Two NN2_years AV0_later PNP_he VVD_bought AT0_the NN1_property NN1_love PRP_from NN1-NP0_Verger PRP_for CJC_and AV0_promptly VVN_set AV0_about AT0_a NN1_renovation CJT_that VVD_included AT0_a AJ0_new NN1_restaurant AJ0_spacious NN2_kitchens VVG_employing CRD_19 NN0_staff CJC_and CRD_10 AJ0_luxury NN1_bedroom NN2_suites VVN_affiliated PRP_to NP0_Relais NP0_et PUN_. 
+NN1-NP0_Saulieu VBD_was AVP_back PRP_on AT0_the NN1_map PUN_. 
+PRP_In CRD_1986 AT0_the NP0_France NN1_guide VVD_voted PNP_him NN1_chef PRF_of AT0_the NN1_year PRP_with AT0_a NN1_rating VVN-VVD_raised PRP_to PRP_in CRD_1990 PUN_. 
+NN1-NP0_Loiseau VVZ_says VBB_are AT0_the NN1_life NN1_blood PRF_of DT0_this NN1_industry PUN_. 
+PNP_They VM0_can VVI_make CJC_or VVI_break AT0_a NN1_chef PUN_. 
+CJC_But PRP_at AT0_the NN1_summit EX0_there EX0_'s AT0_a AJ0_fast NN1_road AVP_down CJS_if PNP_you VVB_take PNX_yourself AV0_too AV0_seriously PUN_. 
+NN1_Success VBZ_is AJ0_relative PUN_. 
+PNP_It PNP_'s PRP_about NN1_chance AV0_today NN0_people VVB-NN1_drive PRP_for NN2_miles TO0_to VVI_eat PRP_at NP0_La CJC_but AV0_tomorrow PNP_it VM0_might DT0_all VBI_be VVN_finished PUN_. 
+NN1_Business VHZ_has AV0_almost VVN_tripled CJS-PRP_since NP0_Loiseau VVD_joined AT0_the CRD_18 AJ0_other AJ0-NN1_French NN2_holders PRF_of CRD_three NP0-NN1_Michelin NN2_stars PUN_. 
+PNP_He VVZ_averages CRD_70 NN2-VVZ_covers PRP_on NN2_weekdays CJC_and VVZ_doubles DT0-CJT_that NN1_number PRP_on NN2_weekends PUN_. 
+VVB-NN1_Set NN2_menus VVB_start PRP_at CJC_and VVB-NN1_rise AV0_sharply PRP_to AV0_about PUN_. 
+VVG_Talking PRP-AVP_through NN2_specialities PNP_he VVZ_cites CRD_three NN2_frogs NN2_' NN2_legs PRP_with NN1_garlic CJC_and NN1_parsley NN1_sauce AT0_a AJ0_colourful CJC_and AJ0_popular NN1_dish PUN_. 
+NN1_Sea NN0_bream PRP_with NN1_shallot CJC_and AJ0_red NN1_wine NN1_sauce VVZ_comes AT0_a AJ0_close NN1_second PRP_in AT0_the NN1_restaurant PUN_. 
+NN1-VVB_Mersault VBZ_is DPS_his AJ0_personal AJ0-NN1_favourite NN1_wine PRP_for DT0_this NN1_dish PUN_. 
+PNP_He VVZ_overcomes DPS_its NN1_characteristic VVG_darkening PRP_during NN1_preparation PRP_by VVG_throwing PRP-AVP_in AT0_a NN1_carrot PUN_. 
+NN1_Wine NN1_acidity PNP_he VVZ_explains VBZ_is VVN_swallowed AVP_up PRP_by AT0_the AJ0_natural NN1_sweetness PRF_of AT0_the NN2_shallots PUN_. 
+NN1_Oyster NN1_soup PRP_with AJ0_sliced NN1_sea NN1_urchin VBZ_is AT0_the AJ0_other AJ0_original NN1_Loiseau NN1_signature NN1_dish PUN_. 
+NN1-NP0_Loiseau VVZ-NN2_changes NN2_menus PRP_with AT0_the NN2_seasons PUN_. 
+VHB_have TO0_to VVI_respect NN1_nature PUN_. 
+PRP_In AT0_the NN1_end PNP_we VDB_do VDB_n't VVI_invent PNI_anything PUN_. 
+PNP_We AV0_just VVB_intervene PUN_. 
+PNP_I PNP_'m VVN_known PRP_for AT0_a AJ0_particular NN1_dish NN2_snails PRP_with NN1_nettle NN1_sauce PUN_. 
+PNP_I VDD_did VDD_n't VVI_discover AT0_the ORD_first NN1_snail CJC_or AT0_the ORD_first NN1_nettle CJT_that VVD_sprouted AVP_up PRP_on DT0_this NN1_planet PUN_. 
+PNP_I AV0_just VVD_arranged DPS_their NN1_marriage PUN_. 
+NN1-NP0_Loiseau VVZ_goes PRP_to AT0_the NP0_Burgundy NN1-VVB_market TO0_to VVI_select VVB-NN1_produce PRP_like AT0_the AJ0_wild NN1_asparagus PNP_he VVZ_serves AJ0-VVN_buttered CJC_and VVD_flashed PRP-AVP_in AT0_a NN1_pan PRP_with NN1_lobster PUN_. 
+PNP_He VVZ_buys NN1_rabbit CJC_and NN1_game PRP_from AT0_a AJ0_local NN1_butcher PUN_. 
+DPS_His NN1_cheesemaker VBZ_is VVN_situated PRP_on AT0_the NN2_outskirts PRF_of AT0_the NN1_village CJC_but PNP_he VVZ_keeps NN2_names AJ0_top NN1_secret PRP_from AT0_the AJ0_culinary NN1_competition PUN_. 
+AJ0_Italian AJ0-NN1_olive NN1_oil CJC_and NN2_vinegars CJC_and NN1_butter CJC_and NN1_cream VVN-VVD_bought PRP_from AT0_a AJ0_nearby NN1_farm VBB_are DPS_his NN2_favourites PUN_. 
+AJ0_Bitter NN1_chocolate PRP_with NN1-AJ0_orange AJ0_FEMALE NN2_CHEFS NN2_WOMEN NN2_'S NN1_WORK NN1_Cuisine UNC_des NN2_femmes VM0_could VBI_be AT0_the AJS_latest NN1_cooking NN1_style CJS_if DT0_some AJ0_French NN2_women NN2_chefs VHB_have DPS_their NN1_way PUN_. 
+NP0_Michael NP0_Raffael VVZ-NN2_reports PRP_AFTER NN1_cuisine NN1_nouvelle CJC_and NN1_cuisine NN1_moderne DTQ_what ORD_next PUN_? 
+AT0_A NN1_good DT0_each NN1_way NN1_bet VM0_could VBI_be NN1_cuisine UNC_des NN2_femmes NN2_women NN2_'s NN1_cooking PUN_. 
+NN2_Members PRF_of AT0_the NN1_Association NP0_de VVZ_Restauratrices AT0_a NN1_body PRF_of NN1_lady NN2_chefs VBB_are VVG_working AV0-AJ0_hard TO0_to VVI_prove CJT_that PNP_it VVZ_exists CJC_and CJT_that PNP_it VBZ_is AT0_a AJ0_vital NN1_component PRF_of AJ0-NN1_French NN1_cooking AV0_today PUN_. 
+NN1_woman VVZ-NN2_cooks PRP_like AT0_a NN2_birds VVZ_sings VBZ_is DPS_their NN1_motto PUN_. 
+PNP_They VVB_claim TO0_to VHI_have AT0_an AJ0_instinctive NN1_talent PRP_as NN2_men NN2_chefs PNQ_who VHB_have TO0_to VVI_learn AT0_the NN2_mechanics PRF_of DPS_their NN1_craft PUN_. 
+AT0_The NN1_idea VM0_may XX0_not VVI_stand AV0_too DT0_much NN1_scrutiny CJC_but PNP_it VHZ_has NN1_charm PUN_. 
+NP0_Christiane NP0-NN1_Massia DTQ_whose NN1_restaurant UNC_Au PRP_in NP0_Paris NN1-VVB_backstreet VVZ_reflects DPS_her NN2_convictions VVZ_argues NN1_cuisine UNC_des NN2_femmes VVZ_exists PUN_! 
+PNP_It PNP_'s AV0_less AJ0_technical AV0_closer PRP_to AT0_the NN1_soil CJC_and PRP_to NN2_traditions PUN_. 
+PRP_Until AV0_recently AJ0_male NN2_chefs VHB_have VVN_shut DPS_their NN1_kitchen NN2_doors PRP_on NN2_girls VVG_wanting TO0_to VVI_learn AT0_the NN1_profession PUN_. 
+AJ0_Prestigious NN2_bodies PRP_such AT0_the NP0_Cuisiniers NP0_de NP0_France VVZ_excludes NN2_women PUN_. 
+EX0_There VBB_are AV0_probably AV0_more AJ0-NN1_Japanese VVG-AJ0_working PRP_for AJ0_top NN2_chefs CJS_than NN2_women PRP_in AJ0_equivalent NN2_positions PUN_. 
+CJS_If AT0_the NN1_kitchen NN1_climate VBZ_is VVG-AJ0_changing PNP_it PNP_'s CJS_because NN1_working NN2_conditions VHB_have VVN_lost AT0_the NN1_barrack NN1_room NN1_brutality DTQ_which AV0_once VVD_characterised DTQ_what VBD_was AT0_a AV0_pretty AJ0_sordid NN1_job PRP_in DT0_all CJC_but AT0_a NN1_handful PRF_of NN2_restaurants CJC_and NN2_hotels PUN_. 
+AT0_The NN1_difference PRP_between DT0_most NN1-NP0_ARC NN2_members CJC_and AJ0_professional NN2_chefs AJ0-NN1_male CJC_or NN1-AJ0_female VBZ_is CJT_that AT0_the DT0_former VHB_have XX0_not VBN_been PRP_through NN1_system PUN_. 
+AV0_For PNP_they VBB_are PUN_. 
+CJS_As DT0_such PNP_they VVB_belong PRP_to AT0_a AJ0_distinct CJC_and NN1_tradition DT0_that PRF_of AT0_the PUN_. 
+PRP_In NN1_gastronomy AT0_the AJ0_honorific NN1_title VHZ_has AT0_an AV0_almost AJ0_mythical NN1_force PUN_. 
+PNP_It PNP_'s VVN_identified AV0_generally PRP_with DT0_many PRF_of AT0_the NN2_glories PRF_of AJ0_bourgeois NN1_cooking PRP_through AT0_the ORD_18th CJC_and ORD_19th NN2_centuries PUN_. 
+AV0_Specifically PNP_it PNP_'s VVN_linked PRP_to NN2_names PRP_such UNC_La NN1-NP0_Saguet PNQ_who VVD_fed NP0_Balzac NP0_Dumas NP0-NN1_Delacroix CJC_and DT0_half AT0_the AJ0_literary CJC_and AJ0_artistic NN1_establishment PRF_of AT0_the AJ0_early ORD_19th NN1_century PUN_. 
+AV0_Above NP0_Nicole NP0_Grenier NP0_'s AJ0-VVN_stuffed NN1_rock NN2_crabs CJC_and NN1_courgette NN2_flowers PUN_. 
+AV0_Right NP0_Reine NP0-NN1_Sammut DT0_this NN1_year NN1_'s NN1_ARC NN1_trophy NN1_winner NN2_Chefs PRP_in DT0_any NN1-VVB_doubt PRP_as AT0_the NN1_influence PRF_of AT0_the AJ0_grand NN2_dames PRF_of AT0_the NN2_ovens VM0_should VVI_remember CJT_that AT0_the NN1-NP0_Michelin NP0_Georges NP0_Blanc PRP_in NN2_Vonnas VM0_used TO0_to VBI_be NP0_La NP0_Blanc CJS_until AT0_the NN1_son VVD_took AVP_over PRP_from DPS_his NN1_maman PUN_. 
+AT0_The AJ0_late AJ0_great NP0_Alain NN1_Chapel NN1_'s NN1_restaurant VBD_was AV0_once VVN_called NP0_La NP0_Charles PUN_. 
+VVG-NN1_Drawing PRP_upon AT0_the AJ0_culinary AJ0-VVD_cred AJ0-VVN_associated PRP_with AT0_the NP0-NN1_ARC VVD_found AT0_an UNC_des PRP_for DPS_its AV0_more AJ0_venerable NN2_members PRP_in CRD_1990 PUN_. 
+TO0_To VVI_celebrate AT0_the NN1_event PNP_it VVD_launched AT0_an AJ0_annual NN1_competition NP0_Le UNC_des VVN-VVD_held PRP_in NP0_Vichy PUN_. 
+PNP_It AV0_already VVZ_enjoys AV0_enough VVB-NN1_clout TO0_to VVI_attract AJ0_considerable NN1_television NN1_coverage AT0_a NN1_senator CJC_and AT0_the NN1_cream PRF_of AT0_the AJ0_French AJ0_gastronomic NN1_press PUN_. 
+AT0_The NN1_theme PRF_of DT0_this NN1_year NN1_'s NN1_contest VBD_was NP0_Provence PUN_. 
+AT0_The CRD_five NN2_finalists VHD_had CRD_three NN2_hours TO0_to VVI_produce DPS_their NN2_creations PRP_for AT0_a NN1_jury PRF_of CRD_12 AJ0_gastronomic NN2_chroniclers AJ0_French VVB_entitle PNX_themselves CJC_and PUN_. 
+VVG_Watching AT0_the PRP_during AT0_the AJ0_early NN2_stages EX0_there VBD_was AT0_no AJ0_obvious NN1_clue PRP_as AVQ_why PNI_anyone VM0_should VVI_find PNP_it AJ0_necessary TO0_to VVI_draw AT0_a AJ0_theoretical NN1_distinction PRP_between AJ0_male CJC_and AJ0_female NN2_chefs PUN_. 
+CRD_One NN1_woman VBD_was AJC_handier PRP_with AT0_a NN1_knife DT0_another VBD_was AV0_better VVN_organised CRD_two VHD_had AJ0_marvellous AJ0_raw NN2_materials DT0_another VBD_was VVG_feeling AT0_the NN1_pressure PRF_of VVG-AJ0_competing PUN_. 
+AV0_At AT0_an NN1_hour CJS_before AT0_the NN2_cooks VVD_submitted DPS_their NN2_offerings TO0_to VBI_be VVN_judged PNP_it VBD_was AJ0_clear PNQ_who VBD_was VVG_going TO0_to VVI_win PUN_. 
+VVB-NN1_Reine NN1_Sammut PRF_of NP0_La AT0_a AJ0_de NN1_bistrot PRP_in AT0_the AJ0_Vauclusian PRF_of NP0-NN1_Lourmarin VHD_had AT0_the NN1_edge PUN_. 
+DPS_Her NP0_de NN1-VVB_lait UNC_en UNC_aux NN2_pointes NP0_de NP0_Villelaure VVD-AJ0_combined AJ0_new NN1_season NN1-NP0_Luberon NN1_lamb AT0_the NN1_pick PRF_of AT0_the NN1_region NN1_'s AJ0_fresh NN2_truffles CJC_and NN1_asparagus VVZ-NN2_tips PRP-AVP_in DPS_their NN1_prime PUN_. 
+PNP_It VBD_was AT0_a NN1_dish VVG-AJ0_owing PNI_nothing PRP_to NP0_Sammut NP0_'s NN1_sex CJC_and PNI_everything PRP_to NP0_Provence PUN_. 
+AT0_The NN1_dish VBD_was AV0_also AV0_eminently AJ0_suitable PRP_for NN1_service PRP_in AT0_a NN1_restaurant AJ0_good TO0_to VVI_look PRP_at CJC_and AJ0_practical TO0_to VVI_assemble PUN_. 
+AJ0_Other NN2_contestants VVD-VVN_concocted NN2_dishes DTQ_which VDD_did VVI_reflect AT0_a NN1_woman NN1_'s NN1_touch PUN_. 
+NP0_Nicole NP0_Grenier PRF_of NP0_Le NP0_Berger UNC_des NN2_Abeilles NP0_St NP0_Andiol AJ0-VVD_cooked NN2_favouilles NP0_et NN2_courgettes NN2_farcies UNC_et UNC_leur NN1_coulis AJ0_tiny AJ0_stuffed NN1_rock NN2_crabs CJC_and NN1_courgette NN2_flowers PUN_. 
+NP0_Marie NP0-NN1_Ferrand PRF_of NP0_La UNC_du NP0_Challans VVD_filled AT0_the NN2_plates PRP_with DT0_half AT0_a NN1_crawfish VVD_stuffed NP0_Bouzigues NN2_mussels NN1_spinach NN2_caillettes CJC_and AT0_a AJ0_substantial NN0_shellfish NN2_cannelloni PUN_. 
+NP0_Gisele NP0_Berger PRF_of NP0_La NP0_Bonne NN1_Table NP0-NN1_Clichy VVD_made AT0_the AJ0_traditional NN1_farcis NP0_de NP0_Provence NN2-VVZ_aubergines NN2_courgettes NN1_cabbage CJC_and NN1_bell NN2_peppers VVN_filled PRP_with AT0_a NN1_pork CJC_and NN1_basil NN1-VVG_stuffing CJC_and VVN-VVD_served PRP_with AT0_a NN1_garlic AJ0_olive NN1_oil CJC_and NN1_tomato NN1_sauce PUN_. 
+DT0_All DT0_these VBD_were NN1_homespun NN2_recipes VVG-AJ0_comforting PRP_rather AJ0_refined PUN_. 
+PRP_Except AT0_the AV0_more AJ0_delicate NN2_crabs PNP_they VHD_had AT0_a AJ0_provincial NP0_Sunday NN1_lunch NN1_quality PUN_. 
+CJS_While AT0_the NN1_ARC NN2_cooks VBD_were AJ0-VVG_emptying NN2_crabs CJC_and VVG-AJ0_boning NN2_racks PRF_of NN1_lamb CRD_five NN2_girls VBD_were AJ0_involved PRP_in DPS_their DT0_own NN1_competition PRP_for AT0_the NN1_espoir AT0_the AV0_most AJ0_promising AJ0_young NN1_cook PUN_. 
+AT0_The NN1_winner NN1-NP0_Benedicte NN1-NP0_Demange VBZ_is AV0_already ORD_second NN1_chef PRP_in AT0_the NP0-NN1_Michelin NP0_Les VVZ_Abesses PRP_in NP0_Epinal PUN_. 
+DPS_Her NN1_patron VBZ_is AJ0_male CJC_and PNP_she VVZ_feels AT0_no NN2_qualms PRP_about VVG_rubbing NN2_shoulders PRP_with AJ0_male NN2_chefs CJC_and AJ0-VVG_passing NN2_orders PRP_to AT0_a NN1_commis PNQ_who VM0_may VBI_be AJC_older CJS_than PNP_she VBZ_is PUN_. 
+VVB_prefer VVG_working PRP_with NN2_men PNP_she VVZ_admits PUN_. 
+AT0_the NN1_work PNP_we PNP_'re DT0_all AJ0_equal PUN_. 
+CJS_If PNI_anyone VVZ_makes AT0_a NN1_mistake PNP_it PNP_'s AT0_the AJ0_senior NN1_person PNQ_who VHZ_has TO0_to VVI_carry AT0_the NN1_can PUN_. 
+DPS_Her AJ0_winning NN1_entry VVB-NN1_grillade NP0_de NN1-VVB_rouget NP0_St NP0_Jacques NP0_et NN2_langoustines UNC_aux VVZ_asperges NN2_vertes AJ0_huile NP0_et AJ0_basilic VVD_came AV0_straight PRP_off AT0_the NN1_carte PRP_at NP0_Les NP0_Abesses PUN_. 
+NP0_La VDZ_does VDZ_n't VHI_have AT0_a NN1-NP0_Michelin NN1_star CJS_though PNP_it VVZ_rates PRP_in AT0_the NN1_Gault NP0-NN1_Millau NN1-VVB_guide PUN_. 
+NN1-VVB_Sammut VM0_wo VM0_n't VBI_be VVN_drawn PRP_into AT0_a NN1_debate PRP_as CJS_whether NP0_Michelin VBZ_is AJ0-AV0_fair PRP_to NN2_women CJC_or XX0_not PUN_. 
+AV0_However VVG_winning AT0_the UNC_des VM0_will VVI_bring DPS_her AJ0_valuable NN1_publicity AT0_an AJ0_important NN0_media NN1_event DTQ_which VBZ_is VVN_bound TO0_to VVI_attract AT0_a AJ0_new NN1_clientele PUN_. 
+PNP_It AV0_also VVD_helped VVB_promote AT0_the NN1_cause PRF_of UNC_la NN1_cuisine UNC_des NN2_femmes PUN_. 
+NP0-NN1_Marguerite NP0-NN1_Trompeau PNQ_who VVZ_owns NP0_La NP0_Fontaine AV0_just PRP_outside NP0_Vichy VVD_supplied AT0_the AJ0_welcoming NN1_lunch PRF_of NN1_tripe NP0-NN1_Charolais NN1_beef VVD-VVN_grilled AVP-PRP_over AT0_an AJ0_open NN1_fire NN1_cheese CJC_and AT0_a NN1_dessert PUN_. 
+CJC_And AT0_the NN1_celebration NN1_banquet VBD_was VVN_cooked PRP_by NP0_Elisabeth NN0_Bourgeois PRF_of AT0_the AJ0_Mas NN1_Tourteron PRP_near NP0_Gordes PUN_. 
+VHG_Having VVN_worked PRP_through AT0_the NN1_afternoon PRP_on AT0_the NN1_competition NP0_Sammut VVD_handled AT0_the NN1_press CJC_and VVZ-NN2_plaudits PRP_during AT0_the NN2_awards NN1_ceremony PUN_. 
+PNP_She VVD_returned PRP_to AT0_the NN2_kitchens TO0_to VVI_assist PRP_with AT0_the NN1_evening NN1_'s NN1_celebration NN1_banquet PUN_. 
+PRP_About NN1_midnight PNP_she VVD_started VVG-NN1_handling NN2_interviews PUN_. 
+PRP_In AT0_the AJ0_early NN2_hours PNP_she VVD_left PRP_with DPS_her NN1_husband NP0-NN1_Guy TO0_to VVI_drive AVP_back PRP_to NP0-NN1_Lourmarin CJS_so PNP_she VM0_could VVI_open DPS_her NN1_restaurant PRP_in AT0_the NN1_morning PUN_. 
+PNP_You AV0_certainly VM0_could VM0_n't VVI_accuse NN2_women NN2_chefs PRF_of VVG-AJ0_lacking NN1_stamina PUN_. 
+NN2_BOOKS NN0_Fruit AT0_A NN1_Connoisseur NN1_'s NN1_Guide CJC_and NP0-NN1_Cookbook PRP_by NP0_Davidson CJC_and NP0_Knox NP0_Mitchell NP0_Beazley NP0_Alan NP0_Davidson NP0_'s AJ0_previous NN2_books VVB_include CRD_two PRP_on NN0_fish NN1_North NP0_Atlantic NN1_Seafood CJC_and AJ0_Mediterranean NN1_Seafood DTQ_which VBB_are NN2_classics PRF_of DPS_their NN1_kind PUN_. 
+NN2_Chefs PRP_like PNX_myself VHB_have VVN_referred PRP_to PNP_them CJC_and VVD_kept PNP_them PRP_at NN1_hand CJS_since PNP_they VBD_were VVN_written AV0_over CRD_10 NN2_years AV0_ago PRP_along NN2_books PRP_such NP0_Jane NP0_Grigson NP0_'s PRP_on NN2_vegetables PUN_. 
+NP0_Pat NP0_Rance NP0_'s PRP_on NN1_cheese CJC_and AV0_more AV0_recently NP0_Jill NP0_Norman NP0_'s PRP_on NN2_spices PUN_. 
+DT0_These NN2_books VBB_are AJ0_timeless XX0_not NN1_part PRF_of AT0_the AJ0_changing NN1_whirl PRF_of NN1_food NN1_fashion CJC_or NN1_trend AV0_rather NN1_part PRF_of AT0_a NN1_backbone PRF_of NN1_information CJC_and NN1_knowledge PRP_without DTQ_which DT0_all NN1_cookery NN2_books VBB_are AV0_quite AJ0_irrelevant PUN_. 
+AJ0_Good NN1-VVB_produce VBZ_is AJ0_inspirational PRP_by PNX_itself PUN_. 
+AT0_The AV0_more PNP_you VVB_learn PRP_about PNP_it AT0_the AV0_more PNP_you VVB_understand AVQ_how TO0_to VVI_use PNP_it AT0_the AV0_less AJ0_likely PNP_you VBB_are TO0_to VVI_subject DPS_your AJ0_raw NN2_materials PRP_to AJ0_absurd CJC_or AJ0_unharmonious NN2_treatments PUN_. 
+NP0_Davidson NP0_'s NN0_fruit NN1_book VVZ_comes PRP_into DT0_this NN1_category PUN_. 
+AV0_However AT0_the NN1_book VVZ_works PRP_on DT0_several NN2_levels PUN_. 
+AT0_The NN1_format VM0_may VBI_be DT0_that PRF_of AT0_a NN1_text NN1_book PRP_with ORD_first NN0_fruit AV0_then NN2_nuts VVN_dealt PRP_with PRP_on AT0_a NN1_family NN1_group NN1_basis CJC_but PNP_it VDZ_does VDZ_n't VVI_read PRP_as PNI-CRD_one PUN_. 
+PNP_It PNP_'s AV0_never AJ0_dry CJC_or AJ0_boring CJC_but AV0_clearly CJC_and AV0_interestingly VVN_written PUN_. 
+DT0_All PNP_you VM0_will AV0_ever VVI_need TO0_to VVI_know PRP_about DT0_each NN1_variety VBZ_is AV0_there NN1_history PUN_; AJ0_scientific NN2_properties PUN_; VVG-NN1_handling NN1_advice PUN_; CJC_and NN2_translations PRF_of AT0_the NN0_fruit NN0_'s NN1_name PRP_into NN1-AJ0_French PUN_. 
+AJ0_Finnish CJC_or DTQ_whatever PUN_. 
+PNP_You VM0_can VM0_not VVI_expect AT0_a NN1_reference NN1_book TO0_to VBI_be AV0_quite AV0_as AJ0_gripping CJS_as AT0_an NN1_adventure NN1_novel CJC_but AV0_all PNP_I VVB_read PNP_it VVB-NN1_cover TO0_to VVI_cover PUN_. 
+AT0_The NN1_book VBZ_is AV0_also AT0_a NN1_work PRF_of NN1_art PUN_. 
+AT0_The NN2_illustrations VBB_are AJ0_stunning PUN_. 
+PRP_On AT0_a AV0_purely AJ0_practical NN1_basis AT0_the NN2_paintings PRP_in DT0_this NN1_instance NN1-VVB_work AV0_better CJS_than AT0_the NN1_camera NN1_lens PUN_. 
+AV0_Perhaps CJS_because AT0_no NN1_photographer NN1_'s NN1_sense PRF_of NN1_composition CJC_or NN1_lighting VHZ_has VVN_come PRP_between AT0_the NN1_subject CJC_and AT0_the NN1_reader PNP_they VVB_manage TO0_to VBI_be AJ0_informative PRP_as AV0_visually AJ0_satisfying PUN_. 
+AT0_No AJ0_easy NN1_task CJC_and AT0_no NN1_wonder CJT_that NP0_Charlotte NP0_Knox PNQ_who VVD_painted PNP_them VVZ_receives AJ0_equal NN1_billing PRP_with NP0_Davidson PRP_for AT0_the NN1_book PUN_. 
+AT0_The ORD_third NN1_aspect PRP_to DT0_this NN1_book VBZ_is PNP_it PNP_'s NN1_recipe NN1_section PUN_. 
+DT0_These VBB_are AV0_mostly AV0_fairly AJ0_straightforward PRP_with AJ0_clear CJC_and AJ0_concise NN2_instructions PRP_for NN2_jellies NN2_jams NN2_dumplings CJC_and AJ0_suchlike PUN_. 
+EX0_There VBB_are AV0_also NN2_recipes VVN_contributed PRP_by AT0_the NN2_likes PRF_of NP0_Claudia NP0_Roden NP0_Sri NP0_Owen CJC_and NP0_Joyce NP0_Molyneux CJC_but AV0_even AT0_the AV0_most AJ0_exotic PRF_of DT0_these PRP_like AT0_an AJ0_intriguing NN1_banana NN1_pudding PRP_from NP0_Indonesia VVB_seem AV0_quite AJ0_achievable PUN_. 
+CJC_And EX0_there VBB_are NN2_notes PRP_on NN2_subjects PRP_such NN0_fruit NN1_crystalisation CJC_and DTQ_what VBZ_is AV0_possibly AT0_the AJS_best NN1_explanation VVN-VVD_published PRF_of AVQ_how CJC_and AVQ_why NN2_jams VVD_set PUN_. 
+AJ0_Good CJS_though PNP_they VBB_are AT0_the NN2_recipes VBB_are XX0_not AJ0_central PRP_to AT0_the NN1_value PRF_of DT0_this NN1_book PRP_in AT0_the NN1_way PNP_they VBB_are PRP_to NP0_Jane NP0_Grigson NP0_'s NN0_fruit NN1_book PUN_. 
+DT0_This NN1_book VM0_would AV0_still VBI_be AJ0_essential NN1_purchasing PRP_without PNP_them PUN_. 
+PNP_I VM0_shall AV0_certainly VVI_buy CJC_and VVI_use PNP_it CJC_and VVB_advise PNI_anyone AV0_else PNQ_who VBZ_is VVN_fascinated PRP_by AT0_the NN1_food PNP_we VVB_work PRP_with TO0_to VDI_do AT0_the DT0_same PUN_. 
+NP0_Shaun NP0_Hill AJ0_Head NN1_chef NN1-NP0_Gidleigh NN1_Park NP0_Chagford NP0_Devon DPS_MY AJ0-NN1_FAVOURITE NN1_DISH NN1_SEA NN1-VVB_FARE NP0_Andrew NP0_Baird NP0_'s NN1_preference VBZ_is PRP_for AJ0_poached NN1_seabass PRP_with AJ0-NN1_langoustine NN1_mousse VBZ_is PRP_in AJ0_plentiful NN1_supply PRP_around AT0_the NN2_islands PRP_in AJ0_late NN1_summer PUN_. 
+PNP_It PNP_'s VVN_caught PRP_by NN2_locals PRP_on AT0_the AJ0_high NN2_tides CJC_and AV0_subsequently VVN_brought PRP_to AT0_the NN1_hotel PRP_at AV0_very AJ0_competitive NN2_prices PNP_I VDB_do VDB_n't VVI_seem AJ0_able TO0_to VVI_say ITJ_no PRP_to PNP_it VVZ_says NP0_Andrew NP0_Baird AJ0_head NN1_chef PRP_at NP0_Longueville NN1_Manor NP0_St NP0_Saviour NP0_Jersey PUN_. 
+TO0_To VVI_make DPS_his AJ0-NN1_favourite NN1_dish PRF_of AJ0_poached NN1_seabass NN1_fillet PRP_with NN2_langoustines PNP_he VVZ_scales AT0_the NN0_fish CJC_and VVZ_removes AT0_the NN2_innards VBG_being AJ0_careful XX0_not TO0_to VVI_break AT0_the AJ0-NN1_connective NN1_tissue PRP_between AT0_the NN2_flakes PRF_of NN1_flesh PUN_. 
+PNP_He AV0_then VVZ_slices VVB_open AT0_the NN1_fillet TO0_to VVI_add AT0_a NN1-AJ0_langoustine NN1_mousse PUN_. 
+AT0_The NN1_mousse VBZ_is VVN_made PRP_with AT0_a NN1_scallop NN1_meat NN1_base DTQ_which VBZ_is CJC_and VVN_combined PRP_with AT0_a AJ0_reduced NN1_stock PRF_of NN1-AJ0_langoustine NN2_shells NN1_tomato NN1_brandy CJC_and AT0_a AJ0_little NN1_garlic PUN_. 
+AT0_The AJ0_resultant NN1_mix VBZ_is VVN_passed AJ0_seasoned CJC_and VVD-VVN_left TO0_to VVI_cool PUN_. 
+NN1-NP0_Baird AV0_rarely VVZ_adds NN2_eggs PRP_to AT0_the CJS_as AT0_the NN1_scallop NN1_meat VVZ_tends TO0_to VBI_be AJ0_firm AV0_enough PRP_without PNP_them TO0_to VVI_absorb AT0_a AJ0_fair NN1_amount PRF_of NN1_cream PUN_. 
+PNP_He VVZ_leaves AT0_the NN1_mousse AV0_a PRP_on AT0_the AJ0-NN1_firm NN1_side TO0_to VVI_preserve AT0_the NN1_seafood NN1_flavour PUN_. 
+CJS_When VVN_tasted CJC_and VVD_corrected AT0_the NN1_mousse VBZ_is VVN_piped PRP_on AT0_the NN2_fillets DTQ_which VBB_are AV0_then AV0_carefully VVN_folded AVP_back AV0_together PUN_. 
+AT0_The NN2_fillets VBB_are VVN_wrapped PRP-AVP_in NN1_cling NN1_film PRP_with NN1_garden NN2_herbs CJC_and VVN-VVD_poached PRP_for CRD_six PRP_to CRD_eight NN2_minutes PUN_. 
+AV0_Once VVN_removed PRP_from AT0_the NN1_courte NN1_bouillon AT0_the NN2_fillets VBB_are VVN-AJ0_left TO0_to VVI_rest PRP_for CRD_four NN2_minutes PUN_. 
+NN1-NP0_Baird VVZ_serves AT0_the NN0_fish VVD_encircled PRP_by AT0_a NN1_cream CJC_and NN1-AJ0_langoustine NN2_tails PUN_. 
+PNP_He VVZ_recommends VVG_drinking AT0_a AJ0-NN1_Puligny NN1-NP0_Montrachet UNC_Premier UNC_Cru NP0_Les NP0_Referts CRD_1983 PRP_with AT0_the NN1_dish PUN_. 
+NP0-NN1_Baird VVD_started VVG-NN1_cooking PRP_at AT0_The NP0_Ritz PRP_on NP0_Piccadilly NP0_London PRP_under NP0_Michael NP0_Quinn PRP_in CRD_1982 PUN_. 
+PNP_He VBD_was CRD_one PRF_of CRD_six VVN-AJ0_chosen PRP_from AT0_a NN1_brigade PRF_of CRD_40 TO0_to VVI_accompany NP0_Quinn AVQ-CJS_when PNP_he AV0_then VVD-VVN_left TO0_to VVI_work PRP_at NP0_Ettington NN1_Park NP0_Staffordshire PUN_. 
+NN1-NP0_Baird VBD_was AV0_there PRP_for AT0_a AJC_further CRD_two NN2_years PRP_before VVG_leaving PRP_in CRD_1987 PRP_with NN1_chef NP0_Barry NP0_Forster PNQ_who VHD_had VBN_been VVN_offered AT0_the NN1_position PRF_of AJ0_head NN1_chef PRP_at NP0_Longueville NN1_Manor PRP_on NP0_Jersey PUN_. 
+NN1-NP0_Baird AV0_then VVN-VVD_returned PRP_to AT0_the NN1_mainland PRP_after CRD_two NN2_years TO0_to VVI_work PRP_as UNC_sous NN1_chef PRP_under NP0_Brian NP0_Baker PRP_at NP0_Hambleton NN1_Hall NP0_Leicestershire PRP_before VBG_being VVN_offered AT0_the AJ0_head NN1_chef NN1_'s NN1_job PRP_at NP0_Longueville PNX_himself CRD_12 NN2_months AV0_later PUN_. 
+PNP_He VVZ_leads AT0_a NN1_brigade PRF_of CRD_13 CJC_and AT0_the NN1_hotel NN1_restaurant NN2_seats CRD_70 PUN_. 
+NN2_Gardeners NN2_' NN1_World NP0_BBC NN1_Advice NN2_Ideas CJC_and NN1_Inspiration PRP_from DPS_your NP0_BBC NN2_experts NP0_September CRD_1991 PNP_You VM0_can VVI_win AT0_a AJ0_great AJ0_new NN1_patio NP0_Pippa NP0_Wood AVQ_How TO0_to VVI_cope PRP_with AT0_a NN1_slope NN2_Bulbs VVB-NN1_plant AV0_now PRP_for NN1_spring NN2_blooms NP0_Geoff NP0_Hamilton NP0_'s NN1_weed NN1_solution NN1_Autumn PRP_on NN1_display AVQ_How TO0_to VVI_create AT0_a AJ0_colourful NN1_show PRF_of AJ0_late NN2_blooms NN2_Apples DPS_our NN1_pick PRF_of AT0_the NN1_crop NP0_BBC NN2_Gardeners NN2_' NN1_World NN2_Regulars NN1_Garden NN1_News NN2_Dates PRP_for AT0_the NN1_dairy NN1_news CJC_and NN2_reviews CJC_and AJ0_brand AJ0_colourful NN1_seed NN2_mixtures PRP_for PNP_you TO0_to VVI_try PRP_for AJ0_free PUN_. 
+CJC_And AV0_anyway AT0_The NN1_grass VBZ_is AV0_always AJC_greener CJS_when CRD_700 NN0_people VHB_have VHB_n't VVN_tramped PRP_across DPS_your NN1_lawn VVZ_reflects NP0_Alan NP0-NN1_Titchmarsh PUN_. 
+PRP_Over AT0_the NN1_fence VVB_Share DPS_your NN1_gardening NN2_views CJC_and NN2_stories PRP_on DPS_our NN2_readers NN2_' NN2_letters NN1-VVB_page PUN_. 
+NN1_Garden NN2_clippins PNP_We VVB_take AT0_a NN1_peek PRP_into AT0_the NN1_gardening NN1_notebook PRF_of NN1_Radio CRD_5 CRD_'s NP0_Richard NP0_Jackson PUN_. 
+NN1-VVB_Action PRP_for NP0_September NN1_Time TO0_to VVI_start VVG_planning AV0_ahead PUN_; VBB_be VVN_prepared CJC_and VVB_follow DPS_our NN1_garden NN1_schedule PUN_. 
+ORD_Next NN1_month DPS_Our NP0_October NN1_overview VVZ_shows PNP_you DTQ_what DTQ_'s PRP_in NN1_store PRP_in ORD_next NN1_month NN1_'s NN1_magazine PUN_. 
+NN2_Readers NN2_' AJ0_original NN1_gardening NN2-VVZ_tips VHZ_Has DPS_your AJ0_clever NN1_idea VVN_won AT0_a NN1_cash NN1-VVB_prize DT0_this NN1_month PUN_? 
+VVB-NN1_Turn PRP_to DPS_our NN1_page PRF_of NN2_tips PUN_. 
+NP0_Beechgrove NN1_garden CJS_As AT0_the NN1_TV NN0_series VVZ_nears AT0_the NN1_end PRF_of DPS_its NN1_run AT0_the NN1_trio PRF_of NP0_BBC NN2_experts PRP_at NP0_Aberdeen VHB_have DT0_some AJ0_final NN2_words PRF_of NN1_advice CJC_and AJ0_topical NN2_tips PRP_for NN2_gardeners NN1_north PRF_of AT0_the NN1_border PUN_. 
+NN1_Gardening PRP-AVP_in AV0_tomorrow AV0_'s NN1_world AT0_A NN1_glimpse PRF_of AT0_the NN1-AJ0_future PRP_with NP0_Dr NP0_Phil NP0_Gates PUN_; VM0_could AT0_a NN1_fungus VVI_become AT0_the NN1_gardener NN1_'s AJS_best NN1_friend PUN_? 
+NN1-VVB_Question NN1_time DPS_Our NP0_BBC NN2_experts VVB_track AVP_down AJ0_elusive NN1_edging CJC_and AJ0_special NN2_spades PRP_among AJ0_other NN2_queries PUN_. 
+NN1_TV CJC_and NN1_Radio NN1-VVB_Guide VDB_Do VDB_n't VVI_miss DPS_your AJ0-NN1_favourite NN1_gardening NN2_programmes CJC_and NN2_presenters PRP_with DPS_our NN1-VVB_guide PRP_to AT0_the NN1_month NN1_'s NN2_broadcasts PUN_. 
+AJ0_Organic NN1_gardening AJ0_Green NN1_gardening VVG_Waging NN1_war PRP_on NN2_weeds NP0_Geoff NP0_Hamilton VVZ_finds CJT_that AJ0_close NN1_planting VVZ_beats AT0_the NN2_weeds CJC_and AT0_a NN1_spot PRF_of NN1_pond NN1_maintenance VVZ_keeps NN1_nature NN1_'s DT0_own AJ0-NN1_living NN1_pest NN2_controllers AJ0_happy PRP_in AT0_the AJ0_organic NN2_gardens PRP_at NP0_Barnsdale PUN_. 
+AJ0_Organic NN1_advice DT0_Another NN1_batch PRF_of NN2_tips PRP_from AT0_the NN2_experts PRP_at AT0_the AJ0_National NN1_Centre PRP_for AJ0_Organic NN1_Gardening PUN_. 
+AJ0_Practical NN1_Project VVG-NN1_Planting PRP_by NN2_numbers DPS_Our AJ0_easy TO0_to VVI_follow VVD-AJ0_illustrated NN1_guide VVZ_shows PNP_you AVQ_how TO0_to VVI_create AT0_a AJ0_lively NN1_border PRF_of NN2_perennials PRP_for AT0_a AJ0_welcome NN1_display PRF_of AJ0_late NN1_summer NN1_colour PUN_. 
+NN2_Plants NN1-VVB_Colour NN2_creations AT0_The AJ0_heavy NN1_mob NP0_Nigel NP0_Colborn VVZ_demonstrates AT0_a AJ0_light NN1_touch PRP_with AJ0_heavy NN1_soil CJS_as PNP_he VVZ_picks AVP_out NN2_plants CJT_that AV0_positively VVB_enjoy NN2_feet PRF_of NN1_clay PUN_. 
+NN1-AJ0_Specialist NN1_spotlight NN1_Apple NN1-VVB_appeal NP0_Graham NP0_Rice VVZ_takes AT0_the NN1_graft PRP_out VVG-NN1_choosing NN1_apple NN2_rootstocks CJC_and NN2_varieties CJS_as PNP_he VVZ_visits AT0_a NN1-AJ0_specialist NN0_fruit NN1_tree NN1_nursery PUN_. 
+NN1_Portrait NN1_gallery NN2_Rays PRF_of NN1_sunshine AJ0_Simple AV0_yet AJ0_stunning AJ0_perennial NN2_daisies VVB_captivate NP0_Roy NP0_Lancaster NP0_'s AJ0_discerning NN1_eye DT0_this NN1_month CJS_as PNP_he VVZ_profiles DT0_some PRF_of DPS_his NN2_favourites PUN_. 
+NN1-VVB_Flower NN1_garden AV0_Little VVZ_wonders AV0-AJ0_Early AJ0_miniature NN2_bulbs VVB_bring AT0_a NN1_breath PRF_of NN1_spring PRP_to AT0_the NN1_garden PUN_; NP0_Anne NP0_Swithinbank VVZ_shows CJT_that AJ0_good NN2_things VVB_come PRP-AVP_in AJ0_small NN2_packages PUN_. 
+NN2_Gardens PRP_by NN1_design NN1-VVB_Design NN1_project AV0-AJ0_Straight CJC_and AJ0_narrow NN1_Part CRD_one PRF_of NP0_David NP0_Stevens NP0_' AJ0_new NN0_series VVZ_sets AVP_out AT0_the NN2_plans PRP_for DPS_his NN1_transformation PRF_of AT0_a AJ0-AV0_long AJ0_narrow NN1_garden PUN_. 
+NN2_Houseplants VVB_Take AT0_the NN1_plunge VVB_Follow NP0_Daphne NP0_Ledward NP0_'s NN2_signposts PRP_to NN1_success PRP_with AJ0_indoor NN2_bulbs PRP_for NN1_winter NN1_colour PRP_plus DPS_our NN1-VVB_guide PRP_for AJ0_glorious NN1_hyacinth NN2-VVZ_blooms PRP_on NN1_Christmas NN1_morning PUN_. 
+VVG-NN1_Living PRP_with NN2_houseplants NP0_Carol NP0_Kurrein VHZ_has DT0_more NN1_advice PRP_for AT0_the AJ0_budding NN1_greenery NN1_genius PRP_in DPS_your NN1_home PUN_. 
+NN2_Gardens PRP_Out AT0_the NN2_woods NP0_Geoffrey NP0_Smith VVZ-NN2_profiles NN2_trees AV0_both AJ0_native CJC_and AJ0_exotic CJC_and VVZ_explains AVQ_how AT0_a NN1_garden NN1_tree CJC_and DPS_its NN1_companion NN1_planting VVZ_forms AT0_a AJ0_focal NN1_point PRP_for AT0_the NN1_eye CJC_and AV0_just AV0_as AV0_importantly PRP_for NN1_wildlife PUN_. 
+NN1_TV AJ0-NN1_special VVB_Cope PRP_with AT0_a NN1_slope CJS_If PNP_you PNP_'ve VVN_got AT0_the NN1_inclination PNP_she PNP_'s VVN_got AT0_the NN1_advice PUN_; NP0_Pippa NP0_Greenwood VVZ_gives AT0_a AJ0_new CJC_and AJ0_refreshing NN1_slant PRP_on VVG_overcoming AT0_the NN2_problems PRF_of AT0_a AJ0_sloping NN1_garden PUN_. 
+NN1_Kitchen NN1_garden NP0_Joy NP0-NN1_Larkcom VVZ_explains AT0_the NN1_value PRF_of NN1-VVG_living AJ0_green NN2_manures TO0_to VVI_soil NN1_enrichment PUN_. 
+AT0_The NN1_vegetable NN1-VVB_plot NP0_Roy NP0_Lacey VVZ_returns PRP_from NN1_holiday AV0_just PRP_in NN1_time TO0_to VVI_foil AT0_the NN1_advance PRF_of AT0_an NN1_army PRF_of NN2_weeds PRP_on DPS_his NN1_garden NN1_larder PUN_. 
+NN1_Vegetable VVB_grow NN1-VVB_guide AJ0_Perfect NN2_peppers VM0_can VBI_be PNP_yours CJS_as DT0_this NN1_month NN1_'s AJ0_growing NN1_guide VVZ_focuses PRP_on CJC_and DPS_their NN1_capsicum NN2_colleagues PUN_. 
+AT0_The AJ0_Victorian NN1_kitchen NN1_garden CJS_Though DT0_such AJ0_drastic CJC_and AJ0_dangerous NN2_procedures CJS_as NN1_nicotine NN1_fumigation VM0_may VBI_be AT0_a NN1_thing PRF_of AT0_the NN1_past AV0_today AV0_'s AJ0_organic NN1_gardener VM0_can AV0_still VVI_learn AV0_much PRP_from NP0_Harry NP0_Dodson NP0_'s AJ0_traditional NN2_methods PRF_of NN1_pest NN1_control PUN_. 
+NN2_Competitions CJC_and NN2-VVZ_offers NN1_Competition VVB_Win AT0_a NN1_patio ZZ0_A AJ0_superb AJ0_new NP0_Bradstone NN1_patio VBZ_is VVG_waiting TO0_to VBI_be CJC_and VVN-VVD_built PRP_in DPS_your NN1_garden PRP_in DPS_our AJ0_great AJ0_new NN1_competition PUN_. 
+NN1_Competition VVB_Win AT0_a NP0_Renault NP0_Clio VVB_Solve NN1_part CRD_two PRF_of DPS_our NN1_plant NN1_identity NN1_parade CJC_and PNP_you PNP_'ve AT0_the NN1_chance TO0_to VVI_win AT0_a AJ0_fantastic AJ0_new NN1_car PUN_. 
+NN2_Subscriptions CJC_and NN2_binders PNP_You AV0_never VVB_miss AT0_an NN1_issue PRP_with DPS_our AJ0_brilliant NN1_subscription NN1-VVB_offer AV0_so AVQ_why XX0_not VVI_treat PNX_yourself PRP_to AT0_a NN1_binder TO0_to VVI_keep PNP_them AVP_in AV0_too PUN_? 
+NN1-AJ0_Back NN2_issues DPS_Our ORD_first CRD_six NN2_issues VBB_are AT0_the NN1_gardening NN2_collectors NN2_' NN2_items PRF_of AT0_the NN1_year PUN_. 
+VVB_Order AT0_the NN2_numbers PNP_you VVD-VVN_missed PRP_with DPS_our AJ0_special NN1_coupon PUN_. 
+VVB-NN1_Welcome VVG_Coping PRP_with AT0_a NN1_slope VBZ_is AT0_a AJ0_major NN1_headache PRP_for CRD_thousands PRF_of NN0_people PUN_. 
+CJS_While AT0_the NN1_inclination VM0_may VVI_vary PRP_from AT0_a AJ0_modest NN1_rise PRP_to AT0_a NN1_mountainside EX0_there VBB_are AT0_a DT0_few AJ0_golden NN2_rules PNP_you VM0_can VVI_follow PUN_. 
+CJS_When NP0_Pauline CJC_and NP0_Chris NP0_Lloyd PRF_of NP0_Dudley VVD_moved NN1_house AV0_then VVD_took AVP_on AT0_a AJ0_new NN1_garden PRP_with AT0_a CRD_1 PRP_in CRD_3 NN1_slope PUN_. 
+PNP_They VDD_did VDD_n't VVI_know AVQ_where PNP_they VBD_were VVG_going TO0_to VVI_start PUN_. 
+CJS_When NN1_television NN1_'s NN2_Gardeners NN2_' NN1_World VVN-VVD_heard PRF_of DPS_their NN1_plight PNP_they VVB_set AVP_about VVG_lending AT0_a NN1_hand PUN_. 
+DT0_This NN1_month NP0_Pippa NP0_Greenwood VVZ_shows AT0_the NN2_results PRF_of DPS_their NN1_work PRP_in AT0_a AJ0_special NN1_feature PRP_with DT0_some AJ0_great NN2_tips PRF_of DPS_her DT0_own PUN_. 
+VVB_Get AJ0_set PRP_for AT0_a NN1_bulb NN1_bonanza AV0_too PUN_. 
+CJS_Whether PNP_you PNP_'re VVG_looking PRP_for NN2_bowls PRF_of NN2_bulbs TO0_to VVI_brighten AT0_the NN1_home CJC_or AT0_the AJS_best NN2_miniatures PRP_for AT0_a NN1_rock NN1_garden AV0_now AV0_'s AT0_the NN1_time TO0_to VVI_start NN1_work CJC_and NP0_Daphne NP0_Ledward CJC_and NP0_Anne NP0-NN1_Swithinbank VBB_are AV0_here TO0_to VVI_pass AVP_on AT0_a NN1_host PRF_of AJ0_colourful NN2_ideas PUN_. 
+CJC_And AV0_finally AT0_a AV0_very VVB_warn NN2_Gardeners NN2_' NN1_World NN1-VVB_welcome PRP_to NP0_Richard NP0_Jackson PNQ_who VVZ_presents NN1_Garden NN2_Clippins PRP_on NP0_BBC NN1_Radio CRD_5 CRD_'s NP0_Saturday NN1-VVB_breakfast NN1_programme PUN_. 
+NP0_Richard VBZ_is VVG_joining PNP_us AT0_every NN1_month TO0_to VVI_pass AVP_on NN2_tips NN2_ideas CJC_and NN1_news PRP_from AT0_the NN1_world PRF_of NN1_horticulture CJC_and VVB_add AT0_a NN1_touch PRF_of NN1_humour AV0_too PUN_. 
+PRP_Until ORD_next NN1_month AJ0_happy NN1_reading CJC_and AJ0_good NN1_gardening PUN_. 
+NN1_Dovecote NN2_deliberations PRP_in DT0_this NN1_month NN1_'s NN1_Question NN1_Time UNC_p80 AT0_A AJ0_friendly NN1_fungus UNC_p79 NN2_Violets VDB_do VDB_n't VVI_shrink PRP_from AT0_a AJ0_heavy NN1_soil NP0_Nigel NP0_Colborn PRP_on NN1_clay UNC_p26 NN1_Apple NN1-VVG_growing VVD-VVN_made AV0_as AJ0-AV0_easy CJS_as NN1_pie NP0_Anne NP0_Swithinbank NP0_'s AJ0_brilliant NN2_bulbs PRP_for AJ0_early NN1_colour UNC_p64 NN2_Pests PRF_of AT0_the NN1_past PRP_on UNC_p45 NN2_Robins VVB_mark AVP_out NN1_territory PRP_in DT0_this NN1_wildlife NN1_garden UNC_p30 NN1_NEWS CJC_AND NN2_VIEWS NN1_Garden NN1_news DPS_Your AJ0_monthly NN1_guide PRP_to NN1_news CJC_and NN2_views PRP_from AT0_the NN1_world PRF_of NN1_gardening AJ0_Complimentary NN2_colours NN2_borders VHB_have VBN_been VVG_enjoying AJ0_renewed NN1_popularity AV0_recently CJC_and NP0_Mr NP0_Fothergill NP0_'s NN2_Seeds VHZ_has VVN_come AVP_up PRP_with AT0_the AJ0_perfect AJ0_quick NN1_answer PRP_to AJ0_monochrome NN1_gardening PUN_. 
+AT0_The AJ0_new NN1_Colour NN2_Schemes VVB-NN1_seed NN2_mixtures VVB_come PRP_in CRD_five AJ0_different NN1_colour AJ0_yellow NN1-AJ0_orange AJ0_pink AJ0_blue CJC_and AJ0_white PUN_. 
+PNP_They VVB_cost DT0_each CJC_and VVB_contain CRD_three NN2_sachets PRF_of NN2_seeds PRP_in NN2_shades PRF_of AT0_the AJ0_chosen NN1_colour VVN_graded PRP_by NN1_height PRP_into AJ0_small NN1-AJ0_medium CJC_and AJ0_large NN2_varieties PUN_. 
+PNP_We VHB_have VVN_joined NP0_Mr NP0_Fothergill NP0_'s TO0_to VVI_offer CRD_200 NN2-VVZ_sets PRP_in DT0_each NN1_colour PRP_to DPS_our NN2_readers AT0_a NN1_total PRF_of NN2_packets TO0_to VVI_give AV0_away PUN_! 
+DT0_Each NN1_packet VVZ_includes AT0_a NN1_leaflet VVG_giving AJ0_full NN2_instructions PRP_for AJ0_successful NN1_cultivation PUN_. 
+VVB_Send DPS_your NN1_address CJC_and NN1-VVB_colour NN1_choice NN1_colour AV0_only PRP_per NN1_applicant PRP_on AT0_a NN1_postcard PRP_to VVB-NN1_Colour NP0_BBC NN2_Gardeners NN2_' NN1_World NN1_Magazine NN1-VVB_Offer NP0_Mr NP0_Fothergill NP0_'s NN2_Seeds NP0_Gazeley NP0_Road NP0_Kentford NP0_Newmarket NP0_Suffolk UNC_CB8 UNC_7QB PUN_. 
+NN2_Winners VM0_will VBI_be VVN_drawn PRP_after NP0_September CRD_7 PUN_. 
+VVB-NN1_Set NN1_sale PRP_for NP0_Scotland CJS_If PNP_you PNP_'re AV0_always AJ0_admiring AJ0_unusual NN2_bulbs PNP_you VVN_seen PRP_in AJ0_botanical CJC_and AJ0_National NN1_Trust NN2_gardens CJC_but VDB_do VDB_n't VVI_know AVQ_where TO0_to VVI_get PNP_them NN1-VVB_head PRP_for NN1-NP0_Greenbank NN2_Gardens DT0_this NN1_month PUN_. 
+PRP_On NP0_September CRD_14 CJC_and CRD_15 AT0_the NN0_staff CJC_and NN2_friends PRF_of NP0-NN1_Greenbank VVB_hold AT0_a AJ0_big NN1_sale PRF_of AJ0_unusual NN2_bulbs PRP_for AJ0_discerning NN2_gardeners PUN_. 
+NN1-VVB_Greenbank VBZ_is PRP_at NP0_Clarkston NP0_Glasgow PUN_. 
+NN1-NP0_Tel CRD_3281 PUN_. 
+VVB_Redistribute DPS_your NN1_reading NN1_matter CJS_If PNP_you PNP_'ve VVN_snapped AVP-PRP_up CRD-PNI_one DPS_our AJ0_handsome NN2_binders PNP_you PNP_'ll VVI_find PRP_towards AT0_the NN1_end PRF_of AT0_the NN1_year CJT-DT0_that CJS_because PNP_we PNP_'ve VBN_been AJ0_able TO0_to VVI_pack AV0_so DT0_many NN2_pages PRP_into NP0_Britain NP0_'s AJS_newest AJS_brightest NN1_gardening NN1_magazine NN2_things VBB_are VVG_getting AV0_well AV0_rather AJ0_full PUN_. 
+AV0_Easy AT0_the NN1_congestion PRP_with AT0_a AV0_very AJ0_special NN1_binder PRP_for DPS_our NN2_Gardeners NN2_' NN1_Manual CJC_and VVB_keep DT0_this AJ0_invaluable NN1_reference VVB-NN1_work AV0_together CJC_and AV0_always PRP_to NN1_hand PUN_. 
+VVB_See DPS_our NN1_offer PRP_on UNC_p50 PUN_. 
+VVB_Show DPS_your NN2_onions AV0_Around NN2_visitors VBB_are VVN_expected PRP_at AT0_the NN1_North PRF_of NP0_England AJ0_Horticultural NN1_Society NN1_'s NN1_autumn NN1-VVB_show PRP_on NP0_September CRD_13 CJC_and CRD_14 PUN_. 
+DT0_This NN1_year AT0_the NN1_show VVZ_includes AT0_the AJ0_National NP0_Kelsae NN1_Onion NN1_festival CJC_and AJ0_terrific NN1_nursery NN2-VVZ_exhibits PUN_. 
+NN2_Tickets PRP_for NP0_Friday VVD_cost PRP_between AV0_10am CJC_and AV0_4pm PUN_; PRP_from PRP_to AV0_8pm PUN_. 
+NP0_Saturday PRP_at DT0_any NN1_time PRP_between CJC_and AV0_5pm PUN_. 
+VDD_Did PNP_you VVI_know NN1-VVB_Plant NN1_collecting VHZ_has VBN_been VVG_going AVP_on PRP_for CRD_thousands PRF_of NN2_years PUN_. 
+CJS_Although AT0_the AJ0_Victorian NN1_era VBZ_is VVN_considered TO0_to VBI_be AT0_the AJ0_great NN1_age PRF_of NN1_plant NN2_collectors AT0_the AJ0_ancient NN2_Egyptians VVD-VVN_recorded NN1_plant VVG_collecting NN2_expeditions PRP_in DPS_their NN2_hieroglyphics PUN_. 
+AT0_The AJS_earliest PRF_of DT0_these VBD_was PRP_in AV0_1495BC CJS-AVQ_when NN1_frankincense NN2_trees VBD_were VVN_brought AVP_back PRP_from AT0_the NN1_Horn PRF_of NP0_Africa PRP_for NP0_Queen NP0_Hatshepsut PUN_. 
+NN1_Apple NN1_pie NN1_order VVB_Learn PNI_everything PNP_you AV0_ever VVD_wanted TO0_to VVI_know PRP_about NN2_apples CJS_while AJ0-VVG_tasting NN1_cider CJC_and VVG_trying AVP_out DT0_some AJ0_scrumptious NN1_apple NN2_recipes PRP_at NP0_Priorwood NN1_Garden NP0_Roxburghshire PRP_on NP0_September CRD_29 PUN_. 
+AT0_The NN1_Apple NP0_Day VVZ_runs PRP_from CJC_and VVZ_includes AT0_an NN1_apple NN1_question NN1_time NN1_session PRP_with NN2_experts PRP_on NN1_hand TO0_to VVI_identify DPS_your NN1_mystery NN2_apples CJC_and VVB_diagnose DT0_any NN2_problems PUN_. 
+NN1-NP0_Priorwood NN2_Gardens VBB_are PRP_at NP0_Melrose NP0_Roxburghshire PUN_. 
+NN1-NP0_Tel CRD_2157 PRP_for AJC_further NN2_details PUN_. 
+NN1_Grandad NN1_'s AJ0_rosy AJ0_new NN0_hebe DT0_This AJ0_attractive AJ0_new NN0_hebe VBZ_is AV0_appropriately VVN_called PRP_after AT0_the PRF_of NP0_John NP0_Tooby PRF_of NP0-NN1_Bransford NN2_Nurseries PUN_. 
+VVZ_grows NN0_30cm AJ0_high CJC_and AV0_about AV0_twice AV0_as AJ0-AV0_wide PRP_in NN1_soil PRP_in NN1_sun CJC_or CJC_and VBZ_is AJ0_hardy PUN_. 
+PNP_It VM0_will VBI_be AJ0_available PRP_from NN1_garden NN2_centres DT0_this NN1_autumn PUN_. 
+PRP_For DT0_any AJC_further NN1_information VVB-NN1_contact NP0-NN1_Bransford NN2_Nurseries PUN_. 
+NN1-NP0_Tel PUN_. 
+VDB_Do VDB_n't VVI_miss VVB_See NP0_Suttons NN2_Seeds NN2_' NN1_trial NN2_grounds PRP_at NP0_Ippleden PRP_near NP0_Newton NP0_Abbot NP0_Devon PRP_on DPS_their AJ0_open NN2_days NP0_August CRD_30 CJC_and CRD_31 PUN_. 
+NP0_Suttons NN2_experts VM0_will VBI_be AV0_there TO0_to VVI_answer NN2_questions AV0_too PUN_. 
+AT0_A NN1_town CJC_and NN1_country NN1-VVB_show AT0_The NN1_Town NN1_Country NN1_Garden VVN_exhibited PRP_by AT0_the NP0_Sunday NN1-VVB_Express PRP_in NP0_BBC NN2_Gardeners NN2_' NN1_World NN1_Magazine PRP_at AT0_the AJ0_Royal NN1_Show VM0_can VBI_be VVN_seen AV0_again DT0_this NN1_month PUN_. 
+VVN_Designed PRP_by NN1_Faith CJC_and NP0_Geoffrey NP0_Whiten PNP_it VVZ_features AV0_both VVN-AJ0_paved CJC_and VVD-AJ0_lawned NN2_areas PRP_with NN1_terracotta NN2_pots AT0_a AJ0_raised NN1_pond AJ0_colourful NN2_borders CJC_and AT0_a AJ0_handsome NN1_summerhouse PUN_. 
+AT0_The NN1_Town NN1_Country NN1_Festival PRP_at AT0_the NP0-NN1_RASE NP0-NN1_Showground NP0_Stoneleigh NP0_Warks VBZ_is PRP_on NP0_August PUN_. 
+NN1-NP0_Tel PRP_for NN2_details PUN_. 
+VVB-NN1_Torbay NN1-VVB_tip AT0_The NN1-NP0_Torbay NN1_Flower NN1_Festival VVZ_runs PRP_from NP0_August CRD_23 PRP_to CRD_26 PRP_on NP0_Paignton NP0_Green NP0_Devon PUN_. 
+VVB-NN1_Catch NN1_nursery NN2-VVZ_exhibits CJC_and NN1-VVB_question NN1_time NN2_sessions NN1_Bank NN1_Holiday NP0_Monday PUN_. 
+VVB-NN1_Price PUN_. 
+AJ0_Topical NN1_topiary AJ0_Fancy NN2_shapes CJC_and AJ0-VVD_pointed NN2_pyramids VBB_are DT0_all NN1_part PRF_of AT0_the AJ0_famous NN2_gardens PRF_of NP0_Levens NN1_Hall PUN_. 
+PNP_They VBD_were VVN_laid AVP_out PRP_in AT0_the AJ0_formal NN1_style CRD_300 NN2_years AV0_ago PRP_by NP0_James CRD_II CRD_'s NN1_gardener NP0_Guillaume NP0_Beaumont PUN_. 
+CJS_Since NP0_Beaumont NP0_'s NN2_days EX0_there VHB_have VBN_been AV0_just CRD_ten AJ0-NN1_head NN2_gardeners PRP-AVP_down AT0_the NN2_generations PUN_. 
+NP0_Levens NN1_Hall VVZ_opens AV0_regularly PRP_through AT0_the NN1_season CJC_and PRP_on NP0_September CRD_23 PRP_for AT0_the AJ0_National NN2_Gardens NN1-VVB_Scheme PUN_. 
+NP0_Levens NN1_Hall VBZ_is NN0_5m NN1_south PRF_of NP0_Kendal PRP_in NP0_Cumbria PUN_. 
+VDD_Did PNP_you VVI_know AT0_The NN1_sting PRF_of AT0_a NN1_nettle VVZ_works AVP-PRP_in AV0_just AT0_the DT0_same NN1_way CJS_as AT0_a AJ0_hypodermic NN1_syringe PUN_. 
+AT0_The NN1_cell NN2_walls PRP_in AT0_the PRP_on AT0_the NN2_stems VVB_contain NN1_silica AT0_a NN1_substance PUN_; PNP_they VVB_puncture AT0_the NN1_skin CJC_and AV0_then AT0_the NN1_irritant NN1_poison VBZ_is VVN_released PUN_. 
+AJ0_Floral NN2_arts VVB_Gather AT0_the NN2_blooms PRF_of AJ0_late NN1_summer CJC_and AJ0_early NN1_autumn TO0_to VVI_create NN1_flower NN2_arrangements PRF_of AT0_the NN1_past PUN_. 
+NP0_Jane AV0_recently VVN_published NN1_book NN1_Period NN2_Flowers VVZ-NN2_draws PRP_on NN1_inspiration PRP_from AJ0_medieval NN2_times AV0_onwards TO0_to VVI_make AJ0_inspiring NN1_flower NN2_arrangements AJ0_great CJC_and AJ0_small PUN_. 
+VVB-NN1_Price PRP_from NP0_Charles NP0_Letts PUN_. 
+AJ0_Autumnal NN2_delights AT0_The AJ0_Royal AJ0_Horticultural NN1_Society NN1_'s AJ0_Great NN1_Autumn NN1_Show VBZ_is DPS_their ORD_second AJS_largest NN1_show PRP-CJS_after NP0_Chelsea VVN-VVD_held PRP-AVP_in DPS_their AJ0_old CJC_and AJ0_new NN2_halls PRP_in NP0_Greycoat UNC_SW1 PUN_. 
+PRP_As AJ0_fine NN1-VVB_produce NN2-VVZ_displays AT0_the NN1_show VM0_will VBI_be VVN_packed PRP_with NN1_nursery NN2-VVZ_exhibits CJC_and AT0_the AJS_best PRF_of AJ0_autumnal NN1_flower NN2_displays PUN_. 
+AT0_The NN1_show VBZ_is PRP_on NP0_September CRD_17 NN2_tickets CJC_and NP0_September CRD_18 PUN_. 
+NN1-NP0_Tel CRD_4333 PUN_. 
+CJC_And AV0_anyway ITJ_Phew PUN_! 
+PNP_We AV0_finally VDD_did PNP_it PUN_. 
+AT0_The NN1_garden VBD_was VVN_flung VVB_open AT0_the NN1_day PRP_before AV0_yesterday CJC_and PNP_I PNP_'m AV0_still VVG_reeling PUN_. 
+PNP_You VM0_may VVI_recall DT0-CJT_that AV0_earlier PRP_in AT0_the NN1_year PNP_I VVD_burdened PNP_you PRP_with DPS_my NN2_worries PUN_. 
+AV0_Well CJS_after DT0_much NN1_deliberation CJC_and AT0_a NN1_family CJC_or CRD_two PNP_we VVD_decided PNP_we PNP_'d VVI_give PNP_it AT0_a NN1_go CRD_one NP0_Sunday NN1_afternoon PRP_between AT0_the NN2_hours PRF_of CRD_2 CJC_and AV0_6pm PUN_. 
+PNP_We VVD_decided XX0_not TO0_to VDI_do NN2_teas PNP_you VM0_may VVI_remember PUN_. 
+AV0_Then CRD_one NN1_lady VVD_wrote CJC_and VVD_said CJT_that AT0_the NN2_ladies PRF_of AT0_the AJ0_local NN1_church VM0_should VDI_do PNP_it PRP_for PNP_us PUN_. 
+CJS_If PNP_they VVD_refused PNP_we VBD_were TO0_to VVI_let PNP_her VVI_know CJC_and PNP_she PNP_'d VVI_write PRP_to AT0_the NN1_bishop PUN_. 
+AV0_Thankfully PNP_it VDD_did VDD_n't VVI_get AV0_that AV0_far PUN_. 
+CRD_One PRF_of DPS_our NN2_neighbours VVD_rang TO0_to VVI_say PNP_she PNP_'d VVN_booked AT0_the NN1_village NN1_hall CJC_and PNP_she CJC_and DPS_her NN2_ladies VM0_would VBI_be VDG_doing NN2_scones CJC_and NN1_tea PUN_. 
+AT0_The NN2_proceeds VM0_would VBI_be PRP_in AT0_the DT0_same NN1_charity CJS_as DPS_our NN1_garden NN1_opening PUN_. 
+AV0_Then AT0_the AJ0_local NN2_Lions VVD_rang AVP_up PUN_. 
+AVQ_Where VBD_were AT0_the NN2_cars VVG_going TO0_to VVI_park PUN_? 
+PRP_In AT0_the NN1_village NN1_hall NN1_car NN1_park VBD_was AT0_the NN1_answer PUN_. 
+AT0_The NN2_Lions VM0_would VVI_provide PNP_us PRP_with NN2_signs CJC_and NN2_men TO0_to VVI_act PRP_as NN1_car NN1_park NN2_attendants PUN_. 
+AJ0_Slight NN1_unease PRP_on DPS_my NN1_part PUN_. 
+DT0_This NN1_thing VBD_was VVG-AJ0_growing PUN_. 
+VBD_Was AT0_the NN1_garden PRP_up PNP_it PUN_? 
+PRP_For CRD_two NN2_days AV0_beforehand DPS_my CJC_and PNX_myself VVD-VVN_worked AV0_flat AVP_out PUN_. 
+VVG_Weeding VVG-NN1_edging VVG-NN1_mowing VVG_prinking NN1-VVG_pruning PUN_; PNP_we VDD_did AT0_the NN1_lot PUN_. 
+NN2_Piles PRF_of NN2_stones VBD_were VVN_moved PRP_by NN2_hands VVD_blistered PRP_by NN2_besoms PUN_. 
+NN1_Shrub NN2_roses VBD_were VVN_trussed TO0_to VVI_let NN0_people VVI_pass PUN_; NN2_signs VVD-VVN_erected TO0_to VVI_divert NN2_visitors PRP_from AT0_the NN1_compost NN1_heap PUN_. 
+AT0_The NN1_night AV0_before AT0_the NN1_man PRP_from AT0_the NN2_Lions VVD_rang PUN_. 
+PNP_He VHD_had VHD_n't VVN_seen DT0_any NN2_posters PRP_in AT0_the NN1_village PUN_. 
+VM0_Would NN0_people VVB_know PRP_about AT0_the NN1_opening PUN_? 
+PNP_I VVD_worried DT0_all NN1_night CJS_lest AT0_the NN1_listing PRP_in AT0_the AJ0_local NN1_paper CJC_and PRP_in AT0_the NN1_Order PRF_of NP0_St NP0_John NN1_country NN1_handbook VHD_had XX0_not VBN_been AV0_enough PUN_. 
+PNP_I PNP_'d VVN_refrained PRP_from VVG_advertising DT0_any DT0_more PRP_for NN1_fear CJT_that PNP_we VM0_would VBI_be VVN_overwhelmed PUN_. 
+VHD_Had PNP_I AV0_actually VVN_erred PRP_on AT0_the AJ0_discreet NN1_side PUN_? 
+AT0_The NN1_day VVD_came PUN_. 
+PNP_I VVD_woke PRP_to AT0_the NN1_sound PRF_of AJ0_torrential NN1_rain PUN_. 
+AV0_Eventually PNP_it VVD_stopped PUN_. 
+PRP_At AV0_about NN2_cars VVD_started TO0_to VVI_appear CJC_and NN0_people VBD_were VVN_seen VVG-NN1_walking PRP_up AT0_the NN1_road PUN_. 
+AT0_The NN1_garden VVD_became PRP_like AT0_an NN2_ants NN2_' NN1_nest CJS_as VVG-AJ0_snaking NN2_rows PRF_of NN0_people VVD-VVN_clambered AVP_up DPS_our NN1_hillside PUN_. 
+PRP_At AT0_the NN1_car NN1_park VVD_started VVG_overflowing PRP_into NN2_neighbours NN2_' NN2_drives PUN_. 
+VHB_Have PNP_you AV0_ever VVN_seen DPS_your NN1_garden AV0_absolutely AJ0_full PRF_of NN2_bodies PUN_? 
+PNP_It PNP_'s AV0_quite AT0_a NN1_sight PUN_. 
+PRP_By PNP_it VBD_was AV0_all AVP-PRP_over PUN_. 
+PNP_We PNP_'d VBN_been VVN_visited PRP_by CRD_700 NN0_people PUN_. 
+PNI_Nothing VBD_was VVN-AJ0_pinched PNI_nothing VBD_was VVN_moved PUN_. 
+PNP_I VHB_have XX0_not VVN_found CRD_one NN1_cigarette NN1-VVB_end CJC_or CRD_one NN1_piece PRF_of NN1-AJ0_waste NN1_paper PUN_. 
+NN0_People VVD-AJ0_left AJ0-VVG_smiling CJC_and CJS_as PNP_I VVD_passed CRD_one NN1_lady PRP_on DPS_her NN1_way PRP_down AT0_the NN1_hill PNP_she VVD_grinned PRP_at PNP_me CJC_and VVD_said PUN_! 
+PNP_We VBB_are VVN-AJ0_shattered CJC_and AV0_so VBZ_is AT0_the NN1_garden PUN_. 
+CJC_But PRP_after VVG_slaving AVP-PRP_over PNI_something PRP_for CRD_ten NN2_years PNP_it VBZ_is AV0_rather AJ0_nice TO0_to VVI_show PNP_it AVP-PRP_off AV0_a PUN_. 
+VM0_Would PNP_we VDI_do PNP_it AV0_again PUN_? 
+PNP_You VVB_bet PUN_. 
+NP0_Alan NP0-NN1_Titchmarch AJ0_Sharp NN1_choice PRP_for NN1_pruning NN2_Gardeners VVB_know AT0_the NN1_value PRF_of AT0_a AV0_really AJ0_sharp NN1_knife PRP_for NN1-VVG_pruning PRP_as VVG_propagating PUN_. 
+DT0_These AJ0_sharp NN2_tools VBB_are PRP_from NP0_Sandvik NP0_'s NN1_range PRF_of NN1_gardening NN2_knives PUN_. 
+PRP_From AJ0-NN1_left AT0_the AJ0_curved UNC_P20 NN1_pruning NN1_knife VVZ_features AT0_a NN1_carbon NN1_steel NN1_blade CJS_as VDZ_does AT0_the UNC_P11 AJ0_budding NN1_knife PUN_; AT0_the UNC_S4 NN1_pruning NN1_knife VBZ_is PRP_in AJ0_stainless NN1_steel CJC_and VVZ_comes PRP_with NN1_shackle CJC_and NN1_strap CJC_and DPS_its DT0_own NN1_steel PUN_. 
+PRP_For DPS_your AJ0_local NN2_stocklists VVB-NN1_contact NP0_Sandvik PUN_. 
+NN1-NP0_Tel CRD_4700 PUN_. 
+NN1-VVB_Spring NN1_pansy EX0_There VBD_was AT0_an AJ0_overwhelming NN1_response PRP_to DPS_our NP0_May NN1_competition TO0_to VVI_name AT0_the AJ0_new NN1_pansy PRP_from NP0_Suttons NN2_Seeds PUN_. 
+AT0_The NN2_judges VVD-VVN_sifted AVP_through AV0_over NN2_entries CJC_and AV0_finally VVD-VVN_picked AT0_the NN1_name NN1_Ovation PRP_as AT0_the NN1_winner PUN_. 
+CRD_Seven NN2_readers VVD_wrote PRP-AVP_in VVG_suggesting DT0_this NN1_name AV0_so CRD_one NN1_entry VBD_was VVN_drawn PRP_out AT0_a NN1_hat NP0_Mrs NP0_Joan NP0_Davis PRF_of NP0_Chipping NP0_Sodbury NP0_Bristol VBZ_is AT0_the NN1_winner PRF_of AT0_an NN1_shredder PUN_. 
+VVB_Win AT0_a NN1_patio VVG_Paving AT0_the NN1_way PRP_In DT0_this NN1_month NN1_'s NN1_competition PNP_you VM0_could VVI_win AT0_a NN1-AJ0_prize NN1_patio PRP_worth VVN_designed CJC_and VVN_built PRP_by AT0_a NP0_Chelsea CJS_Whether PNP_yours VBZ_is AT0_a NN1_family NN1_garden DTQ_which VHZ_has TO0_to VVI_sustain AT0_the AJ0_rigorous NN2_attentions PRF_of NN2_children AT0_a AV0_more AJ0_sedate NN1_garden PRP_for VVG-AJ0_entertaining AV0_al CJC_or AT0_a AJ0_small NN1_city NN1_garden PRP_with DT0_little NN1_room PRP_for DT0_more CJS_than AT0_a NN1_couple PRF_of AJ0_raised NN2_flowers NN2_beds AT0_a NN1_patio VM0_can VVI_give DPS_your NN1_home CJC_and NN1_lifestyle AT0_a AJ0_whole AJ0_new NN1_dimension PUN_. 
+AJ0_High NN1_quality NN1_paving NP0_Bradstone VVG-AJ0_leading NN2_producers PRF_of AJ0_high NN1_quality NN1-VVG_paving CJC_and NN1_walling NN2_products VBZ_is AJ0_pleased TO0_to VVI_offer AVP_out NN1_prizewinner AT0_the NN1_opportunity TO0_to VDI_do AV0_just CJT-DT0_that PRP_in DT0_this AJ0_exciting NN1_competition TO0_to VVI_win AT0_a NN1_patio PRP_worth PUN_. 
+NN1_Part PRF_of DPS_your NN1_prize VM0_will VBI_be AT0_a NN1_consultation PRP_with AJ0_celebrated NP0_Chelsea NN1_builder NP0_Alan NP0_Sargent PNQ_who VM0_will VVI_listen PRP_to DPS_your NN2_requirements CJC_and VVB_advise PRP-AVP_on AT0_the AV0_most AJ0_suitable NN1_design PUN_. 
+PNP_You VM0_may VVI_prefer AT0_a AJ0_large CJC_and AJ0_simple AJ0_paved NN1_terrace NN1_area CJC_or PNI_something AJC_smaller VVG_incorporating AJ0_raised NN2_beds CJC_and AT0_a NN1_barbecue PUN_. 
+PRP_With NP0_Alan NP0_'s NN1_guidance PNP_you VM0_will VVI_choose PRP_from AT0_the NP0_Bradstone NN1_range PRF_of NN1-VVG_paving CJC_and NN1_walling PUN_. 
+NN1_Authenticity CJC_and NN1_quality VBB_are AT0_the NP0_Bradstone NN2_trademarks PUN_; DT0_many PRF_of DPS_its NN1_paving CJC_and VVG-AJ0_waling NN2_products VBB_are VVN_taken PRP_from AJ0_natural NN1_stone NN2_masters AV0_in TO0_to VVI_reproduce AT0_the AJ0_varying NN2_surfaces CJC_and NN1_edge NN2_details PRF_of AJ0_quarried CJC_or AJ0_weathered NN1_stone PUN_. 
+NN2_Colours VBB_are AJ0-AV0_natural AV0_too PRP_from AT0_the NP0_Wetherdale NN1_paving AJ0_reminiscent PRF_of NP0_York NN1_stone PRP_to AT0_the AJ0_weathered AJ0-NN1_red AJ0_Riven NN1_paving VVN-VVD_designed TO0_to VVI_complement NN1_brick PUN_. 
+NN1-VVB_Spring PRP_into NN1_action DPS_Your AJ0_new NN1_patio VM0_will VBI_be VVN_designed CJC_and VVN-VVD_built PRP_in NN1_time PRP_for NN1_spring AVQ_when PNP_you VM0_can AV0_really VVI_enjoy PNP_it PRP_to AT0_the AJ0_full PUN_. 
+CRD_Two VM0_will VVI_win NP0_Bradstone NP0_Riven NN1_paving CJC_and NP0_Cotswall NN1_walling TO0_to VVI_construct AT0_a NN1_planter NN1_seat AT0_an AJ0_instant NN1_way TO0_to VVI_add NN1_colour CJC_and NN1_character PRP_to AT0_the NN1_garden PUN_. 
+AVQ_How TO0_to VVI_enter AV0_Below VBB_are CRD_six NN2_requirements PRP_for AT0_a NN1_patio DTQ_which PNP_we VVB_want PNP_you TO0_to VVI_place PRP_in NN1_order PRF_of NN1_importance ZZ0_A PRP_Near NN1_house ZZ0_B AJ0_Sunny NN1_aspect NP0_C ZZ0_D AJ0-VVN_Sheltered PRP_from AT0_the NN1_wind ZZ0_E AJ0-AV0_Easy TO0_to VVI_maintain ZZ0_F NN1_Paving NN1-VVB_design AJ0_complementary TO0_to VVI_house VVB_Send DPS_your NN2_answers AV0_and CJC_and DPS_your NN1_name CJC_and NN1-VVB_address PRP_on AT0_a NN1_postcard PRP_to NP0_BBC NN2_Gardeners NN2_' NN1_World NN1_Magazine NN1_Competition NN1_PO NN1_Box CRD_55 NP0_Wetherby NP0_West NP0_Yorks UNC_LS23 UNC_7ET TO0_to VVI_arrive PRP_by ORD_first NN1_post PRP_on NP0_Friday NP0_September CRD_13 CRD_1991 PUN_. 
+AT0_The ORD_first NN1_entry VVN_drawn PRP_after AT0_the NN1_closing NN1_date DTQ_which VVZ_matches AT0_the NN2_judges NN2_' NN1_decision VM0_will VVI_win PUN_. 
+NN1_Patio VVD-VVN_built VVG_using NP0_Bradstone NP0_Wetherdale NN1_paving CJC_and NN1_coping NN1_Authenticity VBZ_is CRD_one PRF_of NP0_Bradstone NP0_'s NN2_trademarks PRP_Over AT0_the NN1_fence DPS_Your NN1_chance PRP_to NN1_air PNP_you NN1_news NN2_views CJC_and AV0_of DT0_those NN1_gardening NN2_anecdotes NN1_Letter PRF_of AT0_the NN1_month AT0_An AJ0_alternative NN1-VVB_use PRP_for NN1_peat NN1_alternative DPS_My NN1_mum VVZ_buys DPS_your NN1_magazine CJC_and PNP_I VVB_read PRP_about NP0_Geoff NP0_Hamilton NP0_'s NN1_cocopeat NN2_trials PUN_. 
+PNP_We VHB_have NN1_cocopeat PRP_in DPS_our NN2_flowerpots CJC_and PNP_it VBZ_is AV0_very AJ0_good CJC_but EX0_there VBZ_is CRD_one NN1_drawback NP0_Geoff VDD_did VDD_n't VVI_mention PUN_. 
+NP0_Birds AV0_especially NN2_blackbirds PRP_like VVG_using AT0_the NN2_fibres PRP_for NN1-VVG_building NN2_nests PUN_. 
+PNP_They VVD_went AVP-PRP_along DT0_all DPS_our NN2_pots VVG_getting AT0_the NN2_fibres AVP_out PUN_. 
+PNP_They AV0_even VVD_tried ORD_next NN1_door CJC_but CJS_when PNP_they VVD_discovered DPS_our NN2_neighbours VDB_do VDB_n't VVI_use NN1-VVB_cocopeat PNP_they VVD_came AV0-AJ0_straight AVP_back AV0_again PUN_! 
+NP0_Helen NN1-VVB_Care NP0_Grays NP0_Essex VVG_Standing AVP_up PRP_for NN2_koi NN0_fish VVB-NN1_leave NN2_tadpoles PRP_in NN1_peace NN2_Gooseberries VBB_are AJ0-NN1_top PRF_of AT0_the NN2_crops CJS_when VVN_trained CJS-PRP_as NN2_standards VVB-NN1_End VVG-NN1_mowing NN1_misery PRP_with PRP_with NN1_gravel PRP_in AT0_the NN1_garden NP0_Koi NN1_controversy PNP_I VM0_would VVI_like TO0_to VVI_take NN1-VVB_issue PRP_with NP0_Geoffrey NP0_Smith PRP_about NN2_koi PRP_in AT0_the NN1_garden NN1_pond AJ0-NN1_living NN1_pond NP0_June PUN_. 
+NN1_Mine VDB_do VDB_n't VVI_eat NN2_tadpoles AV0_perhaps CJS_because PNP_I VVB_feed PNP_them AV0_regularly PUN_. 
+PRP_In NN1_fact PNP_we VHB_have VVN_watched AT0_the NN0_fish VVB_take NN2_tadpoles PRP_into DPS_their NN2_mouths AV0_then AV0_swiftly VVB_eject PNP_them PUN_. 
+CRD_One NN1_morning EX0_there VBD_were AV0_over NN2_tadpoles PRP_in DPS_my NN1_pond VBD_was VVG_bailing PNP_them AVP_out AV0_temporarily CJS_because AT0_the NN1_liner VHD_had AT0_a NN1_leak CJS_so PNP_I VBD_was VVG_counting PNP_them AV0_too PUN_! 
+PUN_. 
+PRP_During NP0_March EX0_there VBD_were AV0_at CRD_14 NN2_pairs PRF_of NN2_frogs PRP_plus NN2_toads NN1-VVB_spawn PUN_. 
+NN1_Dragon NN2-VVZ_flies CJC_and NN1_damsel NN2_flies VBB_are AJ0_regular NN2_visitors PUN_. 
+CJS_As PNP_we VVB_live AV0_only AT0_a AJ0_short NN1_distance PRP_from AT0_the NP0_Thames PNP_we VHB_have TO0_to VVI_keep AT0_a NN1-AJ0_net PRP_over AT0_the NN1_pond CJS_as CRD_two NN2_years AV0_ago PNP_we VVD_lost CRD_18 NN0_fish PRP_to AT0_a NN0_heron PUN_. 
+NN2_Magpies AV0_also VVB_use AJ0_marginal NN2_plants TO0_to VVI_watch PRP_for NN0_fish PUN_. 
+CJS_As PNP_you VM0_may VHI_have VVN_gathered PNP_I VBB_am AT0_a NN1_pond NN1_fanatic PUN_! 
+NP0_Mrs NP0_J NP0_Margetts NP0_Kennington NP0_Oxford VVG_Setting AT0_a AJ0_royal NN1_standard AVQ_Why VBZ_is NP0_Prince NP0_Charles NP0_'s NN1_support PRP_for AJ0_organic NN1_gardening CJC_and NN1-VVG_farming AV0_continually VVZ_ridicules PRP_by AT0_the AJ0_daily NN2_newspapers PUN_? 
+CJS_As PNP_we NN2_gardeners VVB_know AT0_a AV0_very AJ0_high NN1_percentage PRF_of NN2_gardens VBB_are AV0_now VVN_tended DT0_this NN1_way PUN_. 
+PNP_It PNP_'s AT0_no AJC_longer NN1_thought PRF_of AV0_as AJ0_cranky CJC_or CJS-PRP_as AT0_the NN1_press VVZ_tries TO0_to VVI_make AVP_out CJC_but PRP-CJS_as AT0_a NN1_way PRF_of VVG-NN1_helping TO0_to VVI_preserve DT0_this NN1_world PRP_by VVG-NN1_finding NN2_alternatives PRP_to NN2_chemicals CJC_and PUN_. 
+NP0_Mrs NP0_S NP0_R NP0_Monk NP0_Essex VVN_Born PRP_with AJ0_green NN2_fingers CRD_Two NN2_years AV0_ago DPS_our NN1_garden VBD_was AV0_just AT0_a AJ0_desolate NN1_area PRF_of NN1_rubble VVN_left PRP_by AT0_the NN2_builders AV0_now PNP_I VVB_dread AV0_ever VHG_having TO0_to VVI_leave PNP_it PUN_. 
+DPS_My NN1_son VHZ_has VVN_transformed PNP_it AV0_miraculously PRP_in DT0_such AT0_a AJ0_short NN1_time PRP_into AT0_a NN1_garden DTQ_which VBZ_is AT0_the NN1_envy PRF_of NN2_neighbours PUN_. 
+AJS_Best PRF_of DT0_all AT0_the NN1_wildlife VBZ_is AVP_back PUN_; NN2_ladybirds NN2_butterflies NN2_birds CJC_and NN2_bees AV0_even NN2_frogs VBB_are DT0_all TO0_to VBI_be VVN_seen PUN_. 
+PNP_He VVZ_seems TO0_to VHI_have AT0_a AJ0_natural NN1_ability DTQ_which VVZ_encourages NN2_plants TO0_to VVI_grow AV0_well PUN_. 
+VM0_Would PNP_I VBI_be AJ0_right PRP_in VVG_thinking CJT_that EX0_there AV0_really VBB_are NN0_people PRP_with NN2_fingers CJC_and VM0_should PNP_we VBI_be VDG_doing AV0_more TO0_to VVI_encourage DPS_our AJC_younger NN1_generation TO0_to VVI_take AT0_an AJ0_active NN1_interest PRP_in AT0_the NN1_garden PUN_? 
+NN1_Norma ITJ_Gee NP0_Basingstoke AV0_So AJ0_grateful PRP_for NN1_gravel PNP_I AV0_never VVD_thought PNP_I PNP_'d VVI_say CJT_that AT0_a NN1-VVB_sneak NN1_thief VHD_had VDN_done PNP_us AT0_a NN1_favour PUN_. 
+AV0_However VHG_having AV0_carelessly VVN_left AT0_the NN1_shed VVD-VVN_unlocked DPS_our NN1_mower CJC_and NN1_strimmer VBD_were VVN_stolen CJC_and CJS_as PNP_we VBB_are AV0_both VVG_getting AVP-PRP_on AV0_a PNP_we VVD_decided PNP_we VM0_would VVI_take AVP_up AT0_the NN1_lawn CJC_and VVD_put AVP-PRP_down NN1_gravel AV0_instead PUN_. 
+ITJ_Oh AT0_the NN1_bliss PRF_of PNP_it PUN_! 
+AT0_No DT0_more NN1_mowing CJC_and PNI_everything AV0_else PUN_. 
+AV0_Now PNP_I VVB_know DTQ_what NN1_gardening VBZ_is AJ0_fantastic PUN_! 
+NP0_Mrs NP0_Jean NP0_Wilson NP0_Sheffield NN2_Gooseberries VVB-NN1_shape AVP_up PNP_I VM0_would VVI_like TO0_to VVI_let AT0_the NN1_lady VVG_looking PRP_for AJ0_standard NN1_gooseberry NN2_plants NN1_Time NP0_June VVB_know AVQ_how PNP_I VVD_obtained PNP_mine PUN_. 
+PNP_I VVD_bought AT0_a AV0_really AJ0_cheap NN1_gooseberry NN1_bush PRP_from AT0_a AJ0_local NN1_store VVG_making AJ0_sure PNP_I VVD_picked PNI-CRD_one PRP_with AJ0_good AJ0-AV0_straight AJ0_uncut NN2_stems VVB_think DPS_its NN1_variety VBD_was PUN_. 
+PNP_I VVB_cut DT0_all CJC_but AT0_the AJS_strongest AJS_straightest NN1-VVB_stem AV0_away AV0_close PRP_to AT0_the NN1_base CJC_and VVD-VVN_planted AT0_the AJ0_resulting PRP_in AT0_a NN1_pot PRF_of AJ0_good NN1_compost PUN_. 
+PNP_I VVD_staked PNP_it CJC_and VVD_nipped AVP_out NN2-VVZ_sideshoots CJS_as PNP_they VVD_appeared AV0_exactly CJS_as PNI_one VM0_would CJS_when VVG_making AT0_a NN1_fuchsia PRP_into AT0_a NN1-AJ0_standard PUN_. 
+CJS_When PNP_it VVD_reached AV0_about NN0_3ft PNP_I VVD_pinched AVP_out AT0_the NN1_top TO0_to VVI_make PNP_it NN1-VVB_branch DTQ_which PNP_it VDD_did AV0_most AV0_satisfactorily PUN_. 
+PNP_It AV0_now VVZ_looks AV0_very AV0_well PRP_in AT0_a NN0_15in NN1_pot VVN-VVD_staked PRP_against NN1_wind NN1_damage CJC_and AV0_regularly VVN_fed CJC_and PRP_in DPS_its ORD_first NN1_year VVD_yielded AT0_a NN1_crop PRF_of AV0_more NN0_3lb PRF_of NN2_berries PUN_. 
+DT0_This NN1_year PNP_it VVZ_looks CJS_as PNP_I VM0_will VHI_have AV0_even AV0_more PUN_. 
+AT0_A AJ0_real NN1_success NN1_story VDB_do VDB_n't PNP_you VVI_agree PUN_? 
+VVB_Shelagh NP0_Williams NP0_Cheltenham NP0_Gloucestershire AV0_More AJ0_sweet NN1_pea NN2_wrinkles PRP_With AT0_the NN1_article PRP_in NP0_June PRP_on VVG_breaking NN1_dormancy PRP_in AJ0_sweet NN2_peas NN2_experiments VVN-VVD_conducted PRP-AVP_over AT0_a NN1_period PRF_of DT0_several NN2_years PRP_at AJ0_New NN1_College NP0_Pontefract AV0_certainly VVB_seem TO0_to VVI_bear AVP_out NP0_Anne NP0_Swithinbank NP0_'s NN2_remarks PUN_. 
+EX0_There VDZ_does AV0_indeed VVI_seem TO0_to VBI_be AJ0_little NN1_advantage PRP_in VVG_damaging AT0_the NN1_coat PRF_of AJ0_modern NN2_varieties PRF_of AJ0_sweet NN2_peas PUN_. 
+AV0_However PNP_it VHZ_has AV0_also VBN_been VVN_observed CJT_that DT0_those PRP_with AJ0_wrinkled UNC_testa VVB_appear TO0_to VBI_be AJC_slower TO0_to VVI_germinate CJC_and VM0_may AV0_well VVI_benefit PRP_from VVG-AJ0_piercing VVG-NN1_scratching CJC_or NN1_abrasion PUN_. 
+PNP_I VVB_hope DT0_this VM0_may PRF_of NN1_interest PRP_to AJ0_other NN2_gardeners PUN_. 
+NP0_Martin NP0_V NP0_Dawson NP0_Pontefract NP0_W NP0_Yorks NN2_Tips PRP_for NP0-NN1_Titchmarsh VM0_May PNP_I VVI_suggest CJT_that NP0_Alan NP0-NN1_Titchmarsh VDZ_does PNI_one CJC_or DT0_all PRF_of AT0_the AJ0_following AV0_in TO0_to VVI_fill DPS_his NN1_pool PRP_in NN1_summer AV0_anyway NP0_July PUN_. 
+CRD_1 VVZ_Plans AT0_a NN0_series PRF_of NN2_barbecues CRD_2 NN2_Plants NN2_quantities PRF_of NN2_plants NP0_Nigel NP0_Colborn NP0_August CRD_3 VVZ-NN2_Buys AJ0_new NN1_garden NN1_furniture PRP_with VVG-AJ0_relaxing PRP_in AT0_the NN1_sun PRP_in NN1_style CRD_4 VVZ_Cancels AJ0_foreign NN1_holiday PRP_in AJ0_expected AJ0_superb NN1_weather PRP_at NN1_home CRD_5 VVZ-NN2_Offers DPS_his NN1_garden PRP_to DPS_his AJ0_local NN1_theatre NN1_company PRP_for DPS_its NN1_summer NN1_season PRF_of AJ0_outdoor NN2_plays PUN_. 
+PRP_In DPS_my NN1_experience DT0_any NN1_combination PRF_of AT0_the AJ0_above VVZ_ensures AJ0_continuous NN1_rain PRP_for AT0_the ORD_next CRD_three NN2_months PUN_! 
+NP0_Angela NP0_Blanchard NP0_Keighley NP0_Yorks NN2_Pools VVB_win PNP_I VVD_enjoyed AT0_the NN2_articles PRP_on NN1_water NN1_gardening PRP_in AT0_the NP0_July NN1-VVB_issue PUN_. 
+CJS_When VVG_starting DPS_my NN1_pond PNP_I VBD_was VVN_overwhelmed PRP_by AT0_the NN1_generosity PRF_of NN2_friends CJC_and NN2_neighbours PRP_with DT0_all NN2_sorts PRF_of NN1_pond NN2_plants PUN_. 
+AV0_Now CRD_five NN2_years AV0_later DPS_my NN1_pond VBZ_is PRP_with NN2_plants CJC_and NN0_fish CJC_and PNP_I VBB_am AJ0_able TO0_to VVI_give AVP_out NN2_plants PRP_in NN1_turn PUN_. 
+DT0_Each NN1_spring VVZ_sees NN1_frog NN1_spawn VVN_followed PRP_by AJ0_tiny NN2_frogs AT0_a AJ0_tremendous NN1_bonus CJS_because DPS_my NN1_snail CJC_and NN1-VVB_slug NN1_problem VHZ_has VBN_been AV0_greatly VVN_reduced PRP_without AT0_a AJ0_single NN1_pellet PUN_! 
+NP0_Rob NP0_Perdue NP0_Hampshire NN1-VVB_Cup CJT_that NN2_cheers NN1_camellia PNP_We VHB_have AJ0_alkaline NN1_soil CJC_and AV0_so AT0_the NN1_growing PRF_of NN2_camellias NN2_rhododendrons NN1_pieris AV0_etc VBZ_is XX0_not AJ0_easy PUN_. 
+PRP_In DT0_these NN2_days PRF_of NN1_concern PRP_for AT0_the NN1_environment PNP_I VBB_am AJ0_unwilling TO0_to VVI_use NN1_peat PNP_I VDD_did VVI_try PNP_it DT0_some NN2_years AV0_ago CJC_and VVD_found DPS_my NN2_plants VVD-VVN_made DT0_little NN1_headway AV0_anyway PUN_. 
+AV0_However AJ0_cold NN1_tea CJC_and VVG_emptying AT0_the NN1_teapot PRP_around AT0_the NN2_plants VHZ_has AT0_a AJ0_tremendous NN1_effect PUN_; DPS_my NN1_camellia VHZ_has AJ0_glossy AJ0_new NN2_leaves CJC_and CRD_two AJ0_new NN2_flowers CJC_and AT0_a AJ0_tiny NN1_pieris VBZ_is AV0_also VVG_pushing DPS_its AJ0-NN1_red NN2_bracts AVP-PRP_through PUN_. 
+AT0_The NN1_trouble VBZ_is CJT_that PNP_I VBB_am XX0_not AT0_a CJC_and AV0_so DPS_my NN2_plants VVB_get AV0_only AT0_the AJ0_occasional NN1_treat CJS_when NN2_guests VVB-NN1_visit PUN_. 
+AV0_Perhaps PNP_we VM0_could VVI_instigate AT0_a AJ0_national NN1_drive TO0_to VVI_recycle PRP-AVP_on AT0_a AJ0_grand NN1_scale PRP_from NN2_restaurants NP0_BR AV0_etc CJC_and VVB_sell PNP_them PRP-CJS_as AT0_a NN1_peat NN1_alternative PUN_! 
+NP0_Joan NP0_Chapman NP0_Avon AT0_The NN1_editor VVZ_writes AT0_The AJ0_tannic NN1_acid PRP_in NN1_tea VM0_will AV0_certainly VVI_acidify DPS_your NN1_soil VVG_making PNP_it AV0_more AJ0_agreeable PRP_to NN2_plants PUN_. 
+AV0_However PNP_it VBZ_is AJ0_difficult TO0_to VVI_generate AJ0_sufficient NN2_supplies PUN_! 
+AVQ_Where TO0_to VVI_write VVB_Send DPS_your NN2_letters PRP_to PRP_Over AT0_the NN1_Fence NP0_BBC NN2_Gardeners NN2_' NN1_World NN1_Magazine NP0_Brunswick NP0_Place NP0_London UNC_N1 UNC_6DJ PUN_. 
+DT0_Each NN1_letter VVN_published VM0_will VVI_win DPS_its NN1_writer AT0_a AJ0_National NN1_Garden NN1_Gift NN1_Token AJ0_exchangeable PRP_at NN1_garden NN2_centres NN2_nurseries CJC_and NN2-VVZ_shops AV0_all PRP_over AT0_the NP0_UK CJC_and DT0_any NN1-NP0_Interflora NN1_shop PUN_. 
+NN1_Identity NN1_parade VVB_Name AT0_the NN2_plants CJC_and VVB_win AT0_a NN1_car PRP_In NP0_Renault CJC_and AT0_the AJ0_Horticultural NN2_Trades NN1_Association PNP_we VBB_are AJ0_proud TO0_to VVI_present AT0_the ORD_second NN1_instalment PRF_of DPS_our AJ0_fantastic NN1_competition TO0_to VVI_win AT0_a AJ0_stylish AJ0_new NP0_Renault NP0_Clio NP0-NN1_RT PUN_. 
+CJC_And EX0_there EX0_'s AT0_a AJ0_fabulous NN1_worth PRF_of NP0-NN1_HTA AJ0_National NN1_Garden NN1_Gift NN2_Tokens AJ0_redeemable PRP_at NN1_garden NN2_centres NN2_nurseries CJC_and NN1_garden NN2_shops TO0_to VBI_be VVN_shared PRP_among DPS_our AJ0_monthly NN2_prizewinners PUN_. 
+AVQ_How TO0_to VVI_enter VVN_Pictured AV0_here VBZ_is DPS_our ORD_second NN0_pair PRF_of AT0_the NN2_Plants PRF_of AT0_the NN1_Month PRP_for CRD_1991 PUN_. 
+PNP_We VBB_are VVG_publishing NN2_pictures PRF_of CRD_two PRF_of DT0_these PRP_in DT0_each NN1_issue PRP_until NP0_January CRD_1992 PUN_. 
+AT0_The ORD_first CRD_five NN2_entries VVN_drawn PRP_after NP0_September CRD_7 CRD_1991 TO0_to VVI_identify DT0_these CRD_two NN2_plants AV0_correctly VM0_will VVI_win PRF_of AJ0_National NN1_Garden NN1_Gift NN2_Tokens PUN_. 
+NN2-VVZ_Answers PRP_to DT0_each NN1_part PRF_of AT0_the NN1_competition VM0_will VBI_be VVN_printed CRD_two NN2_months NN2_' AJC_later PUN_. 
+CJC_But DT0_that DT0_'s XX0_not DT0_all PUN_. 
+VVB_Remember TO0_to VVI_keep AT0_a NN1_note PRF_of DPS_your NN2_answers CJS_because PRP_in DPS_our NP0_January VVB-NN1_issue PNP_we VM0_will VBI_be VVG_asking PNP_you TO0_to VVI_name DT0_all CRD_twelve PRF_of AT0_the CRD_1991 NN2_Plants PRF_of AT0_the NN1_Year PUN_. 
+CJS_If DPS_your AJ0_correct NN1_entry VBZ_is AT0_the ORD_first TO0_to VBI_be VVN_drawn PNP_you PNP_'ll VBI_be VVG_driving AV0_away AT0_a AJ0_fantastic AJ0_new NP0_Renault NP0_Clio NP0-NN1_RT VVD_voted NN1_Car PRF_of AT0_the NN1_Year PUN_! 
+VVB_Send DPS_your NN2_entries TO0_to VVI_arrive PRP_by NP0_September CRD_7 CRD_1991 PRP_on AT0_a NN1_postcard PRP_to NP0_BBC NN2_Gardeners NN2_' NN1_World NN1_Magazine NN1_Competition NN1_PO NN1_Box CRD_55 NP0_Wetherby NN1_West NP0_Yorkshire UNC_LS23 UNC_7ET PUN_. 
+TO0_To VVI_catch AVP_up PRP_with AT0_the ORD_first NN1_part PRF_of AT0_the NN1_competition AT0_the NP0_August NN1-VVB_issue VM0_can VBI_be VVN_obtained PRP_from DPS_our NN1_Back NN2-VVZ_Issues VVB-NN1_Service VVB_see UNC_p51 PUN_. 
+AT0_A NN1_pond VBZ_is AV0_soon VVN_established CJC_and VM0_will VVI_give NN2_years PRF_of NN1_pleasure AJ0_Favourite AJ0-NN1_flowering NN1_shrub PRP_for AJ0_early NN1_spring AJ0_vigorous CJC_and AJ0_hardy AJ0_conical NN1_conifer PRP_with AJ0_glaucous NN2_leaves NN1_Garden NN2_clippings PRP_In AT0_the ORD_first PRF_of AT0_a AJ0_new NN0_series NP0_Richard NP0_Jackson PRF_of NN1_Radio CRD_5 CRD_'s NN1_Morning NN1_Edition VVZ_looks PRP_at AT0_the AJ0_quirky NN1_side PRF_of NN1_gardening NN1_life AJ0_Sweet NN1_scent PRF_of NN1_success EX0_There VBB_are DT0_many AJ0_personal NN2_reasons PRP_for VVG_choosing AT0_a NN1_rose CJC_and PRP_for PNP_me NN1_scent VBZ_is CRD_one PRF_of AT0_the AV0_most AJ0_important PUN_. 
+PNP_I VVD_asked NP0_Roger NP0-NN1_Pawsey PRF_of NP0_Cants NP0_Mark NP0-NN1_Mattock NP0_Gareth NP0_Fryer NP0_Ken NN2_Grapes PRF_of AT0_the AJ0_Royal AJ0_National NN1_Rose NN1_Society CJC_and NP0_Robert NP0_Harkness CRD_five PRF_of AT0_the NN1_country NN1_'s AJ0_leading NN1_rose NN2_experts TO0_to VVI_name DPS_their AJ0_personal NN1_choice PRF_of AT0_the AV0_most AV0_highly AJ0-VVN_scented AJ0-NN1_hybrid NN2_teas CJC_and NN2_floribundas PUN_. 
+NN1_Top PRF_of AT0_the NN1_poll VVD_came NP0_Margaret NP0_Merril AT0_A AJ0_delicate AJ0-VVG_blushing AJ0_white AJ0_floribunda PUN_. 
+AJ0_Fragrant NN1_Cloud AT0_The AJ0_famous AJ0-NN1_hybrid NN1_tea NN1_Velvet NN1_Fragrance AT0_A AJ0_classic AJ0-NN1_hybrid NN1_tea PRP_with AJ0_rich AJ0_dark AJ0_velvety AJ0-NN1_crimson NN2_flowers PUN_. 
+NP0_Paul NP0_Shirville DT0_Another AJ0-NN1_hybrid NN1_tea AT0_a AJ0_subtle NN1_peach NN1-AJ0_pink PRP_with AJ0_romantic VVD-AJ0_ruffled NN2_petals PUN_. 
+NN1-NP0_Korresia AT0_A AJ0_floribunda PRP_with AJ0_bright NN2_petals PUN_. 
+TO0_To VVI_find DTQ_which PRF_of AT0_the CRD_five VBZ_is AT0_the AV0_most AJ0_fragrant PNP_we PNP_'ll VBI_be VVG_holding AT0_a NN1_studio PRP_on NN1_Morning NN1_Edition PRP_at PRP_on NP0_Saturday NP0_August CRD_31 PUN_. 
+AV0_So VDB_do VVI_listen AVP_in PUN_! 
+VVB-NN1_Show PRP_for AT0_the AJ0_smart CJC_and AJ0_crafty DT0_Some NN2_gardeners VM0_will VDI_do PNI_anything TO0_to VVI_win NN2_prizes VVN_filled PRP_with NN1_lead VVD-VVN_shot TO0_to VVI_add NN1_weight AV0_for CJC_but EX0_there EX0_'s CRD_one NN1-VVB_show CJS_where VVG-NN1_cheating VBZ_is AV0_positively VVN_encouraged PUN_. 
+PNP_It PNP_'s AT0_the AJ0-NN1_Alternative NN1_Flower NN1_Show VVD-VVN_held AV0_annually PRP_in AT0_the NN1_village NN1_hall PRP_at NP0-NN1_Beadness PRP_near NP0_Ainwick PRP_in NP0_Northumberland PUN_. 
+NN2_Categories VVB_include NP0_Superweed AV0_Too AJ0_Good PRP_For NN1_It AJ0-VVG_hanging NN2_baskets CJC_and AT0_The AV0_Most NN1_Potato PUN_. 
+AT0_The NN1_craft NN1_section VVZ_includes AJS_Heaviest NN2_Scones VBD_was VVN_used ORD_last NN1_year CJC_and AT0_The NN0_Fruit NN1_Cake PRP_With AT0_The DT0_Most NN0_Fruit PRP_At AT0_The NN1_Bottom PUN_. 
+DT0_This NN1_year NN1_'s NN1_show VVZ_takes NN1_place PRP_on NP0_Saturday CRD_31 NP0_August PRP_between CRD_2 CJC_and CJC_but VDB_do VDB_n't VVI_hang AVP_about PRP_at AV0_6pm AV0-AJ0_sharp AT0_the AV0_Over CRD_60 CRD_'s NN1_Karate CJC_and NN1-VVB_Flower VVG_Arranging NN1_Class VVZ_takes AVP_over CJC_or AV0_so PNP_I PNP_'m VVN_told PUN_. 
+PNP_I VVB_believe AT0_every NN1_word PUN_. 
+NN1_Strawberry NN1_taste PRP_on NN1_trial DT0_This NN1_month PNP_we PNP_'re VVG_starting AT0_a NN1_trial TO0_to VVI_discover AT0_the NN2_strawberries PUN_. 
+PNP_We PNP_'ve VVN_asked NP0_Ken NP0_Muir PRF_of AT0_the AJ0_famous NN0_fruit NN1_nursery TO0_to VVI_select CRD_eight NN2_varieties PRF_of NN1_strawberry PRP_for AT0_the NN1_test PUN_. 
+PNP_He PNP_'s VVN_chosen AJ0_Royal NN1_Sovereign NP0_Tenira DT0_own NN1_favourite NP0_Elsanta NP0_Cambridge NN1_Favourite NP0_Honeoye NP0_Korona NN1_Bounty CJC_and AT0_a AJ0_new NN1_variety NP0_Pegasus PUN_. 
+PNP_We PNP_'re VVG_looking PRP_for CRD_ten NN2_volunteers TO0_to VVI_take NN1_part DT0_each PRF_of PNQ_whom VM0_will VBI_be VVN_sent CRD_five NN2_plants PRF_of DT0_each PRF_of AT0_the CRD_eight NN2_varieties TO0_to VVI_grow PUN_. 
+AT0_The NN2_plants VM0_will VBI_be VVN_despatched PRP_at AT0_the NN1_end PRF_of NP0_September PRP_with AJ0_full AJ0_cultural NN2_instructions PUN_. 
+PNP_We PNP_'ll VVI_ask AT0_the NN2_testers ORD_next NN1_summer DTQ_which PRP_in DPS_their NN1_opinion VBB_are AT0_the PUN_. 
+CJS_If PNP_you PNP_'d VVI_like TO0_to VVI_take NN1_part VVB_write PRP_to NP0_Richard NP0_Jackson NN1_Morning NN1_Edition NP0_BBC NN1_Radio CRD_5 NN1-AJ0_Broadcasting NN1_House NP0_London UNC_W1A UNC_1AA VVG_stating AVQ_why PNP_you VM0_would VVI_like TO0_to VVI_participate PUN_. 
+PNP_We PNP_'ll VVI_read AVP_out AT0_the NN2_names PRF_of AT0_the AJ0_chosen NN2_testers PRP_on AT0_the NN1_programme PRP_on NP0_Saturday NP0_September CRD_21 PUN_. 
+PRP_In NN1_oddity EX0_There VBZ_is AV0_just CRD_one NN1_problem PRP_with DT0_that AJ0_essential NN1_book NN2_Gardens PRF_of NP0_England CJC_and NP0_Wales AJ0_Open PRP_to AT0_the NN1_Public CRD_1991 EX0_there VBB_are AV0_over NN2_gardens TO0_to VVI_choose PRP_from PUN_. 
+CJS_Since DT0_most AJ0-NN1_sound AJ0-NN1_idyllic PNP_I VVB_seek AVP_out DT0_those PRP_with DT0_that AJ0_little AJ0_extra PNI_something PUN_. 
+PNQ_Who VM0_could VVI_resist NN1_acre PRF_of AJ0_reclaimed NN1_wilderness VVN_populated PRP_by AT0_a NN1_variety PRF_of NN2_plants CJT_that VM0_can VVI_withstand AJ0_ignorant NN1_malpractice AV0_all VVN_planted PRP_by AT0_the AJ0_ad AJ0-NN1_topsy NN1_school PRF_of NN1_garden NN1_design PUN_? 
+CJC_Or AT0_the NN1_garden CJC_or AJ0_derelict AJ0-NN1_secret NN1_garden PUN_? 
+NP0_Sussex NN2_gardens VVB_offer AT0_a NN1_glimpse PRF_of NN0_sheep CJS_while NP0_Norfolk NN2_gardens VVB_go PNI_one AV0_better PRP_with AJ0_hydraulic NN2_rams PUN_! 
+CJS_If DPS_my NN1_wife VVZ_manages PRP_to NN1_elbow DPS_her NN1_way PRP_past PNP_me PRP_to AT0_the NN1_book ORD_first PNP_she PNP_'s AV0_immediately VVN-VVD_led AV0_astray PRP_by NN2_extras PRP_like NN1_use PRF_of AJ0_private NN1_beach NN1_swimming NN1_pool CJC_or PUN_. 
+CJC_And PNP_she PNP_'ll VVI_travel NN2_miles CJS_for NN2_teas VVB_Tune AVP_in PRP_to NP0_Richard NP0_Jackson PRP_on NN1_Radio CRD_5 CRD_'s NN1_Morning NN1_Edition AT0_every NP0_Saturday PRP_at PUN_. 
+NN2_gardeners NN2_' NN1_Diary NN1-VVB_Action PRP_for NP0_September AT0_The NN1_month PRF_of NN2_berries NN2_harvests CJC_and AT0_the NN1_autumn NN1_equinox PRP_with AT0_the NN2_days VVG_getting AV0_noticeably AJC_shorter CJC_and AT0_the NN2_nights AV0_longer CJC_and NN1_cooler AT0_The NN1_Flower NN1_Garden AV0_Even PRP-CJS_before NN1_autumn VVZ_sets AVP_in NN2_gardeners VVB_start VVG-NN1_thinking PRP_about NN1_spring CJC_and VVG_putting PRP-AVP_in NN2_bulbs PRP_for ORD_next NN1_year VVB-NN1_Plant NN2_bulbs PUN_. 
+VVB_Put PNP_them PRP_between NN2_shrubs CJC_and AJ0_herbaceous NN2_plants PRP_in NN2_beds CJC_and NN2_borders PUN_. 
+VVB_Choose NN1_dwarf NN2_varieties TO0_to VVI_plant PRP_in NN1_rock NN2_gardens PUN_. 
+VVB_Take AVP_out AJ0_faded NN2_annuals TO0_to VVI_make NN1_room PRP_for NN1_spring NN1_bedding NN2_plants PUN_. 
+PRP_In AJ0_mild NN2_areas CJC_and PRP_on AJ0-NN1_light NN2_soils VVB-NN1_start VVG_sowing AJ0_hardy NN2_annuals PUN_. 
+VVB-NN1_Plant AJ0-NN1_evergreen NN2_hedges PRP_between CJC_and PUN_. 
+NN1-VVB_Water NN2_shrubs AV0_regularly PRP_during AJ0_prolonged NN2_periods PRF_of AJ0_dry NN1_weather PUN_. 
+VVB-NN1_Plant AVP_out AJ0_hardy NN2_biennials PRP_such NN2_wallflowers PUN_. 
+VVB_Set PNP_them AVP_out PRP_with AT0_a NN1_trowel PRP-AVP_in AV0_well VVN-VVD_watered NN1_ground PUN_. 
+VVB_Harden AVP-PRP_off NN2_cuttings PRF_of AJ0_rooted NN2_pinks VVG_planting AVP_out AT0_the AJS_strongest NN1_growing PRP_in AT0_the NN1_batch PUN_. 
+VVB_Continue TO0_to CJC_or VVI_cut AVP_down AJ0-VVD_spent NN2_flowers PRF_of AJ0_herbaceous NN2_plants CJS_where AJ0_necessary PUN_. 
+VVB-NN1_Feed NN2_dahlias AV0_fortnightly PRP_with AT0_a AJ0_liquid NN1_fertiliser TO0_to VVI_maintain NN2_blooms CJC_and VVB_build AVP_up AJ0_stout NN2_tubers PUN_. 
+VVB_Ensure NN2_plants VBB_are AV0_well VVN_staked PUN_. 
+VVB-NN1_Control NN1_mildew PRP_on NP0_Michaelmas NN2_daisies CJC_and NN2_roses PRP_with PUN_. 
+VVB_Ensure NN2_plants VBB_are AV0_well VVN_watered PRP_in AJ0_dry NN1_weather PUN_. 
+NN2_Roses VM0_may AV0_still VVI_need TO0_to VBI_be VVN_sprayed PRP_against AJ0_black NN1_spot CJC_and NN1-VVB_rust PUN_. 

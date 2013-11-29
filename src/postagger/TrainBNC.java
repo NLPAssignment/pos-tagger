@@ -218,7 +218,7 @@ public class TrainBNC
 		TrainBNC t = new TrainBNC();
 		//t.readCorpus("minicorpus/dummy.txt");
 		//t.storeProbabilities("model_dummy.txt");
-		t.readCorpus("BNC_Cleaned/FullCorpus-Cleaned2.txt");
+		t.readCorpus("BNC_Cleaned/FullCorpus-Cleaned.txt");
 		t.storeProbabilities("model_BNC_full.txt");
 		t.printPriorStateCounts();
 		t.printTransitionCounts();
